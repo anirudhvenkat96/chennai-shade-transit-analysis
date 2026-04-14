@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chennai Transit Shade Analysis</title>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.css" rel="stylesheet" />
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: #f0ede8;
+      overflow: hidden;
+    }
+
+    #map { position: absolute; inset: 0; }
+
+    /* ── Shared panel style ───────────────────────────────────── */
+    .panel {
+      position: absolute;
+      background: #ffffff;
+      border-radius: 10px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.12), 0 1px 3px rgba(0,0,0,0.08);
+      padding: 14px 16px;
+      z-index: 10;
+    }
+
+    /* ── Title panel — top left ───────────────────────────────── */
+    #title-panel {
+      top: 16px;
+      left: 16px;
+      max-width: 310px;
+    }
+
+    #title-panel h1 {
+      font-size: 15px;
+      font-weight: 700;
+      color: #1a1a1a;
+      letter-spacing: -0.2px;
+      line-height: 1.3;
+    }
+
+    #title-panel p {
+      font-size: 12px;
+      color: #666;
+      margin-top: 4px;
+      line-height: 1.5;
+    }
+
+    /* ── Legend panel — bottom left ──────────────────────────── */
+    #legend-panel {
+      bottom: 36px;
+      left: 16px;
+      min-width: 200px;
+    }
+
+    #legend-panel .legend-title {
+      font-size: 11px;
+      font-weight: 600;
+      color: #444;
+      text-transform: uppercase;
+      letter-spacing: 0.6px;
+      margin-bottom: 8px;
+    }
+
+    .gradient-bar {
+      height: 10px;
+      border-radius: 5px;
+      background: linear-gradient(to right, #cc3300, #e87020, #f0b429, #78b56a, #2d7a3a);
+      margin-bottom: 4px;
+    }
+
+    .gradient-labels {
+      display: flex;
+      justify-content: space-between;
+      font-size: 10px;
+      color: #888;
+    }
+
+    .legend-divider {
+      border: none;
+      border-top: 1px solid #ebebeb;
+      margin: 10px 0;
+    }
+
+    .transit-badges {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 9px 3px 7px;
+      border-radius: 20px;
+      color: #fff;
+      letter-spacing: 0.3px;
+      text-transform: uppercase;
+    }
+
+    .badge-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.7);
+    }
+
+    .badge-metro { background: #1a6fd4; }
+    .badge-mrts  { background: #7b2d8b; }
+    .badge-bus   { background: #e8720c; }
+
+    /* ── Info panel — top right ───────────────────────────────── */
+    #info-panel {
+      top: 16px;
+      right: 16px;
+      width: 230px;
+      opacity: 0;
+      transition: opacity 0.25s ease;
+      pointer-events: none;
+    }
+
+    #info-panel.visible { opacity: 1; }
+
+    #info-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    #info-name {
+      font-size: 14px;
+      font-weight: 700;
+      color: #1a1a1a;
+      line-height: 1.3;
+      flex: 1;
+    }
+
+    #info-badge {
+      font-size: 10px;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 20px;
+      color: #fff;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .info-label {
+      font-size: 10px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: #999;
+      margin-bottom: 3px;
+    }
+
+    #info-score-row {
+      display: flex;
+      align-items: baseline;
+      gap: 6px;
+      margin-bottom: 6px;
+    }
+
+    #info-score {
+      font-size: 22px;
+      font-weight: 800;
+      line-height: 1;
+    }
+
+    #info-ndvi {
+      font-size: 11px;
+      color: #888;
+    }
+
+    .info-bar-track {
+      height: 7px;
+      background: #f0f0f0;
+      border-radius: 4px;
+      overflow: hidden;
+      margin-bottom: 8px;
+    }
+
+    #info-bar-fill {
+      height: 100%;
+      border-radius: 4px;
+      transition: width 0.4s ease, background 0.4s ease;
+    }
+
+    #info-desc {
+      font-size: 11px;
+      color: #666;
+      line-height: 1.5;
+    }
+
+    /* ── Mapbox popup overrides ───────────────────────────────── */
+    .mapboxgl-popup-content {
+      padding: 14px 16px;
+      border-radius: 10px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+      min-width: 185px;
+      font-family: 'Inter', system-ui, sans-serif;
+    }
+
+    .mapboxgl-popup-tip { display: none; }
+
+    .popup-name {
+      font-size: 15px;
+      font-weight: 700;
+      color: #1a1a1a;
+      margin-bottom: 7px;
+      line-height: 1.3;
+    }
+
+    .popup-badge {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 700;
+      padding: 2px 9px;
+      border-radius: 20px;
+      color: #fff;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 10px;
+    }
+
+    .popup-score-label {
+      font-size: 10px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: #999;
+      margin-bottom: 3px;
+    }
+
+    .popup-score-value {
+      font-size: 21px;
+      font-weight: 800;
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+
+    .popup-bar-track {
+      background: #f0f0f0;
+      border-radius: 4px;
+      height: 6px;
+      overflow: hidden;
+      margin-bottom: 9px;
+    }
+
+    .popup-bar-fill {
+      height: 100%;
+      border-radius: 4px;
+    }
+
+    .popup-hint {
+      font-size: 10px;
+      color: #aaa;
+      font-style: italic;
+    }
+
+    /* ── Zoom hint ────────────────────────────────────────────── */
+    #zoom-hint {
+      position: absolute;
+      bottom: 36px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(0,0,0,0.65);
+      color: #fff;
+      font-size: 12px;
+      padding: 6px 16px;
+      border-radius: 20px;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      z-index: 10;
+      white-space: nowrap;
+    }
+
+    #zoom-hint.visible { opacity: 1; }
+  </style>
+</head>
+<body>
+
+  <div id="map"></div>
+
+  <!-- Title -->
+  <div class="panel" id="title-panel">
+    <h1>Chennai Transit Shade Analysis</h1>
+    <p>Walkable tree canopy within 600m of transit stops</p>
+  </div>
+
+  <!-- Legend -->
+  <div class="panel" id="legend-panel">
+    <div class="legend-title">Shade Score</div>
+    <div class="gradient-bar"></div>
+    <div class="gradient-labels">
+      <span>0%</span>
+      <span>25%</span>
+      <span>50%</span>
+      <span>75%</span>
+      <span>100%</span>
+    </div>
+    <hr class="legend-divider">
+    <div class="transit-badges">
+      <div class="badge badge-metro"><div class="badge-dot"></div>Metro</div>
+      <div class="badge badge-mrts"><div class="badge-dot"></div>MRTS</div>
+      <div class="badge badge-bus"><div class="badge-dot"></div>Bus</div>
+    </div>
+  </div>
+
+  <!-- Info panel -->
+  <div class="panel" id="info-panel">
+    <div id="info-header">
+      <div id="info-name">—</div>
+      <div id="info-badge"></div>
+    </div>
+    <div class="info-label">Shade Score</div>
+    <div id="info-score-row">
+      <span id="info-score">—</span>
+      <span id="info-ndvi"></span>
+    </div>
+    <div class="info-bar-track">
+      <div id="info-bar-fill" style="width:0%"></div>
+    </div>
+    <div id="info-desc">Hover a station to explore</div>
+  </div>
+
+  <!-- Zoom hint -->
+  <div id="zoom-hint">Zoom in past level 12 to see street networks</div>
+
+  <script>
+    mapboxgl.accessToken = 'YOUR_MAPBOX_TOKEN';
+
+    // ── Helpers ────────────────────────────────────────────────────────────
+    function shadeColor(score) {
+      if (score <= 15) return '#cc3300';
+      if (score <= 30) return '#e87020';
+      if (score <= 50) return '#f0b429';
+      if (score <= 70) return '#78b56a';
+      return '#2d7a3a';
+    }
+
+    function typeColor(type) {
+      if (type === 'metro') return '#1a6fd4';
+      if (type === 'mrts')  return '#7b2d8b';
+      return '#e8720c';
+    }
+
+    // ── Map init ───────────────────────────────────────────────────────────
+    const map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/mapbox/light-v11',
+      center: [80.2707, 13.0827],
+      zoom: 11,
+      pitchWithRotate: false,
+    });
+
+    map.addControl(new mapboxgl.NavigationControl({ showCompass: false }), 'bottom-right');
+
+    // ── State ──────────────────────────────────────────────────────────────
+    const networkCache  = {};
+    let activeKey       = null;
+    let fadeTimeout     = null;
+
+    const popup = new mapboxgl.Popup({
+      closeButton: false,
+      closeOnClick: false,
+      offset: [0, -4],
+      maxWidth: '240px',
+    });
+
+    // ── Network helpers ────────────────────────────────────────────────────
+    async function fetchNetwork(stopId, transitType) {
+      const key = `${stopId}_${transitType}`;
+      if (networkCache[key]) return networkCache[key];
+      const res = await fetch(`outputs/networks/${key}.geojson`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      networkCache[key] = data;
+      return data;
+    }
+
+    function removeNetworkLayer(immediate = false) {
+      clearTimeout(fadeTimeout);
+      if (immediate) {
+        if (map.getLayer('network-lines')) map.removeLayer('network-lines');
+        if (map.getSource('network-src'))  map.removeSource('network-src');
+        return;
+      }
+      if (map.getLayer('network-lines')) {
+        map.setPaintProperty('network-lines', 'line-opacity', 0);
+        fadeTimeout = setTimeout(() => {
+          if (map.getLayer('network-lines')) map.removeLayer('network-lines');
+          if (map.getSource('network-src'))  map.removeSource('network-src');
+        }, 350);
+      }
+    }
+
+    async function showNetworkForFeature(feature) {
+      if (map.getZoom() < 12) {
+        document.getElementById('zoom-hint').classList.add('visible');
+        setTimeout(() => document.getElementById('zoom-hint').classList.remove('visible'), 2500);
+        return;
+      }
+
+      const { stop_id, transit_type } = feature.properties;
+      const key = `${stop_id}_${transit_type}`;
+      if (activeKey === key) return;
+      activeKey = key;
+
+      // Remove existing immediately before adding new
+      clearTimeout(fadeTimeout);
+      if (map.getLayer('network-lines')) map.removeLayer('network-lines');
+      if (map.getSource('network-src'))  map.removeSource('network-src');
+
+      try {
+        const data = await fetchNetwork(stop_id, transit_type);
+        if (activeKey !== key) return; // hovered away during fetch
+
+        // Count segments for info panel
+        const total  = data.features.length;
+        const shaded = data.features.filter(f => f.properties.is_shaded).length;
+        updateInfoPanel(feature.properties, shaded, total);
+
+        map.addSource('network-src', { type: 'geojson', data });
+
+        map.addLayer({
+          id: 'network-lines',
+          type: 'line',
+          source: 'network-src',
+          paint: {
+            'line-color': ['get', 'segment_colour'],
+            'line-width': 3,
+            'line-opacity': 0,
+            'line-opacity-transition': { duration: 300, delay: 0 },
+          },
+        }, 'stations-layer'); // insert beneath station dots
+
+        // Trigger fade-in on next frame
+        requestAnimationFrame(() => {
+          if (map.getLayer('network-lines')) {
+            map.setPaintProperty('network-lines', 'line-opacity', 1);
+          }
+        });
+
+      } catch (err) {
+        console.warn('Network load failed:', err);
+      }
+    }
+
+    // ── Info panel ─────────────────────────────────────────────────────────
+    function updateInfoPanel(props, shaded, total) {
+      const { stop_name, transit_type, shade_score, mean_ndvi } = props;
+      const scolor = shadeColor(shade_score);
+      const tcolor = typeColor(transit_type);
+
+      document.getElementById('info-name').textContent  = stop_name;
+      document.getElementById('info-badge').textContent = transit_type.toUpperCase();
+      document.getElementById('info-badge').style.background = tcolor;
+      document.getElementById('info-score').textContent = `${parseFloat(shade_score).toFixed(1)}%`;
+      document.getElementById('info-score').style.color = scolor;
+      document.getElementById('info-bar-fill').style.width      = `${shade_score}%`;
+      document.getElementById('info-bar-fill').style.background = scolor;
+      document.getElementById('info-ndvi').textContent =
+        mean_ndvi != null ? `NDVI ${parseFloat(mean_ndvi).toFixed(3)}` : '';
+
+      if (shaded !== undefined && total !== undefined) {
+        document.getElementById('info-desc').textContent =
+          `${shaded} of ${total} street segments have tree canopy`;
+      } else {
+        document.getElementById('info-desc').textContent = 'Loading street network…';
+      }
+
+      document.getElementById('info-panel').classList.add('visible');
+    }
+
+    function clearInfoPanel() {
+      document.getElementById('info-panel').classList.remove('visible');
+    }
+
+    // ── Popup builder ──────────────────────────────────────────────────────
+    function buildPopupHTML(props) {
+      const { stop_name, transit_type, shade_score } = props;
+      const scolor = shadeColor(shade_score);
+      const tcolor = typeColor(transit_type);
+      const score  = parseFloat(shade_score).toFixed(1);
+
+      return `
+        <div class="popup-name">${stop_name}</div>
+        <span class="popup-badge" style="background:${tcolor}">${transit_type}</span>
+        <div class="popup-score-label">Shade Score</div>
+        <div class="popup-score-value" style="color:${scolor}">${score}%</div>
+        <div class="popup-bar-track">
+          <div class="popup-bar-fill" style="width:${shade_score}%;background:${scolor}"></div>
+        </div>
+        <div class="popup-hint">hover to see walking network</div>
+      `;
+    }
+
+    // ── Map load ───────────────────────────────────────────────────────────
+    map.on('load', () => {
+
+      // Station source
+      map.addSource('stations', {
+        type: 'geojson',
+        data: 'outputs/stations.geojson',
+      });
+
+      // Station layer
+      map.addLayer({
+        id: 'stations-layer',
+        type: 'circle',
+        source: 'stations',
+        paint: {
+          'circle-radius': [
+            'interpolate', ['linear'], ['zoom'],
+            10, 6,
+            14, 10,
+          ],
+          'circle-color': [
+            'step', ['get', 'shade_score'],
+            '#cc3300', 15,
+            '#e87020', 30,
+            '#f0b429', 50,
+            '#78b56a', 70,
+            '#2d7a3a',
+          ],
+          'circle-stroke-width': 2,
+          'circle-stroke-color': '#ffffff',
+        },
+      });
+
+      // ── Hover: show popup + network ──────────────────────────────────────
+      map.on('mouseenter', 'stations-layer', async (e) => {
+        map.getCanvas().style.cursor = 'pointer';
+        const feature = e.features[0];
+        const coords  = feature.geometry.coordinates.slice();
+
+        popup
+          .setLngLat(coords)
+          .setHTML(buildPopupHTML(feature.properties))
+          .addTo(map);
+
+        // Show info panel immediately (network count updates after fetch)
+        updateInfoPanel(feature.properties, undefined, undefined);
+
+        await showNetworkForFeature(feature);
+      });
+
+      map.on('mouseleave', 'stations-layer', () => {
+        map.getCanvas().style.cursor = '';
+        popup.remove();
+        activeKey = null;
+        clearInfoPanel();
+        removeNetworkLayer();
+      });
+    });
+
+    // ── Handle zoom changes ────────────────────────────────────────────────
+    map.on('zoom', () => {
+      if (map.getZoom() < 12 && map.getLayer('network-lines')) {
+        removeNetworkLayer(true);
+        activeKey = null;
+      }
+    });
+  </script>
+</body>
+</html>
+```

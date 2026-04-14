@@ -1,0 +1,501 @@
+SQLDATE,Actor1Name,Actor2Name,EventCode,ActionGeo_FullName,ActionGeo_Lat,ActionGeo_Long,GoldsteinScale,NumMentions,SourceURL
+20150519,CHENNAI,TRAVELLER,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,3,https://www.ft.lk/front-page/Turyaa-Chennai-marks-decade-of-hospitality/44-776502
+20150129,TYRE,,061,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.4,32,http://www.business-standard.com/article/economy-policy/indian-tyres-to-lose-out-on-exports-on-natural-rubber-import-curbs-116012900983_1.html
+20150129,CHENNAI,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.examiner.org/newsx/ap-news/60881-india-cities-get-funds-to-tackle-woes-from-sewage-to-traffic
+20150129,TYRE,,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,20,http://www.business-standard.com/article/economy-policy/indian-tyres-to-lose-out-on-exports-on-natural-rubber-import-curbs-116012900983_1.html
+20150111,MUSLIM,HINDU,075,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.thenational.ae/opinion/comment/indias-strength-lies-in-unity-and-religious-freedom
+20150102,POLICE,,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,10,http://chandigarh.amarujala.com/news/politics-chd/punjab-political-leaders-statement-on-pathankot-terror-attack-hindi-news/
+20150102,,COLLEGE,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.thehindu.com/features/cinema/deeraj-vaidy-on-jil-jung-juk/article8058365.ece
+20151215,FRANCE,THE UN,044,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.5,4,http://www.thehindu.com/thread/reflections/article16805333.ece
+20151215,CHENNAI,THE UN,044,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.5,6,http://www.thehindu.com/thread/reflections/article16805333.ece
+20151215,SAUDI,SAUDI ARABIA,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,2,http://www.thehindu.com/news/cities/Madurai/Woman-seeks-husband%E2%80%99s-release-from-Saudi-jail-again/article16807669.ece
+20151215,SAUDI,DAMMAM,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,3,http://www.thehindu.com/news/cities/Madurai/Woman-seeks-husband%E2%80%99s-release-from-Saudi-jail-again/article16807669.ece
+20150128,,CHENNAI,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,4,http://www.thehindu.com/news/cities/Coimbatore/nhai-waits-for-feasibility-report-on-widening-nh-209/article6939132.ece
+20150128,CHENNAI,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,4,http://www.thehindu.com/news/cities/Coimbatore/nhai-waits-for-feasibility-report-on-widening-nh-209/article6939132.ece
+20150103,THE POOR,,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,5,http://www.business-standard.com/article/opinion/sunita-narain-year-2015-a-trailer-of-our-future-116010300671_1.html
+20150103,THE POOR,TELEVISION,174,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,5,http://www.business-standard.com/article/opinion/sunita-narain-year-2015-a-trailer-of-our-future-116010300671_1.html
+20150131,,MUMBAI,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,3,http://www.business-standard.com/article/pti-stories/8th-india-art-fair-draws-to-a-close-116013100522_1.html
+20150131,COMPANY,,192,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.5,5,http://www.rushlane.com/two-wheeler-industry-february-sales-12145952.html
+20150101,NEW DELHI,,172,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,4,http://www.tarunbharat.com/?p=319248
+20150101,NEW DELHI,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,2,http://www.tarunbharat.com/?p=319248
+20150210,,GOVERNMENT,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,2,http://www.newindianexpress.com/cities/chennai/Will-Pvt-Buses-join-Race-with-MTC/2015/03/12/article2708777.ece
+20150210,GOVERNMENT,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,2,http://www.newindianexpress.com/cities/chennai/Will-Pvt-Buses-join-Race-with-MTC/2015/03/12/article2708777.ece
+20150207,,ABU DHABI,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,8,http://gulfnews.com/business/economy/india-is-doing-all-to-remove-hurdles-in-doing-business-says-envoy-1.1667737
+20150119,PILGRIM,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,5,http://www.thehindu.com/news/national/tamil-nadu/katchatheevu-festival-govt-staff-teachers-face-difficulty/article8122370.ece
+20150119,,PILGRIM,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,5,http://www.thehindu.com/news/national/tamil-nadu/katchatheevu-festival-govt-staff-teachers-face-difficulty/article8122370.ece
+20150116,,CHENNAI,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,4,http://www.ibtimes.co.in/wipro-q3-earnings-focus-after-upbeat-infosys-results-663476
+20150116,CHENNAI,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,4,http://www.ibtimes.co.in/wipro-q3-earnings-focus-after-upbeat-infosys-results-663476
+20150104,POLICE,,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,5,http://www.newindianexpress.com/cities/chennai/Ayanavaram-Murder-Case-Prime-Suspect-Among-Six-Arrested/2016/01/04/article3210279.ece
+20150108,,TOURIST,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.business-standard.com/article/pti-stories/foreign-tourist-arrivals-grow-by-4-4-pc-in-2015-116010800772_1.html
+20150108,TOURIST,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.business-standard.com/article/pti-stories/foreign-tourist-arrivals-grow-by-4-4-pc-in-2015-116010800772_1.html
+20150105,CORPORATION,,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,5,http://www.thehindubusinessline.com/money-and-banking/general-insurance-premiums-may-not-go-up-this-year/article8069408.ece
+20150212,,UNIVERSITY,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,2,http://www.firstpost.com/india/they-have-blood-on-their-hands-ex-du-student-slams-university-for-mass-failure-in-sociology-exam-2623944.html
+20150211,,COMPANIES,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,4,http://blogs.timesofindia.indiatimes.com/tracking-indian-communities/haryana-woos-tn-investors-with-zero-corruption-promise/
+20150211,INVESTOR,TAMIL NADU,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,4,http://blogs.timesofindia.indiatimes.com/tracking-indian-communities/haryana-woos-tn-investors-with-zero-corruption-promise/
+20150121,ANDHRA PRADESH,CONGRESS,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,2,http://www.siasat.com/news/air-india-official-assault-case-ysrc-mp-mithun-reddys-bail-plea-dismissed-mithun-reddy-905009/
+20150121,ANDHRA PRADESH,CONGRESS,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://economictimes.indiatimes.com/news/politics-and-nation/ysrc-mps-bail-plea-dismissed-in-air-india-official-assault-case/articleshow/50665680.cms
+20150113,NEW DELHI,,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://news.chennaionline.com/business/Host-of-factors-reversed-India-s-factory-output-growth--Experts/2e0e0688-38c1-4423-b0e7-918fd888f296.col
+20150201,HYUNDAI,,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,5,https://www.rushlane.com/hyundai-india-domestic-sales-jan-2016-12181445.html
+20150214,GOVERNMENT,CHENNAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,4,http://www.thehindu.com/news/cities/chennai/dont-rush-to-court-with-appeals-hc/article6998280.ece
+20150214,GOVERNMENT,CORPORATION,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,4,http://www.thehindu.com/news/cities/chennai/dont-rush-to-court-with-appeals-hc/article6998280.ece
+20150214,GOVERNMENT,CHENNAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,2,http://www.thehindu.com/news/cities/chennai/dont-rush-to-court-with-appeals-hc/article6998280.ece
+20150215,,MADRAS,120,"Chennai, Tamil Nadu, India",13.08329963684082,80.2833023071289,-4.0,16,http://www.siasat.com/news/22-transgenders-get-si-appointment-orders-tn-917771/
+20150215,,TAMIL,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.telugupeople.com/news/article_00095903_What_Superstar_undergoes_surgery.asp
+20150215,TAMIL,TELUGU,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://sakshipost.com/index.php/entertainment/news-gossip/74395-this-is-pawan-kalyans-new-brother.html
+20150216,,JAPAN,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://daijiworld.com/news/news_disp.asp?n_id=380924
+20150216,,JAPAN,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://daijiworld.com/news/news_disp.asp?n_id=380924
+20150216,,MADRAS,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,4,http://newstodaynet.com/tamil-nadu/22-transgenders-set-see-other-side-law
+20150216,ACTOR,,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,4,http://www.firstpost.com/bollywood/will-shah-rukh-khan-get-shah-rukh-khan-hangover-fan-2159899.html
+20150117,PAKISTAN,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,4,http://tass.ru/en/politics/850202
+20150117,ANDHRA PRADESH,PARTY LEADER,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,3,http://www.mangalorean.com/175626-2/
+20150117,ANDHRA PRADESH,POLICE,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,2,http://www.india.com/news/india/mp-p-mithun-reddy-booked-for-assaulting-air-india-official-arrested-868608/
+20150117,ANDHRA PRADESH,PARTY LEADER,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,4,http://www.business-standard.com/article/pti-stories/mp-booked-for-assaulting-ai-official-arrested-116011700089_1.html
+20150117,ANDHRA PRADESH,POLICE,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,4,http://www.business-standard.com/article/pti-stories/mp-booked-for-assaulting-ai-official-arrested-116011700089_1.html
+20150117,CONGRESS,,016,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,30,http://www.business-standard.com/article/news-ani/ysr-congress-mp-sent-to-judicial-custody-for-assaulting-ai-manager-update-116011700194_1.html
+20150117,CHENNAI,PAKISTAN,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,4,http://tass.ru/en/politics/850202
+20150117,CONGRESS,ANDHRA PRADESH,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,1,http://www.newindianexpress.com/cities/chennai/YSR-Congress-MP-Arrested-for-Assaulting-AI-Staff/2016/01/18/article3231849.ece
+20150117,CONGRESS,ANDHRA PRADESH,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,2,http://www.newindianexpress.com/cities/chennai/YSR-Congress-MP-Arrested-for-Assaulting-AI-Staff/2016/01/18/article3231849.ece
+20150117,ANDHRA PRADESH,POLICE,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,5,http://www.deccanherald.com/content/523539/ysrc-mp-booked-assaulting-ai.html
+20150117,ANDHRA PRADESH,PARTY LEADER,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,5,http://www.deccanherald.com/content/523539/ysrc-mp-booked-assaulting-ai.html
+20150107,HIGH COURT,AUTHORITIES,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.thehindu.com/news/cities/chennai/hc-dismisses-plea-for-more-reserved-wards-in-chennai/article8074688.ece
+20150107,CORPORATION,DOCTOR,031,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://timesofindia.indiatimes.com/city/chennai/140-corporation-health-centres-understaffed/articleshow/50489282.cms
+20150107,DOCTOR,CORPORATION,031,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://timesofindia.indiatimes.com/city/chennai/140-corporation-health-centres-understaffed/articleshow/50489282.cms
+20150209,COMPANY,GOOGLE,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.bhaskar.com/news-ht/INT-sundar-pichai-become-one-of-the-highestpaid-executives-of-a-publicly-traded-comp-5244414-PHO.html
+20150209,GOOGLE,COMPANY,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.bhaskar.com/news-ht/INT-sundar-pichai-become-one-of-the-highestpaid-executives-of-a-publicly-traded-comp-5244414-PHO.html
+20150106,ACTOR,,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://fitnhit.com/news/pavada-malayalam-movie-trailer-released/52304/
+20150106,CHIEF MINISTER,WORKER,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.business-standard.com/article/pti-stories/aiadmk-kicks-off-achievement-rallies-across-tn-116010600764_1.html
+20150120,,SYRIAN,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://indiatoday.intoday.in/story/exclusive-intel-on-track-of-missing-syrians-in-india/1/574811.html
+20150120,STUDENT,,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,20,http://www.newindianexpress.com/nation/Social-Justice-Minister-Seeks-Report-on-Dalit-Students-Suicide/2016/01/20/article3236183.ece
+20150109,GOVERNMENT,WRITER,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.dnaindia.com/india/report-ustad-amjad-ali-khan-says-intolerance-exists-everywhere-and-not-just-india-2163824
+20150109,WRITER,GOVERNMENT,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.dnaindia.com/india/report-ustad-amjad-ali-khan-says-intolerance-exists-everywhere-and-not-just-india-2163824
+20150205,COIMBATORE,GANG,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://timesofindia.indiatimes.com/city/coimbatore/Four-member-gang-detained-for-murder-of-Chennai-bizman/articleshow/46481445.cms
+20150205,COIMBATORE,GANG,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://timesofindia.indiatimes.com/city/coimbatore/Four-member-gang-detained-for-murder-of-Chennai-bizman/articleshow/46481445.cms
+20150122,TAMIL,,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,5,http://daijiworld.com/news/news_disp.asp?n_id=298585
+20150118,CHENNAI,TAMIL,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,1,http://www.newindianexpress.com/entertainment/tamil/Aishwarya-Rajesh-Looking-Forward-to-Busy-Year-With-Nine-Films-in-Kitty/2016/01/18/article3232717.ece
+20150124,UNIVERSITY,CHENNAI,160,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,1,http://www.ndtv.com/opinion/like-rahul-gandhi-modi-government-mishandles-student-protests-1269275
+20151023,PRESIDENT,BUSINESS,186,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,5,http://www.business-standard.com/article/companies/fujifilm-to-expand-medical-equipment-business-in-india-116102200598_1.html
+20150127,,CHENNAI,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.gulte.com/movienews/46364/Reason-Behind-Charmi-Crying-At-IIFA
+20150127,ENTREPRENEUR,STUDENT,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://economictimes.indiatimes.com/small-biz/startups/startup-narrative-has-to-evolve-beyond-gurgaon-bangalore/articleshow/50739028.cms
+20150127,SERVICEMEN,BACKPACKER,172,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,6,http://www.mirror.co.uk/news/uk-news/british-pirate-hunter-jailed-india-7253184
+20150127,BACKPACKER,SERVICEMEN,172,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,6,http://www.mirror.co.uk/news/uk-news/british-pirate-hunter-jailed-india-7253184
+20150127,GOOGLE,,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,4,http://www.dailymail.co.uk/news/article-3418821/Google-whistleblower-gave-100-000-emails-HMRC-slams-tech-giant-s-trivial-130m-tax-bill-PM-s-ex-aide-Steve-Hilton-admits-big-businesses-law.html
+20150127,GOOGLE,,0842,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,4,http://www.dailymail.co.uk/news/article-3418821/Google-whistleblower-gave-100-000-emails-HMRC-slams-tech-giant-s-trivial-130m-tax-bill-PM-s-ex-aide-Steve-Hilton-admits-big-businesses-law.html
+20151223,AUSTRALIA,SRI LANKA,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://www.theroar.com.au/2016/12/23/australia-needs-pace-india-not-spin/
+20151223,SRI LANKA,AUSTRALIA,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://www.theroar.com.au/2016/12/23/australia-needs-pace-india-not-spin/
+20151223,SRI LANKA,AUSTRALIA,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://www.theroar.com.au/2016/12/23/australia-needs-pace-india-not-spin/
+20151223,AUSTRALIA,SRI LANKA,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://www.theroar.com.au/2016/12/23/australia-needs-pace-india-not-spin/
+20150825,CORPORATION,,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,5,https://www.thehindu.com/news/cities/Coimbatore/coimbatore-corporation-urged-to-deploy-mechanical-sweepers-on-major-roads-for-efficient-cleaning/article69964591.ece
+20150202,PUNE,,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,4,http://yourstory.com/2016/02/funding-roundup-january-2016/
+20150531,LAWYER,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,1,https://www.financialexpress.com/india-news/induslaw-cms-tie-up-as-india-allows-entry-of-foreign-firms/3860871/
+20150531,LAWYER,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,4,https://www.financialexpress.com/india-news/induslaw-cms-tie-up-as-india-allows-entry-of-foreign-firms/3860871/
+20151022,GOVERNOR,NATIONAL PRESS,143,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,10,http://echoofindia.com/port-blair-preparatory-meeting-celebration-national-press-day-117171
+20151022,GOVERNOR,NATIONAL PRESS,163,"Chennai, Tamil Nadu, India",13.0833,80.2833,-8.0,6,http://echoofindia.com/port-blair-preparatory-meeting-celebration-national-press-day-117171
+20151022,VILLAGER,,140,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,10,http://www.newindianexpress.com/states/tamil_nadu/EXCLUSIVE-As-This-Village-Becomes-Infamous-for-Its-Kidney-Failures-Officials-Blame-Villagers/2015/10/23/article3092729.ece
+20151022,VILLAGER,,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,10,http://www.newindianexpress.com/states/tamil_nadu/EXCLUSIVE-As-This-Village-Becomes-Infamous-for-Its-Kidney-Failures-Officials-Blame-Villagers/2015/10/23/article3092729.ece
+20151022,FARMER,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,5,http://www.newindianexpress.com/states/tamil_nadu/EXCLUSIVE-As-This-Village-Becomes-Infamous-for-Its-Kidney-Failures-Officials-Blame-Villagers/2015/10/23/article3092729.ece
+20151022,VILLAGER,,133,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.8,10,http://www.newindianexpress.com/states/tamil_nadu/EXCLUSIVE-As-This-Village-Becomes-Infamous-for-Its-Kidney-Failures-Officials-Blame-Villagers/2015/10/23/article3092729.ece
+20151021,,FRANCE,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,8,http://bharatpress.com/2015/10/20/meru-partners-taxis-g7-to-run-taxis-on-common-app/
+20151021,,COURT OFFICIAL,080,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.0,10,http://timesofindia.indiatimes.com/city/chennai/Another-bomb-hoax-in-high-court-as-set-of-alarm-clocks-sparks-panic/articleshow/49474605.cms
+20151021,,ARMY,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.firstpost.com/world/despite-kayanis-peace-talk-a-siachen-deal-is-a-bad-idea-285297.html
+20151021,,COMPANY,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,5,http://thetechportal.in/2015/10/21/freshdesk-entices-linkedin-india-md-nishant-rao-to-join-in-as-its-new-coo/
+20151021,,TRAVELLER,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.thehindu.com/news/cities/Thiruvananthapuram/dynamic-pricing-in-railways-turning-out-to-be-a-big-hit/article7786803.ece
+20151021,,MALAYSIA,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.msn.com/en-my/news/other/rajinikanth-gets-the-ultimate-star-treatment-in-malaysia/ar-BBndINm
+20151021,CHENNAI,CHIEF MINISTER,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.thehindu.com/news/national/tamil-nadu/municipality-allots-rs-1-cr-to-purchase-land-for-bus-stand/article7786466.ece
+20151021,POLICE,COURT OFFICIAL,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,5,http://timesofindia.indiatimes.com/city/chennai/Another-bomb-hoax-in-high-court-as-set-of-alarm-clocks-sparks-panic/articleshow/49474605.cms
+20151021,COMMUNITY,INDUSTRY,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,5,http://www.newindianexpress.com/cities/chennai/Tap-the-Online-Forum-to-Accelerate-Your-Career/2015/10/21/article3089902.ece
+20151021,CHENNAI,CHIEF MINISTER,018,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.newindianexpress.com/states/tamil_nadu/Must-Read/2015/10/21/article3090354.ece
+20151021,FRANCE,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,8,http://bharatpress.com/2015/10/20/meru-partners-taxis-g7-to-run-taxis-on-common-app/
+20151021,TRAVELLER,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.thehindu.com/news/cities/Thiruvananthapuram/dynamic-pricing-in-railways-turning-out-to-be-a-big-hit/article7786803.ece
+20151021,POLICE,,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,5,http://timesofindia.indiatimes.com/city/chennai/Another-bomb-hoax-in-high-court-as-set-of-alarm-clocks-sparks-panic/articleshow/49474605.cms
+20151021,GOVERNMENT,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://timesofindia.indiatimes.com/business/india-business/CBDT-tests-project-to-go-paperless/articleshow/49475620.cms
+20151021,CHIEF MINISTER,,018,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,4,http://www.newindianexpress.com/states/tamil_nadu/Must-Read/2015/10/21/article3090354.ece
+20151021,CHENNAI,,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,2,http://www.thehindu.com/news/cities/chennai/now-carpooling-for-longdistance-travel/article7786226.ece
+20151021,LENOVO,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,1,http://telecom.economictimes.indiatimes.com/news/devices/chinese-handset-vendor-lenovo-to-launch-three-smartphones-this-festive-season/49476256
+20151021,LENOVO,,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://telecom.economictimes.indiatimes.com/news/devices/chinese-handset-vendor-lenovo-to-launch-three-smartphones-this-festive-season/49476256
+20151021,COMPANY,,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,5,http://thetechportal.in/2015/10/21/freshdesk-entices-linkedin-india-md-nishant-rao-to-join-in-as-its-new-coo/
+20151220,,DUBAI,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.thenational.ae/uae/vaccines-advised-for-indians-and-filipinos-in-uae-before-travelling-home
+20151220,,UNITED KINGDOM,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,5,http://timesofindia.indiatimes.com/city/chennai/Brain-drain-in-reverse/articleshow/50251723.cms
+20151220,,BUSINESS,026,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,4,http://www.bangaloremirror.com/columns/sunday-read/Daddy-Dearest/articleshow/50248660.cms
+20151220,,IAEA,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,2,http://twocircles.net/2012sep18/dormant_undersea_volcano_near_kalpakkam_atomic_plant.html
+20151220,,CHENNAI,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,12,http://www.skyscrapercity.com/showthread.php?s=147f86cbd1335369b97f0975e7629d86&p=129450563
+20151220,,DOCTOR,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,4,http://www.thehindu.com/news/cities/chennai/worry-over-disease-outbreak-after-two-die-in-as-many-days/article8009609.ece
+20151220,,BANK,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://eprahaar.in/jaitley-asks-banks-to-grant-loans-on-mission-mode-in-rain-ravaged-tn/
+20151220,,TAMIL NADU,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,4,http://article.wn.com/view/2015/12/20/Chennai_floods_a_climate_change_wakeup_call_for_world/
+20151220,,TAMIL NADU,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,8,http://article.wn.com/view/2015/12/20/Chennai_floods_a_climate_change_wakeup_call_for_world/
+20151220,,HOSPITAL,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.thehindu.com/news/cities/chennai/worry-over-disease-outbreak-after-two-die-in-as-many-days/article8009609.ece
+20151220,,GOVERNMENT,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,2,http://news.niticentral.com/2015/12/20/aituc-meet-in-feb-to-mull-impact-of-proposed-anti-labour-laws/
+20151220,,CHENNAI,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,4,http://timesofindia.indiatimes.com/city/noida/Police-recommends-UP-to-hand-over-Noida-techie-murder-case-to-CBI/articleshow/50256813.cms
+20151220,,MINIST,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,4,http://www.thehindu.com/news/cities/chennai/14000-small-medium-units-suffer-losses/article8009640.ece
+20151220,,CABINET,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.thehindu.com/news/cities/Tiruchirapalli/make-tiruchi-second-capital-of-tn-ramadoss/article8009623.ece
+20151220,,TOURIST,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,14,http://www.skyscrapercity.com/showthread.php?s=b6177918aee1a15103f7913d15566a98&p=129444707
+20151220,,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.kesq.com/news/chennai-floods-a-wakeup-call-for-world/37048068
+20151220,,PARLIAMENT,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.deccanchronicle.com/151220/nation-current-affairs/article/lgbt-protests-dismissal-bill-sectio-377-sans-discussion
+20151220,,PRESIDIUM,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://timesofindia.indiatimes.com/city/chennai/Jayalalithaa-reconstitutes-AIADMK-executive-committee-72-out-of-77-newly-appointed-members-are-women/articleshow/50253900.cms
+20151220,,VILLAGE,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.thehindu.com/news/national/tamil-nadu/flood-pushes-film-release-dates-to-jan/article8009852.ece
+20151220,,UNITED STATES,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,3,http://www.thehindu.com/news/national/for-chennai-with-love-diaspora-raises-millions-in-relief/article8011169.ece
+20151220,BRUNEI,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://timesofindia.indiatimes.com/city/chennai/Brain-drain-in-reverse/articleshow/50251723.cms
+20151220,UNITED STATES,TAMIL,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,1,http://www.thehindu.com/news/national/for-chennai-with-love-diaspora-raises-millions-in-relief/article8011169.ece
+20151220,CHENNAI,BRUNEI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,4,http://timesofindia.indiatimes.com/city/chennai/Brain-drain-in-reverse/articleshow/50251723.cms
+20151220,BRUNEI,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,3,http://timesofindia.indiatimes.com/city/chennai/Brain-drain-in-reverse/articleshow/50251723.cms
+20151220,CONSTABLE,MADURAI,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.nyoooz.com/madurai/297190/drug-peddler-who-jumped-parole-held
+20151220,MEDIA,CHIEF MINISTER,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,9,http://www.newindianexpress.com/states/tamil_nadu/Loan-Restructuring-Keyword-During-Jaitleys-Visit/2015/12/21/article3188330.ece
+20151220,CHENNAI,MEDIA,128,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,6,http://www.thehindu.com/news/cities/Madurai/many-are-accidental-cyber-crime-offenders-says-ig/article8009825.ece
+20151220,CHENNAI,HEALTH OFFICIAL,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,2,http://www.thehindu.com/news/cities/chennai/worry-over-disease-outbreak-after-two-die-in-as-many-days/article8009609.ece
+20151220,HYUNDAI,JOURNALIST,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://newspim.com/news/view/20151220000047
+20151220,TAMIL,UNITED STATES,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,2,http://www.thehindu.com/news/national/for-chennai-with-love-diaspora-raises-millions-in-relief/article8011169.ece
+20151220,POLICE,FIRE DEPARTMENT,166,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.0,10,http://www.spokesman.com/stories/2015/dec/03/more-rains-coming-as-south-india-grapples-with-mas/
+20151220,PRIME MINISTER,TAMIL NADU,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,2,http://www.business-standard.com/article/news-ani/financial-institutions-extra-activated-to-help-flood-ravaged-tn-jaitley-115122000248_1.html
+20151220,SUPREME COURT,GOVERNMENT,025,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.3,4,http://news.webindia123.com/news/Articles/India/20151220/2751558.html
+20151220,GOVERNMENT,WORKER,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,5,http://www.business-standard.com/article/pti-stories/aituc-meet-in-feb-to-mull-impact-of-proposed-anti-labour-laws-115122000478_1.html
+20151220,COMMUNITY,CHENNAI,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,12,http://news.webindia123.com/news/Articles/India/20151220/2751558.html
+20151220,POLICE,BRAZIL,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,10,http://www.newkerala.com/news/2015/fullnews-165447.html
+20151220,MEDIA,STUDENT,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.thehindu.com/news/cities/Madurai/many-are-accidental-cyber-crime-offenders-says-ig/article8009825.ece
+20151220,CHENNAI,BANK,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.dnaindia.com/money/report-chennai-floods-arun-jaitley-asks-banks-to-grant-loans-on-mission-mode-to-people-2157797
+20151220,GOVERNMENT,UNIONS,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,2,http://www.business-standard.com/article/pti-stories/aituc-meet-in-feb-to-mull-impact-of-proposed-anti-labour-laws-115122000478_1.html
+20151220,GOVERNMENT,TAMIL NADU,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,1,http://news.niticentral.com/2015/12/20/aituc-meet-in-feb-to-mull-impact-of-proposed-anti-labour-laws/
+20151220,BANK,CHIEF MINISTER,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,2,http://nanonews.org/uae-firm-waives-transfer-fees-to-chennai-flood-victims/
+20151220,TELUGU,MALAYALAM,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,5,http://www.thehindu.com/news/national/for-chennai-with-love-diaspora-raises-millions-in-relief/article8011169.ece
+20151220,KARNATAKA,TAMIL NADU,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,1,http://nanonews.org/uae-firm-waives-transfer-fees-to-chennai-flood-victims/
+20151220,MINIST,VENKAIAH NAIDU,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,8,http://www.telegraphindia.com/1151220/jsp/nation/story_59442.jsp
+20151220,VENKAIAH NAIDU,MINIST,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.telegraphindia.com/1151220/jsp/nation/story_59442.jsp
+20151220,BUSINESS,DELHI,026,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,3,http://www.bangaloremirror.com/columns/sunday-read/Daddy-Dearest/articleshow/50248660.cms
+20151220,SUPREME COURT,PARLIAMENT,160,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://www.business-standard.com/article/news-ani/lgbt-community-stage-protests-in-chennai-bengaluru-115122000400_1.html
+20151220,KARNATAKA,CHIEF MINISTER,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,2,http://nanonews.org/uae-firm-waives-transfer-fees-to-chennai-flood-victims/
+20151220,CONSTABLE,CHENNAI,0841,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,3,http://www.nyoooz.com/madurai/297190/drug-peddler-who-jumped-parole-held
+20151220,MYANMAR,VILLAGE,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,4,http://www.thehindu.com/news/national/tamil-nadu/flood-pushes-film-release-dates-to-jan/article8009852.ece
+20151220,MEDIA,SINGAPORE,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,5,http://www.thehindu.com/todays-paper/tp-features/tp-cinemaplus/censored-in-singapore/article8008972.ece
+20151220,ANDHRA PRADESH,ACTOR,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.ndtv.com/telangana-news/veteran-telugu-actor-ranganath-found-dead-at-hyderabad-house-1256966
+20151220,CONSTABLE,MADURAI,0841,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,5,http://www.nyoooz.com/madurai/297190/drug-peddler-who-jumped-parole-held
+20151220,CHENNAI,BANK,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://www.dnaindia.com/money/report-chennai-floods-fm-arun-jaitley-asks-banks-to-wipe-the-tears-from-every-eye-2157750
+20151220,MEDIA,INSPECTOR GENERAL,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,10,http://www.thehindu.com/news/cities/Madurai/many-are-accidental-cyber-crime-offenders-says-ig/article8009825.ece
+20151220,DELHI,HIGH COURT,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,1,http://www.ameripublications.com/political-vendetta-coming-out-of-pmo-says-rahul/56348
+20151220,ARMY,FIRE DEPARTMENT,166,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.0,6,http://www.spokesman.com/stories/2015/dec/03/more-rains-coming-as-south-india-grapples-with-mas/
+20151220,CHENNAI,HOSPITAL,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.newindianexpress.com/cities/chennai/Eye-Hospital-Aims-to-Spread-Wings/2015/12/21/article3188345.ece
+20151220,POLICE,ACTOR,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://errabus.com/article/reason-behind-actor-ranganath-s-suicide
+20151220,BRAZIL,POLICE,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,4,http://www.business-standard.com/article/news-ians/chennaiyin-fc-s-elano-booked-for-assaulting-fc-goa-co-owner-115122100019_1.html
+20151220,HINDU,MUSLIM,080,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.0,10,http://www.indiantelevision.com/television/tv-channels/news-broadcasting/media-during-deluge-in-chennai-151221
+20151220,POLICE,ACTOR,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://errabus.com/article/reason-behind-actor-ranganath-s-suicide
+20151220,CHENNAI,MINIST,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.thehindu.com/news/cities/chennai/14000-small-medium-units-suffer-losses/article8009640.ece
+20151220,CORPORATION,HEALTH OFFICIAL,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,8,http://www.thehindu.com/news/cities/chennai/worry-over-disease-outbreak-after-two-die-in-as-many-days/article8009609.ece
+20151220,COMMUNITY,LAWMAKER,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,8,http://news.webindia123.com/news/Articles/India/20151220/2751558.html
+20151220,TAMIL NADU,UNIONS,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,3,http://www.business-standard.com/article/pti-stories/aituc-meet-in-feb-to-mull-impact-of-proposed-anti-labour-laws-115122000478_1.html
+20151220,POLITICIAN,GOVERNMENT,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,5,http://www.thehindubusinessline.com/portfolio/macro-view/dont-cop-out-of-good-governance/article8011000.ece
+20151220,SINGAPORE,MEDIA,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,5,http://www.thehindu.com/todays-paper/tp-features/tp-cinemaplus/censored-in-singapore/article8008972.ece
+20151220,POLICE,BRAZIL,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,2,http://nripress.com/elano-arrested-in-assault-case-released-on-bail/
+20151220,GOVERNMENT,CHENNAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,https://in.newshub.org/changi-airport-s-plan-awaits-government-clearance-19913312.html
+20151220,DUBAI,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.thenational.ae/uae/vaccines-advised-for-indians-and-filipinos-in-uae-before-travelling-home
+20151220,PARIS,,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,1,http://indianexpress.com/article/opinion/columns/art-of-a-climate-deal/
+20151220,DELHI,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,1,http://www.ameripublications.com/political-vendetta-coming-out-of-pmo-says-rahul/56348
+20151220,HIGH COURT,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,1,http://www.ameripublications.com/political-vendetta-coming-out-of-pmo-says-rahul/56348
+20151220,NEW DELHI,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,5,http://economictimes.indiatimes.com/industry/indl-goods/svs/construction/office-space-absorption-up-17-per-cent-in-2015-at-35-million-sq-ft-jll-india/articleshow/50253730.cms
+20151220,GOVERNMENT,,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,2,http://www.kesq.com/news/chennai-floods-a-wakeup-call-for-world/37048068
+20151220,LAW ENFORCEMENT AGENCIES,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.thehindu.com/news/cities/Madurai/many-are-accidental-cyber-crime-offenders-says-ig/article8009825.ece
+20151220,POLICE,,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.thehindu.com/news/national/tamil-nadu/bus-rams-ambulance-carrying-mans-body-wife-son-killed/article8009605.ece
+20151220,FARMER,,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.thehindu.com/news/cities/chennai/increase-aid-for-affected-farmers-vijayakant/article8009633.ece
+20151220,MINIST OF CIVIL AVIATION,,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,5,http://nanonews.org/uae-firm-waives-transfer-fees-to-chennai-flood-victims/
+20151220,THE POOR,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.telegraphindia.com/1151221/jsp/bihar/story_59514.jsp
+20151220,COMPANY,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.manipalworldnews.com/2015/12/20/mahindra-enters-petrol-segment-with-kuv100-launch-on-jan-15/
+20151220,PRESIDIUM,,026,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://timesofindia.indiatimes.com/city/chennai/Jayalalithaa-reconstitutes-AIADMK-executive-committee-72-out-of-77-newly-appointed-members-are-women/articleshow/50253900.cms
+20151220,ACTOR,,080,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.0,20,http://deccanchronicle.com/151220/nation-current-affairs/article/actor-ranganath-ends-life-leaves-all-his-wealth-maid
+20151220,PARLIAMENT,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.deccanchronicle.com/151220/nation-current-affairs/article/lgbt-protests-dismissal-bill-sectio-377-sans-discussion
+20151220,BANK,,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,5,http://www.netindia123.com/showdetails.asp?id=2751710&n_date=20151220&cat=India
+20151220,PRESIDIUM,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://timesofindia.indiatimes.com/city/chennai/Jayalalithaa-reconstitutes-AIADMK-executive-committee-72-out-of-77-newly-appointed-members-are-women/articleshow/50253900.cms
+20151220,POLICE,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://timesofindia.indiatimes.com/city/noida/Police-recommends-UP-to-hand-over-Noida-techie-murder-case-to-CBI/articleshow/50256813.cms
+20151220,CHENNAI,,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,2,http://www.business-standard.com/article/pti-stories/indians-prefer-chennai-koh-samui-for-year-end-holiday-plans-115122000104_1.html
+20151220,ACTOR,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.newindianexpress.com/states/tamil_nadu/Vijayakant-Sets-Terms-for-Assembly-Poll-Pact-with-BJP/2015/12/21/article3188347.ece
+20151220,COMPANY,,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.skyscrapercity.com/showthread.php?s=b6177918aee1a15103f7913d15566a98&p=129444707
+20151220,MEDIA,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.spokesman.com/stories/2015/dec/03/more-rains-coming-as-south-india-grapples-with-mas/
+20151220,BUSINESS,,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.outlookindia.com/news/article/jaitley-asks-banks-to-grant-loans-on-mission-mode-in-tn/924422
+20151220,LAW ENFORCEMENT AGENCIES,,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.thehindu.com/news/cities/Madurai/many-are-accidental-cyber-crime-offenders-says-ig/article8009825.ece
+20151220,STUDENT,,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.thehindu.com/features/education/chennai-floods-resilience-rebuilding-and-recovery/article8008300.ece
+20151220,POLICE,,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://www.mangalam.com/latest-news/389110
+20151220,CABINET,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.thehindu.com/news/cities/Tiruchirapalli/make-tiruchi-second-capital-of-tn-ramadoss/article8009623.ece
+20151220,PARIS,,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,1,http://indianexpress.com/article/opinion/columns/art-of-a-climate-deal/
+20151220,CHENNAI,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,4,http://timesofindia.indiatimes.com/city/noida/Police-recommends-UP-to-hand-over-Noida-techie-murder-case-to-CBI/articleshow/50256813.cms
+20151220,RESIDENTS,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.dnaindia.com/mumbai/report-thanekars-get-sankara-nethralaya-as-new-year-gift-2157602
+20151220,HONDA,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,8,http://timesofindia.indiatimes.com/city/meerut/Let-CBI-probe-Noida-techie-murder-case-Cops-tell-state-govt/articleshow/50259345.cms
+20151220,CHENNAI,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,4,http://www.kesq.com/news/chennai-floods-a-wakeup-call-for-world/37048068
+20151220,SIMBU,,016,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://newstodaynet.com/chennai/city-cops-file-fir-beep-song-row
+20151220,CHENNAI,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.kesq.com/news/chennai-floods-a-wakeup-call-for-world/37048068
+20151220,TRAVELLER,,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,3,http://www.skyscrapercity.com/showthread.php?s=147f86cbd1335369b97f0975e7629d86&p=129458337
+20151220,CHENNAI,,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://iusbpreface.com/2015/12/20/former-oklahoma-police-officer-found-guilty-of-multiple-62605/
+20151220,CORPORATION,,0311,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,7,http://news.webindia123.com/news/Articles/India/20151220/2751553.html
+20151220,CHENNAI,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,1,http://www.newindianexpress.com/states/tamil_nadu/Loan-Restructuring-Keyword-During-Jaitleys-Visit/2015/12/21/article3188330.ece
+20151220,REPRESENTATIVES,,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.channel4000.com/news/chennai-floods-a-wakeup-call-for-world/37048068
+20151220,CHENNAI,,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,1,http://www.thehindu.com/news/national/for-chennai-with-love-diaspora-raises-millions-in-relief/article8011169.ece
+20151220,THE POPE,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,1,http://www.patheos.com/blogs/catholicnews/2015/12/pope-francis-lets-feel-the-wonder-of-meeting-jesus-christ-the-great-gift-of-god/
+20151220,CHENNAI,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,12,http://www.skyscrapercity.com/showthread.php?s=147f86cbd1335369b97f0975e7629d86&p=129450563
+20151220,CHICAGO,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,7,http://www.thehindu.com/news/national/for-chennai-with-love-diaspora-raises-millions-in-relief/article8011169.ece
+20151220,HOSPITAL,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,14,http://www.thehindu.com/news/cities/chennai/worry-over-disease-outbreak-after-two-die-in-as-many-days/article8009609.ece
+20151220,POLICE,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,2,http://timesofindia.indiatimes.com/city/noida/Police-recommends-UP-to-hand-over-Noida-techie-murder-case-to-CBI/articleshow/50256813.cms
+20151220,GOVERNMENT,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,2,https://in.newshub.org/changi-airport-s-plan-awaits-government-clearance-19913312.html
+20151220,TAMIL NADU,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,2,http://www.janmabhumidaily.com/news360636
+20150829,TAIWAN,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,1,http://www.business-standard.com/article/pti-stories/malaysian-style-bubble-tea-launched-in-coimbatore-115082900616_1.html
+20150829,KERALA,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,5,http://www.thehindu.com/news/cities/chennai/ona-chandas-crop-up-across-chennai/article7593163.ece
+20150829,SCHOOL,,041,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,25,http://www.thehindu.com/news/national/telangana/pay-a-tribute-to-your-teacher/article7593202.ece
+20150829,POLICE,,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,9,http://www.newindianexpress.com/states/tamil_nadu/Victims-Were-Innocent-Men-Without-Gang-Affiliations/2015/08/29/article2999237.ece
+20150829,SERVICEMEN,,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,10,http://www.thehindu.com/news/cities/chennai/exservicemen-seek-quick-implementation-of-orop/article7592600.ece
+20150829,SCHOOL,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,75,http://www.thehindu.com/news/cities/chennai/a-tribute-to-teachers/article7592580.ece
+20150829,HIGH COURT,,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://www.thehindu.com/news/cities/chennai/hc-declines-to-relax-elangovans-bail-conditions/article7592638.ece
+20150829,CHENNAI,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,3,http://www.newindianexpress.com/magazine/Tuberculosis-Evolving-Epidemic/2015/08/29/article2999648.ece
+20150829,NEW DELHI,,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,3,http://www.northeasttoday.in/shillong-set-to-swing-at-bacardi-nh7-weekender/
+20150829,GOVERNMENT,,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://timesofindia.indiatimes.com/city/visakhapatnam/Andhra-Pradesh-plans-authority-to-fast-track-VCIC/articleshow/48717310.cms
+20150829,UNIVERSITY,,050,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.5,5,http://www.thestatesman.com/news/science-and-tech/new-biodegrable-plastic-material-developed-final-trials-on/85928.html
+20150829,CHENNAI,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,4,http://www.newindianexpress.com/states/tamil_nadu/Ministers-Officials-Inspect-Preparedness-at-GIM-Venue/2015/08/29/article2998912.ece
+20150829,JUDGE,,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,5,http://www.newindianexpress.com/cities/chennai/No-relief-on-conditions-of-Elangovans-Bail/2015/08/29/article2998933.ece
+20150829,CORPORATION,,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.thehindu.com/features/downtown/they-just-dont-care-about-us-korattur-residents/article7593799.ece
+20150829,GOVERNMENT OFFICIAL,,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,2,http://www.newindianexpress.com/states/tamil_nadu/Ministers-Officials-Inspect-Preparedness-at-GIM-Venue/2015/08/29/article2998912.ece
+20150829,TAMIL,,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://english.manoramaonline.com/entertainment/music/simbu-to-sing-for-rahman-in-gautham-menons-next-.html
+20150829,PAKISTAN,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,2,http://inextlive.jagran.com/9-bollywood-movies-banned-in-pakistan-201508290010
+20150829,TRADER,,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,20,http://www.thehindu.com/news/cities/Madurai/ecommerce-sale-bites-into-sale/article7593021.ece
+20150829,POLICE,,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.theshillongtimes.com/2015/08/29/national-nuggets-741/
+20150829,ACTOR,,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.canindia.com/2015/08/salman-khan-to-release-teaser-of-nagarjunas-sons-film/
+20150829,GOVERNMENT,,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,5,http://timesofindia.indiatimes.com/city/visakhapatnam/Andhra-Pradesh-plans-authority-to-fast-track-VCIC/articleshow/48717310.cms
+20150829,BUSINESS,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.straitstimes.com/singapore/my-nephew-killed-my-sis-but-i-cant-blame-him
+20150829,POLICE,,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.newindianexpress.com/states/tamil_nadu/Victims-Were-Innocent-Men-Without-Gang-Affiliations/2015/08/29/article2999237.ece
+20150829,DOCTOR,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,4,http://www.newindianexpress.com/magazine/Tuberculosis-Evolving-Epidemic/2015/08/29/article2999648.ece
+20150829,TRADER,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,20,http://www.thehindu.com/news/cities/Madurai/ecommerce-sale-bites-into-sale/article7593021.ece
+20150829,INDUSTRY,,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,2,http://www.thehindu.com/news/cities/chennai/special-purpose-vehicle-fund-to-promote-indian-food-industry/article7592631.ece
+20150829,TAMIL,POLAND,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,2,http://tvmoviessite.com/latest-tamil-movies-news/
+20150829,LOS ANGELES,WEBSITE,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,3,http://www.gulte.com/movienews/41775/Media-killed-Arnold-Schwarzenegger
+20150829,ADMINISTRATION,COMPANY,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,2,http://www.freepressjournal.in/never-been-involved-in-administration-of-ziqitza-karthi-chidambaram/
+20150829,TAMIL,POLAND,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,6,http://tvmoviessite.com/latest-tamil-movies-news/
+20150829,STUDENT,CIVIL SERVICE,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://www.skyscrapercity.com/showthread.php?s=19fa3014d33d2697adfb82220b182339&p=126671153
+20150829,SECRETARIAT,ACTIVIST,172,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,4,http://www.deepikaglobal.com/ENG3_sub.asp?ccode=ENG3&newscode=84491
+20150829,STATE MINIST,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.newindianexpress.com/states/tamil_nadu/Ministers-Officials-Inspect-Preparedness-at-GIM-Venue/2015/08/29/article2998912.ece
+20150829,HIGH COURT,CONGRESS,081,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.0,10,http://www.thehindu.com/news/cities/chennai/hc-declines-to-relax-elangovans-bail-conditions/article7592638.ece
+20150829,UNIVERSITY,SCIENTIST,050,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.5,2,http://www.thestatesman.com/news/science-and-tech/new-biodegrable-plastic-material-developed-final-trials-on/85928.html
+20150829,MADRAS,CONGRESS,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,4,http://www.thehindu.com/news/cities/chennai/hc-declines-to-relax-elangovans-bail-conditions/article7592638.ece
+20150829,COLLEGE,POLICEMEN,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,10,http://www.newindianexpress.com/cities/chennai/Cabbie-Found-Dead-in-Locked-Car/2015/08/29/article2998903.ece
+20150829,VILLAGER,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.afternoondc.in/city-news/healing-touch-mother-marys-11-day-velankanni-feast-begins-today-at-uttan/article_147588
+20150829,SIMBU,TAMIL,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,5,http://english.manoramaonline.com/entertainment/music/simbu-to-sing-for-rahman-in-gautham-menons-next-.html
+20150829,LOS ANGELES,WEBSITE,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,2,http://www.gulte.com/movienews/41775/Media-killed-Arnold-Schwarzenegger
+20150829,CHENNAI,VILLAGER,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.afternoondc.in/city-news/healing-touch-mother-marys-11-day-velankanni-feast-begins-today-at-uttan/article_147588
+20150829,POLITICAL PARTIES,ELECTION COMMISSION,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.newindianexpress.com/cities/chennai/TN-Parties-Shy-Away-From-RTI/2015/08/29/article2998938.ece1
+20150829,CHENNAI,STATE MINIST,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.newindianexpress.com/states/tamil_nadu/Ministers-Officials-Inspect-Preparedness-at-GIM-Venue/2015/08/29/article2998912.ece
+20150829,MADRAS,MADRAS,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,2,http://www.thehindu.com/news/cities/chennai/hc-declines-to-relax-elangovans-bail-conditions/article7592638.ece
+20150829,SCIENTIST,UNIVERSITY,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,3,http://www.thestatesman.com/news/science-and-tech/new-biodegrable-plastic-material-developed-final-trials-on/85928.html
+20150829,GOVERNMENT,ADVOCATE,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://timesofindia.indiatimes.com/home/sunday-times/all-that-matters/When-US-UK-doctors-refuse-to-prescribe-Indian-drugs-it-reeks-of-racism/articleshow/48725863.cms
+20150829,STUDENT,CIVIL SERVICE,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.skyscrapercity.com/showthread.php?s=19fa3014d33d2697adfb82220b182339&p=126671153
+20150829,GOVERNMENT,NAGA,027,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,8,http://www.epw.in/commentary/what-unique-about-naga-history.html
+20150829,HIGH COURT,CONGRESS,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,4,http://www.thehindu.com/news/cities/chennai/hc-declines-to-relax-elangovans-bail-conditions/article7592638.ece
+20150829,GOVERNMENT OFFICIAL,CORPORATION,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,2,http://www.newindianexpress.com/states/tamil_nadu/Ministers-Officials-Inspect-Preparedness-at-GIM-Venue/2015/08/29/article2998912.ece
+20150829,BHARAT,NON GOVERNMENTAL ORGANISATION,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,4,http://www.thehindu.com/news/cities/chennai/get-generic-drugs-at-cheap-prices/article7593165.ece
+20150829,WEBSITE,LOS ANGELES,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,5,http://www.gulte.com/movienews/41775/Media-killed-Arnold-Schwarzenegger
+20150829,GOVERNMENT OFFICIAL,CHENNAI,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,4,http://www.newindianexpress.com/states/tamil_nadu/Ministers-Officials-Inspect-Preparedness-at-GIM-Venue/2015/08/29/article2998912.ece
+20150829,JUDGE,CHIEF MINISTER,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,5,http://www.newindianexpress.com/cities/chennai/No-relief-on-conditions-of-Elangovans-Bail/2015/08/29/article2998933.ece
+20150829,ACTIVIST,GOVERNMENT,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://www.thehindu.com/news/cities/chennai/residents-suggest-harnessing-water-from-sunais/article7593142.ece
+20150829,COIMBATORE,POLICE,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,1,http://www.newindianexpress.com/states/tamil_nadu/Victims-Were-Innocent-Men-Without-Gang-Affiliations/2015/08/29/article2999237.ece
+20150829,CIVIL SERVICE,STUDENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://www.skyscrapercity.com/showthread.php?s=19fa3014d33d2697adfb82220b182339&p=126671153
+20150829,,MUMBAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,2,https://in.newshub.org/bollywood-celebrates-sibling-love-raksha-bandhan-18257124.html
+20150829,,BUSINESS,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.straitstimes.com/singapore/my-nephew-killed-my-sis-but-i-cant-blame-him
+20150829,,STATE MINIST,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,20,http://www.skyscrapercity.com/showthread.php?s=5aad2e6eaa40c9223fd559a086637885&p=126672087
+20150829,,BUSINESS,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,5,http://www.environmentguru.com/pages/elements/element.aspx?id=2652982
+20150829,,SCHOOL,041,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,25,http://www.thehindu.com/news/national/telangana/pay-a-tribute-to-your-teacher/article7593202.ece
+20150829,,CHENNAI,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,6,http://www.newindianexpress.com/cities/chennai/Cabbie-Found-Dead-in-Locked-Car/2015/08/29/article2998903.ece
+20150829,,VILLAGER,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,4,http://www.afternoondc.in/city-news/healing-touch-mother-marys-11-day-velankanni-feast-begins-today-at-uttan/article_147588
+20150829,,VILLAGER,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,4,http://indianexpress.com/article/cities/lucknow/claiming-loss-of-honour-physically-challenged-couple-commit-suicide/
+20150829,,POLICE,1823,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,5,http://www.newindianexpress.com/states/tamil_nadu/Victims-Were-Innocent-Men-Without-Gang-Affiliations/2015/08/29/article2999237.ece
+20150829,,CHENNAI,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,4,http://www.newindianexpress.com/states/tamil_nadu/Ministers-Officials-Inspect-Preparedness-at-GIM-Venue/2015/08/29/article2998912.ece
+20150829,,MUMBAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,2,https://in.newshub.org/bollywood-celebrates-sibling-love-raksha-bandhan-18257124.html
+20150823,,GOVERNMENT,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,1,http://timesofindia.indiatimes.com/india/Raja-alleges-harassment-by-CBI/articleshow/48637564.cms
+20150823,,COMPANY,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.lexpress.mu/node/267586
+20150823,,MADRAS,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.thehindu.com/news/cities/chennai/when-a-visit-to-the-beach-turned-into-a-history-lesson/article7570651.ece
+20150823,,CHIEF MINISTER,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,10,http://www.newindianexpress.com/cities/chennai/DMK-Urges-Assembly-Speaker-to-Cancel-DMDK-MLAs-Suspension/2015/08/23/article2989469.ece
+20150823,,PRIME MINISTER,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.eurasiareview.com/23082015-sri-lanka-elections-a-vote-for-reconciliation-process-analysis/
+20150823,,GOVERNMENT,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,2,http://timesofindia.indiatimes.com/india/Raja-alleges-harassment-by-CBI/articleshow/48637564.cms
+20150823,,STUDENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://www.dnaindia.com/india/report-with-no-takers-for-engineering-courses-telangana-and-andhra-pradesh-to-lose-80000-seats-2127500
+20150823,,CHENNAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,2,http://timesofindia.indiatimes.com/india/Jayalalithaa-asks-AIADMK-cadres-to-give-up-protests-against-Elangovan/articleshow/48639669.cms
+20150823,,JAIPUR,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://timesofindia.indiatimes.com/home/sunday-times/Destination-kitty/articleshow/48637507.cms
+20150823,,CHIEF MINISTER,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.thehindu.com/news/cities/chennai/concerted-efforts-on-to-revive-nokia-facility/article7570771.ece
+20150823,,PROFESSOR,041,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.lexpress.mu/node/267586
+20150823,,CHENNAI,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,6,http://timesofindia.indiatimes.com/india/Jayalalithaa-asks-AIADMK-cadres-to-give-up-protests-against-Elangovan/articleshow/48639669.cms
+20150823,BEIJING,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,5,http://www.c3sindia.org/china/5194
+20150823,ENGINEER,,181,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,1,http://timesofindia.indiatimes.com/home/sunday-times/deep-focus/Urban-honour-killings-Backlash-against-change/articleshow/48638618.cms
+20150823,ENGINEER,,181,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,1,http://economictimes.indiatimes.com/news/politics-and-nation/urban-honour-killings-backlash-against-change/articleshow/48638322.cms
+20150823,CHENNAI,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,1,http://timesofindia.indiatimes.com/india/Raja-alleges-harassment-by-CBI/articleshow/48637564.cms
+20150823,MINIST,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,2,http://timesofindia.indiatimes.com/india/Raja-alleges-harassment-by-CBI/articleshow/48637564.cms
+20150823,GOVERNMENT,,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,4,http://www.business-standard.com/article/opinion/a-k-bhattacharya-structured-procrastination-115082300752_1.html
+20150823,HOSPITAL,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,5,http://cbrao2008.blogspot.com/2015/08/effective-employee-engagement-in.html
+20150823,STUDENT,,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,10,http://www.newindianexpress.com/thesundaystandard/Beggar-BA-Bankrolls-Education-of-Children/2015/08/23/article2988354.ece
+20150823,UNITED STATES,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.maalaimalar.com/2015/08/23144552/Dal-onion-price-rise.html
+20150823,BURGLAR,,171,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.2,4,http://timesofindia.indiatimes.com/city/chennai/Birds-worth-5L-stolen-from-pet-shop/articleshow/48637560.cms
+20150823,AUTHORITIES,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,8,http://www.lexpress.mu/node/267586
+20150823,CHENNAI,,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,4,http://www.canindia.com/2015/08/havent-walked-out-of-dhanushs-film-keerthy-suresh/
+20150823,CHENNAI,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,1,http://timesofindia.indiatimes.com/india/Raja-alleges-harassment-by-CBI/articleshow/48637564.cms
+20150823,COMPANY,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.lexpress.mu/node/267586
+20150823,DELHI,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,2,http://www.business-standard.com/article/pti-stories/ncw-issues-notice-to-tncc-chief-elangovan-115082300480_1.html
+20150823,HOSPITAL,,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,5,http://cbrao2008.blogspot.com/2015/08/effective-employee-engagement-in.html
+20150823,ACTOR,,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,2,http://www.canindia.com/2015/08/havent-walked-out-of-dhanushs-film-keerthy-suresh/
+20150823,EMPLOYEE,,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://cbrao2008.blogspot.com/2015/08/effective-employee-engagement-in.html
+20150823,CRIMINAL,,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,20,http://gulfnews.com/your-say/your-view/death-penalty-for-heinous-crimes-are-necessary-1.1571059
+20150823,CIVIL SERVICE,,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,5,http://www.thehindu.com/news/national/tamil-nadu/upsc-exam-first-time-in-tiruchi/article7571509.ece
+20150823,GOVERNMENT,,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,5,http://www.business-standard.com/article/opinion/a-k-bhattacharya-structured-procrastination-115082300752_1.html
+20150823,STUDENT,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://www.dnaindia.com/india/report-with-no-takers-for-engineering-courses-telangana-and-andhra-pradesh-to-lose-80000-seats-2127500
+20150823,PROFESSOR,,041,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,8,http://www.lexpress.mu/node/267586
+20150823,CONGRESS,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.dinamalar.com/news_detail.asp?id=1325359
+20150823,GOVERNMENT,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://news.webindia123.com/news/Articles/India/20150823/2665898.html
+20150823,ENGINEER,,181,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,4,http://economictimes.indiatimes.com/news/politics-and-nation/urban-honour-killings-backlash-against-change/articleshow/48638322.cms
+20150823,MINIST,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,2,http://timesofindia.indiatimes.com/india/Raja-alleges-harassment-by-CBI/articleshow/48637564.cms
+20150823,CHENNAI,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,3,http://www.thehindu.com/news/cities/chennai/emu-train-mows-down-two-brothers-at-perungalathur/article7570888.ece
+20150823,CULPRIT,,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://newstodaynet.com/chennai/woman-docs-murder-tripura-man-held
+20150823,TELECOM,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,2,http://telecom.economictimes.indiatimes.com/news/policy/cbi-gave-clean-chit-on-assets-in-2013-raja/48641922
+20150823,STUDENT,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,5,http://www.newindianexpress.com/thesundaystandard/Beggar-BA-Bankrolls-Education-of-Children/2015/08/23/article2988354.ece
+20150823,ACTOR,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.thehindu.com/news/cities/chennai/do-not-define-yourself-by-the-way-you-look-nandita-das/article7570665.ece
+20150823,VILLAGE,,056,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,4,http://forums.asiaone.com/showthread.php?s=4dd9b54ad52a22642b5f6fac7dac6fb9&t=80260&page=2
+20150823,CHENNAI,MINIST,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,2,http://timesofindia.indiatimes.com/india/Raja-alleges-harassment-by-CBI/articleshow/48637564.cms
+20150823,CHENNAI,MINIST,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,2,http://timesofindia.indiatimes.com/india/Raja-alleges-harassment-by-CBI/articleshow/48637564.cms
+20150823,CHENNAI,GOVERNMENT,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,4,http://www.business-standard.com/article/opinion/a-k-bhattacharya-structured-procrastination-115082300752_1.html
+20150823,ACADEMICIAN,XI JINPING,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,4,http://www.southasiaanalysis.org/node/1841
+20150823,MEDIA,PRIME MINISTER,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,2,http://timesofindia.indiatimes.com/india/Raja-alleges-harassment-by-CBI/articleshow/48637564.cms
+20150823,CHENNAI,GEORGE TOWN,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://www.thehindu.com/news/cities/chennai/when-a-visit-to-the-beach-turned-into-a-history-lesson/article7570651.ece
+20150823,DEFENCE FORCE,PRIME MINISTER,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,20,http://www.business-standard.com/article/opinion/a-k-bhattacharya-structured-procrastination-115082300752_1.html
+20150823,GOOGLE,COMPANY,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,8,http://www.business-standard.com/article/companies/enroute-a-global-journey-115082400006_1.html
+20150823,JUDGE,ACTIVIST,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,2,http://timesofindia.indiatimes.com/india/Anti-liquor-activists-in-Chennai-were-assaulted-by-police-and-jail-officials-reveals-probe-by-judge/articleshow/48642116.cms
+20150823,CHENNAI,STUDENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,3,http://www.dnaindia.com/india/report-with-no-takers-for-engineering-courses-telangana-and-andhra-pradesh-to-lose-80000-seats-2127500
+20150823,STUDENT,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,3,http://www.dnaindia.com/india/report-with-no-takers-for-engineering-courses-telangana-and-andhra-pradesh-to-lose-80000-seats-2127500
+20150823,PRIME MINISTER,CONGRESS,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,4,http://vijaykarnataka.indiatimes.com/state/karnataka/mahadayi-to-intervene-to-convince-the-decision-of-pm/articleshow/48645066.cms
+20150823,GEORGE TOWN,CORPORATION,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://www.thehindu.com/news/cities/chennai/when-a-visit-to-the-beach-turned-into-a-history-lesson/article7570651.ece
+20150823,CHENNAI,ACTOR,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,3,http://www.canindia.com/2015/08/havent-walked-out-of-dhanushs-film-keerthy-suresh/
+20150823,CONGRESS,CHIEF MINISTER,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,4,http://www.theshillongtimes.com/2015/08/23/congress-asks-jaya-to-end-agitation/
+20150823,CHENNAI,ACTOR,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,3,http://www.thehindu.com/news/cities/chennai/do-not-define-yourself-by-the-way-you-look-nandita-das/article7570665.ece
+20150823,CHENNAI,TAMIL,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,2,http://www.canindia.com/2015/08/havent-walked-out-of-dhanushs-film-keerthy-suresh/
+20150823,VILLAGE,CHENNAI,056,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://forums.asiaone.com/showthread.php?s=4dd9b54ad52a22642b5f6fac7dac6fb9&t=80260&page=2
+20150823,CORPORATION,GEORGE TOWN,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://www.thehindu.com/news/cities/chennai/when-a-visit-to-the-beach-turned-into-a-history-lesson/article7570651.ece
+20150823,TAMIL NADU,CHENNAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,2,http://timesofindia.indiatimes.com/india/Jayalalithaa-asks-AIADMK-cadres-to-give-up-protests-against-Elangovan/articleshow/48639669.cms
+20150823,PRIME MINISTER,ACTIVIST,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.theshillongtimes.com/2015/08/23/congress-asks-jaya-to-end-agitation/
+20150823,GOVERNMENT,COMMUNITY,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://forums.asiaone.com/showthread.php?s=4dd9b54ad52a22642b5f6fac7dac6fb9&t=80260&page=2
+20150823,CHENNAI,BURGLAR,171,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.2,6,http://timesofindia.indiatimes.com/city/chennai/Birds-worth-5L-stolen-from-pet-shop/articleshow/48637560.cms
+20150823,CHENNAI,CORPORATION,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://www.thehindu.com/news/cities/chennai/when-a-visit-to-the-beach-turned-into-a-history-lesson/article7570651.ece
+20150823,MEDIA,PRIME MINISTER,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,3,http://timesofindia.indiatimes.com/india/Raja-alleges-harassment-by-CBI/articleshow/48637564.cms
+20150823,COMPANY,GOOGLE,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.business-standard.com/article/companies/enroute-a-global-journey-115082400006_1.html
+20150823,CHENNAI,CHIEF MINISTER,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://www.theshillongtimes.com/2015/08/23/congress-asks-jaya-to-end-agitation/
+20150823,ACTIVIST,PRIME MINISTER,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.theshillongtimes.com/2015/08/23/congress-asks-jaya-to-end-agitation/
+20150823,PUBLIC SERVICE COMMISSION,CIVIL SERVICE,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,5,http://www.thehindu.com/news/national/tamil-nadu/upsc-exam-first-time-in-tiruchi/article7571509.ece
+20150823,POLICE,BURGLAR,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,5,http://timesofindia.indiatimes.com/city/chennai/Birds-worth-5L-stolen-from-pet-shop/articleshow/48637560.cms
+20150823,CONGRESS,CHENNAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,2,http://timesofindia.indiatimes.com/india/Jayalalithaa-asks-AIADMK-cadres-to-give-up-protests-against-Elangovan/articleshow/48639669.cms
+20150823,MADURAI,ACTOR,0841,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://publicnewssubmit.com/maggi-noodles-ad-amitabh-bachchan-seeks-dismissal-of-complaint/
+20150823,CHENNAI,MINIST,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,3,http://timesofindia.indiatimes.com/india/Raja-alleges-harassment-by-CBI/articleshow/48637564.cms
+20150823,POLICE,BURGLAR,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,5,http://timesofindia.indiatimes.com/city/chennai/Birds-worth-5L-stolen-from-pet-shop/articleshow/48637560.cms
+20150823,CHENNAI,TELECOM,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,5,http://telecom.economictimes.indiatimes.com/news/policy/cbi-gave-clean-chit-on-assets-in-2013-raja/48641922
+20150823,CORPORATION,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://www.thehindu.com/news/cities/chennai/when-a-visit-to-the-beach-turned-into-a-history-lesson/article7570651.ece
+20150823,JUDGE,CHENNAI,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,3,http://timesofindia.indiatimes.com/india/Anti-liquor-activists-in-Chennai-were-assaulted-by-police-and-jail-officials-reveals-probe-by-judge/articleshow/48642116.cms
+20150823,SAN FRANCISCO,COMPANY,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,4,http://www.business-standard.com/article/companies/enroute-a-global-journey-115082400006_1.html
+20150823,NOKIA,BUSINESS,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,8,http://www.thehindu.com/news/cities/chennai/concerted-efforts-on-to-revive-nokia-facility/article7570771.ece
+20150823,CORPORATION,GEORGE TOWN,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://www.thehindu.com/news/cities/chennai/when-a-visit-to-the-beach-turned-into-a-history-lesson/article7570651.ece
+20150823,ACTOR,CHENNAI,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,3,http://www.thehindu.com/news/cities/chennai/do-not-define-yourself-by-the-way-you-look-nandita-das/article7570665.ece
+20150823,MADRAS,CORPORATION,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,2,http://www.thehindu.com/news/cities/chennai/when-a-visit-to-the-beach-turned-into-a-history-lesson/article7570651.ece
+20150823,INDUSTRY,ACTOR,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.thehansindia.com/posts/index/2015-08-23/Raj-Tarun-buoyed-by-Ravi-Tejas-praise-172059
+20150823,ACADEMICIAN,XI JINPING,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,2,http://www.southasiaanalysis.org/node/1841
+20150823,GEORGE TOWN,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://www.thehindu.com/news/cities/chennai/when-a-visit-to-the-beach-turned-into-a-history-lesson/article7570651.ece
+20150823,GEORGE TOWN,CORPORATION,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://www.thehindu.com/news/cities/chennai/when-a-visit-to-the-beach-turned-into-a-history-lesson/article7570651.ece
+20150823,WORKER,,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,2,http://www.thehindu.com/news/national/tamil-nadu/jayalalithaa-slams-elangovan-urges-aiadmk-workers-to-stop-protests/article7571867.ece
+20150823,PRIME MINISTER,NOKIA,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,4,http://www.thehindu.com/news/cities/chennai/concerted-efforts-on-to-revive-nokia-facility/article7570771.ece
+20150823,WORKER,TIRUCHIR,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,1,http://www.thehindu.com/news/national/tamil-nadu/jayalalithaa-slams-elangovan-urges-aiadmk-workers-to-stop-protests/article7571867.ece
+20150823,WORKER,CHENNAI,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,1,http://www.thehindu.com/news/national/tamil-nadu/jayalalithaa-slams-elangovan-urges-aiadmk-workers-to-stop-protests/article7571867.ece
+20150627,,AIRLINE,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,1,http://www.business-standard.com/article/companies/goair-s-big-test-begins-from-2016-115062600217_1.html
+20150627,,CHENNAI,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,1,http://www.thehindu.com/features/downtown/a-doctor-and-his-love-for-a-neighbourhood/article7361575.ece
+20150627,,CHENNAI,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,6,http://www.newindianexpress.com/cities/chennai/Rash-Riding-Kills-2-on-Bike/2015/06/27/article2888651.ece
+20150627,,CORPORATION,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,2,http://www.thehindu.com/features/downtown/a-doctor-and-his-love-for-a-neighbourhood/article7361575.ece
+20150627,,CORRESPONDENT,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,8,http://www.asianage.com/mumbai/hooch-seller-s-kin-suffer-silently-860
+20150627,,CORRESPONDENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://www.asianage.com/mumbai/hooch-seller-s-kin-suffer-silently-860
+20150627,,MALE,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.thehansindia.com/posts/index/2015-06-27/Corporate-leaders-with-bowerbird-syndrome-159815
+20150627,,WORKER,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://news.biharprabha.com/2015/06/traffic-ramaswamy-alleges-attack-by-aiadmk-workers-says-not-free-and-fair-election/
+20150627,,FRENCH,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.travelpod.com/travel-blog-entries/dannyboy.silvan/1/1434134852/tpod.html
+20150627,,CORPORATION,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,1,http://www.thehindu.com/features/downtown/a-doctor-and-his-love-for-a-neighbourhood/article7361575.ece
+20150627,,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,4,http://news.biharprabha.com/2015/06/ceo-says-voting-in-rk-nagar-constituency-peaceful-left-candidate-disagrees/
+20150627,,COLLEGE,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://www.newindianexpress.com/cities/chennai/Lead-By-Example-and-Serve-as-Mentors/2015/06/27/article2887858.ece
+20150627,,UNITED KINGDOM,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,4,http://www.newindianexpress.com/cities/chennai/Turning-Chennai-into-a-Crime-Site/2015/06/27/article2887883.ece
+20150627,,THE US,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.bangaloremirror.com/columns/sunday-read/Tap-dancing-to-the-King-of-Percussion/articleshow/47845909.cms
+20150627,THE US,NURSE,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,8,http://timesofindia.indiatimes.com/city/trichy/Japanese-organization-likely-to-fund-MGMGH-for-improving-facilities/articleshow/47838254.cms
+20150627,THE US,NURSE,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,8,http://timesofindia.indiatimes.com/city/trichy/Japanese-organization-likely-to-fund-MGMGH-for-improving-facilities/articleshow/47838254.cms
+20150627,BARACK OBAMA,UNITED STATES,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,2,http://www.thesundayleader.lk/2015/06/28/strategic-autonomy-and-national-consensus/
+20150627,CHIEF MINISTER,NEWS AGENCY,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,2,http://zeenews.india.com/news/tamil-nadu/tamil-nadu-cm-jaya-to-launch-chennai-metro-rail-soon_1621052.html
+20150627,SECURITY PERSONNEL,POLICE FORCE,154,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.2,10,https://www.theindiantalks.com/news/live-updates-rk-nagar-by-poll-as-jayalalithaa-eyes-return-to-tamil-nadu-assembly/8726
+20150627,CHENNAI,SCHOOL,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://www.newindianexpress.com/cities/chennai/With-Special-Swings-Merry-go-Rounds-Diff-abled-Kids-Have-the-Real-Fun/2015/06/27/article2887876.ece
+20150627,TAMIL NADU,NEWS AGENCY,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,1,http://zeenews.india.com/news/tamil-nadu/tamil-nadu-cm-jaya-to-launch-chennai-metro-rail-soon_1621052.html
+20150627,SCHOOL,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://www.newindianexpress.com/cities/chennai/With-Special-Swings-Merry-go-Rounds-Diff-abled-Kids-Have-the-Real-Fun/2015/06/27/article2887876.ece
+20150627,PRESIDIUM,CHENNAI,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.newindianexpress.com/cities/chennai/Over-63-Percent-Votes-Cast-Till-4-PM-for-RK-Nagar-By-polls/2015/06/27/article2889422.ece
+20150627,PRESIDIUM,SCHOOL,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,4,http://www.newindianexpress.com/cities/chennai/Over-63-Percent-Votes-Cast-Till-4-PM-for-RK-Nagar-By-polls/2015/06/27/article2889422.ece
+20150627,NEW DELHI,COAST GUARD,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://economictimes.indiatimes.com/news/defence/the-hunt-for-cg-791-dornier-mapping-out-indias-largest-and-longest-maritime-search/articleshow/47836903.cms
+20150627,TAMIL NADU,CHENNAI,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,1,http://www.bignewsnetwork.com/index.php/sid/234218099
+20150627,COLLEGE,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,3,http://www.newindianexpress.com/cities/chennai/Lead-By-Example-and-Serve-as-Mentors/2015/06/27/article2887858.ece
+20150627,BARACK OBAMA,UNITED STATES,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,2,http://www.thesundayleader.lk/2015/06/28/strategic-autonomy-and-national-consensus/
+20150627,THE US,CHENNAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,4,http://www.bangaloremirror.com/columns/sunday-read/Tap-dancing-to-the-King-of-Percussion/articleshow/47845909.cms
+20150627,SRI LANKA,AMERICAN,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,6,http://www.thesundayleader.lk/2015/06/28/strategic-autonomy-and-national-consensus/
+20150627,CHIEF MINISTER,ACTIVIST,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,2,http://timesofindia.indiatimes.com/india/R-K-Nagar-gears-up-for-bypoll-on-Saturday/articleshow/47838327.cms
+20150627,CHENNAI,COAST GUARD,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,2,http://economictimes.indiatimes.com/news/defence/the-hunt-for-cg-791-dornier-mapping-out-indias-largest-and-longest-maritime-search/articleshow/47836903.cms
+20150627,NATIONALS,SRI LANKA,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,2,http://www.customstoday.com.pk/sri-lanka-customs-seizes-gold-nabs-8-indians-2/
+20150627,ACTOR,MALE,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/Mammootty-Manju-Warrier-are-Filmfare-best-actors/articleshow/47841322.cms
+20150627,CORPORATION,CHENNAI,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,2,http://www.thehindu.com/features/downtown/a-doctor-and-his-love-for-a-neighbourhood/article7361575.ece
+20150627,CORPORATION,SCHOOL,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.thehindu.com/news/cities/chennai/filmmakers-can-shoot-in-chennai-parks-again/article7360302.ece
+20150627,NAWAZ SHARIF,GOVERNMENT,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://timesofindia.indiatimes.com/business/india-business/Mr-Homecare-and-Wassup-to-work-together/articleshow/47939141.cms
+20150627,TAMIL NADU,NEWS AGENCY,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,2,http://zeenews.india.com/news/tamil-nadu/tamil-nadu-cm-jaya-to-launch-chennai-metro-rail-soon_1621052.html
+20150627,CHENNAI,COLLEGE,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,3,http://www.newindianexpress.com/cities/chennai/Lead-By-Example-and-Serve-as-Mentors/2015/06/27/article2887858.ece
+20150627,POLICE,GANGSTER,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,4,http://www.thehindu.com/news/cities/chennai/gangster-involved-in-nine-murder-cases-arrested/article7359723.ece
+20150627,WORKER,NEW DELHI,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,4,http://aninews.in/newsdetail2/story221816/rk-nagar-bypolls-independent-candidate-allegedly-attacked-by-aiadmk-workers.html
+20150627,COAST GUARD,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://economictimes.indiatimes.com/news/defence/the-hunt-for-cg-791-dornier-mapping-out-indias-largest-and-longest-maritime-search/articleshow/47836903.cms
+20150627,CHENNAI,ACTIVIST,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,3,http://timesofindia.indiatimes.com/india/R-K-Nagar-gears-up-for-bypoll-on-Saturday/articleshow/47838327.cms
+20150627,TAMIL NADU,CHIEF MINISTER,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,2,http://www.bignewsnetwork.com/index.php/sid/234218099
+20150627,THE US,NURSE,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,2,http://timesofindia.indiatimes.com/city/trichy/Japanese-organization-likely-to-fund-MGMGH-for-improving-facilities/articleshow/47838254.cms
+20150627,THE US,NURSE,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,2,http://timesofindia.indiatimes.com/city/trichy/Japanese-organization-likely-to-fund-MGMGH-for-improving-facilities/articleshow/47838254.cms
+20150627,OPPOSITION PARTIES,RULING PARTY,143,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,3,http://timesofindia.indiatimes.com/india/74-4-polling-in-R-K-Nagar-where-TN-chief-minister-Jayalalithaa-is-main-candidate/articleshow/47844155.cms
+20150627,CHENNAI,ELECTION COMMISSION,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,12,http://www.aninews.in/newsdetail2/story221806/rk-nagar-bypolls-cpi-candidate-lauds-poll-arrangements-by-ec.html
+20150627,CHENNAI,GANGSTER,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,4,http://www.thehindu.com/news/cities/chennai/gangster-involved-in-nine-murder-cases-arrested/article7359723.ece
+20150627,GOVERNMENT,CORPORATION,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://timesofindia.indiatimes.com/city/chennai/Parents-from-across-Tamil-Nadu-come-to-Chennai-to-purchase-school-books/articleshow/47838321.cms
+20150627,COLLEGE,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.thehindu.com/news/cities/chennai/lucky-escape-for-three-as-road-caves-in/article7359717.ece
+20150627,COMPANY,GOVERNOR,145,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.5,8,http://www.prabhatkhabar.com/news/harivansh-ke-kalam-se/resolution-creation/418700.html
+20150627,MALE,ACTOR,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/Mammootty-Manju-Warrier-are-Filmfare-best-actors/articleshow/47841322.cms
+20150627,POLICE,COIMBATORE,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://timesofindia.indiatimes.com/city/coimbatore/IT-executive-stole-laptops-sold-them-online-15-theft-cases-in-5-years/articleshow/47848525.cms
+20150627,COLOMBO,MEDIA,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,8,http://www.customstoday.com.pk/sri-lanka-customs-seizes-gold-nabs-8-indians-2/
+20150627,CHENNAI,CORPORATION,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,2,http://www.thehindu.com/features/downtown/a-doctor-and-his-love-for-a-neighbourhood/article7361575.ece
+20150627,GOVERNMENT,MADURAI,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,5,http://thewire.in/46026/holding-ground-against-sand-raiders-in-tamil-nadu/
+20150627,ZIMBABWE,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,5,http://news.webindia123.com/news/Articles/India/20150627/2628526.html
+20150627,SIKH,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,1,http://timesofindia.indiatimes.com/india/When-NaMo-Swamy-played-hide-and-Sikh/articleshow/47838942.cms
+20150627,HOSPITAL,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,2,http://timesofindia.indiatimes.com/city/trichy/Japanese-organization-likely-to-fund-MGMGH-for-improving-facilities/articleshow/47838254.cms
+20150627,AIRLINE,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,1,http://www.business-standard.com/article/companies/goair-s-big-test-begins-from-2016-115062600217_1.html
+20150627,CHENNAI,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://seeandsaynews.in/national/karnatak/7391-domestic-help-cheated-by-couple-with-20-sovereigns-of-gold-and-rs-40-000-cash
+20150627,VICTORIA,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://seeandsaynews.in/national/karnatak/7391-domestic-help-cheated-by-couple-with-20-sovereigns-of-gold-and-rs-40-000-cash
+20150627,COLLEGE,,125,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://www.newindianexpress.com/cities/chennai/An-Accessory-Among-Accessories/2015/06/27/article2887846.ece
+20150627,NEWS AGENCY,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,2,http://zeenews.india.com/news/tamil-nadu/tamil-nadu-cm-jaya-to-launch-chennai-metro-rail-soon_1621052.html
+20150627,VOTER,,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,4,http://timesofindia.indiatimes.com/india/74-4-polling-in-R-K-Nagar-where-TN-chief-minister-Jayalalithaa-is-main-candidate/articleshow/47844155.cms
+20150627,TAMIL NADU,,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,2,http://www.bignewsnetwork.com/index.php/sid/234218099
+20150627,UNITED KINGDOM,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,4,http://www.newindianexpress.com/cities/chennai/Turning-Chennai-into-a-Crime-Site/2015/06/27/article2887883.ece
+20150627,RULING PARTY,,143,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,3,http://timesofindia.indiatimes.com/india/74-4-polling-in-R-K-Nagar-where-TN-chief-minister-Jayalalithaa-is-main-candidate/articleshow/47844155.cms
+20150627,SCHOOL,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.asianage.com/mumbai/hooch-seller-s-kin-suffer-silently-860
+20150627,GOVERNMENT,,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,5,http://www.asianage.com/mumbai/hooch-seller-s-kin-suffer-silently-860
+20150627,MALE,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.thehansindia.com/posts/index/2015-06-27/Corporate-leaders-with-bowerbird-syndrome-159815
+20150627,AIRLINE,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.theadvocate.com.au/story/3173909/traveller-letters-whats-so-good-about-bali/?cs=4169
+20150627,ROTARY CLUB,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.newindianexpress.com/cities/chennai/With-Special-Swings-Merry-go-Rounds-Diff-abled-Kids-Have-the-Real-Fun/2015/06/27/article2887876.ece
+20150627,THE US,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,4,http://www.bangaloremirror.com/columns/sunday-read/Tap-dancing-to-the-King-of-Percussion/articleshow/47845909.cms
+20150627,CHIEF MINISTER,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,2,http://www.bignewsnetwork.com/index.php/sid/234218213
+20150627,SECURITY PERSONNEL,,154,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.2,10,https://www.theindiantalks.com/news/live-updates-rk-nagar-by-poll-as-jayalalithaa-eyes-return-to-tamil-nadu-assembly/8726
+20150627,CORRESPONDENT,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://www.asianage.com/mumbai/hooch-seller-s-kin-suffer-silently-860
+20150627,CORPORATION,,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.thehindu.com/news/cities/chennai/filmmakers-can-shoot-in-chennai-parks-again/article7360302.ece
+20150627,GOVERNMENT,,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,5,http://www.thehindu.com/news/national/tamil-nadu/all-for-a-fancy-number/article7359767.ece
+20150627,ZIMBABWE,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,5,http://www.netindia123.com/netindia/showdetails.asp?id=2628526&cat=India
+20150627,BENGALI,,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://businessofcinema.com/bollywood_news/deepika-padukone-to-do-bengali-film/214793
+20150627,COMPANY,,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://yourstory.com/2015/06/creditmantri-raises-2-5-million-funding/
+20150627,CORRESPONDENT,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,8,http://www.asianage.com/mumbai/hooch-seller-s-kin-suffer-silently-860
+20150627,ENTREPRENEUR,,160,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,5,http://www.thehindu.com/business/Industry/global-analytics-eyes-data-on-underserved/article7361738.ece
+20150627,COLLEGE,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://www.newindianexpress.com/cities/chennai/Lead-By-Example-and-Serve-as-Mentors/2015/06/27/article2887858.ece
+20150627,YOGA,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,4,http://newstodaynet.com/chennai/bhagavad-gita-treasure
+20150627,SURGEON,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://timesofindia.indiatimes.com/city/vijayawada/City-not-breathing-easy-cases-of-respiratory-diseases-rising/articleshow/47841978.cms
+20150627,CHENNAI,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,4,http://news.biharprabha.com/2015/06/ceo-says-voting-in-rk-nagar-constituency-peaceful-left-candidate-disagrees/
+20150627,ACTOR,,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.santabanta.com/bollywood/102891/dark-side-of-showbiz-deaths-of-these-hotties-are-still-a-mystery/
+20150627,STUDENT,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.newindianexpress.com/states/tamil_nadu/Salem-Team-to-Do-Dalits-Autopsy/2015/06/27/article2888625.ece
+20150627,POLICE,,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,4,http://www.newindianexpress.com/states/tamil_nadu/Salem-Team-to-Do-Dalits-Autopsy/2015/06/27/article2888625.ece
+20150627,LANDLORD,,115,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://indiankanoon.org/doc/45622143/
+20150627,AFRICA,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,5,http://www.netindia123.com/netindia/showdetails.asp?id=2628526&cat=India
+20150627,HYUNDAI,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://auto.economictimes.indiatimes.com/news/passenger-vehicle/uv/hyundai-unveils-its-much-awaited-compact-suv-creta/47841018
+20150627,CORPORATION,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,4,http://www.thehindu.com/features/downtown/a-doctor-and-his-love-for-a-neighbourhood/article7361575.ece
+20150627,CHIEF MINISTER,,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,2,http://www.bignewsnetwork.com/index.php/sid/234218099
+20150627,CHENNAI,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,2,http://www.thehindu.com/features/downtown/a-doctor-and-his-love-for-a-neighbourhood/article7361575.ece
+20150627,DOCTOR,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,2,http://www.thehindu.com/features/downtown/a-doctor-and-his-love-for-a-neighbourhood/article7361575.ece
+20150627,SIKH,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,4,http://timesofindia.indiatimes.com/india/When-NaMo-Swamy-played-hide-and-Sikh/articleshow/47838942.cms
+20150627,CHIEF MINISTER,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,2,http://www.sify.com/news/rk-nagar-bypolls-cpi-candidate-lauds-poll-arrangements-by-ec-news-national-pg1lJjbgecjbf.html
+20150227,PRIME MINISTER,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,1,http://www.rveritas-asia.org/news-content?news_id_token=403x7b135a0d4ba930ae46c9b794ac5f5488
+20150227,SRI LANKAN,,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://www.thehindu.com/news/cities/chennai/40-sri-lankan-refugees-back-home/article6939090.ece
+20150227,NEW DELHI,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://thetechportal.in/2015/02/27/grofers-series-a/
+20150227,GOVERNMENT,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,2,http://www.newindianexpress.com/states/tamil_nadu/Mob-Targets-Buses-During-Stir-Against-Writer-in-Karur/2015/02/27/article2689109.ece
+20150227,POLICE,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,4,http://www.dailymail.co.uk/indiahome/indianews/article-2972673/Actress-threatened-acid-attack.html

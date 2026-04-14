@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.claude/
+cache/
+data/chennai_ndvi_2023.tif

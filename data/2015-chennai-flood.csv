@@ -1,0 +1,1001 @@
+SQLDATE,Actor1Name,EventCode,ActionGeo_FullName,ActionGeo_Lat,ActionGeo_Long,GoldsteinScale,NumMentions,SourceURL
+20151124,SECRETARIAT,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,44,http://www.business-standard.com/article/pti-stories/flood-relief-dmk-demands-white-paper-gives-rs-one-crore-115112400635_1.html
+20151230,TAMIL NADU,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,40,http://www.dnaindia.com/india/report-chennai-floods-over-195-crore-contributed-to-cm-s-public-relief-fund-2160705
+20151203,PRIME MINISTER,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,34,http://mynorthwest.com/17/2862495/More-rains-forecast-for-floodhit-southern-India
+20151203,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,32,http://article.wn.com/view/2015/12/03/Indian_army_battles_deadly_flooding_in_Chennai/
+20151223,DOCTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,30,http://www.business-standard.com/article/pti-stories/mard-to-be-secret-santa-for-chennai-flood-victims-115122300867_1.html
+20151223,MAHARASHTRA,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,30,http://www.business-standard.com/article/pti-stories/mard-to-be-secret-santa-for-chennai-flood-victims-115122300867_1.html
+20160110,FARMER,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,30,http://www.business-standard.com/article/pti-stories/city-marwaris-to-help-200-families-hit-by-chennai-floods-116011000313_1.html
+20151229,GOVERNMENT,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,30,http://post.jagran.com/flashback-2015-heavy-flood-pushed-indias-detroit-offtrack-gim-a-saving-grace-1451381371
+20151230,TAMIL,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,30,http://www.dnaindia.com/india/report-chennai-floods-over-195-crore-contributed-to-cm-s-public-relief-fund-2160705
+20151205,ARMY,166,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.0,30,http://arabic.cnn.com/world/2015/12/05/wd-051215-india-battles-deadly-floods
+20151205,POLICE,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,30,http://www.ptinews.com/news/6817649_Chennai-grapples-with-flood-aftermath.html
+20151230,PARLIAMENTARIAN,0841,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,30,http://www.dnaindia.com/india/report-chennai-floods-over-195-crore-contributed-to-cm-s-public-relief-fund-2160705
+20151203,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,30,http://mynorthwest.com/17/2862495/More-rains-forecast-for-floodhit-southern-India
+20151230,HOSPITAL,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,27,http://www.dnaindia.com/india/report-chennai-floods-over-195-crore-contributed-to-cm-s-public-relief-fund-2160705
+20151204,MEDIA,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,25,http://www.kolotv.com/news/internationalnews/headlines/More-Rain-Coming-as-South-India-Deals-With-Massive-Flood-360505771.html
+20151204,POLICE,166,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.0,20,http://www.kolotv.com/news/internationalnews/headlines/More-Rain-Coming-as-South-India-Deals-With-Massive-Flood-360505771.html
+20160105,ACTIVIST,1053,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,20,http://www.business-standard.com/article/news-ians/dmk-demands-judicial-probe-into-chennai-flooding-116010500623_1.html
+20151202,MEMBER OF PARLIAMENT,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,20,http://www.thestatesman.com/news/india/tn-floods-rs-members-offer-to-spend-mplads-funds/107987.html
+20151205,COMPANY,122,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,20,http://www.business-standard.com/article/current-affairs/corporate-india-s-goodwill-deluge-to-speed-up-chennai-flood-relief-115120600008_1.html
+20160121,CHIEF MINISTER,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,20,http://www.newindianexpress.com/cities/chennai/DMK-Using-False-Report-on-Floods-For-Poll-Gains-PWD-Minister/2016/01/22/article3238551.ece
+20151203,ACTOR,018,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,20,http://indianexpress.com/article/entertainment/bollywood/my-heart-goes-out-to-the-people-of-flood-hit-chennai-ranveer-singh/
+20151214,RESIDENTS,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,20,http://portalkbr.com/cerita/12-2015/climate_change_to_blame_for_chennai_s_floods__say_environmentalists/77683.html
+20151214,COMPANIES,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,20,http://www.business-standard.com/article/opinion/chennai-floods-higher-impact-for-tcs-hcl-technologies-115121400937_1.html
+20151207,MEDIA,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,20,http://www.business-standard.com/article/opinion/chennai-floods-when-politics-hijacks-relief-efforts-115120700247_1.html
+20151203,AUTHORITIES,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,20,http://news.yahoo.com/rescuers-race-reach-victims-deadly-india-floods-081858205.html
+20151205,NEIGHBOURHOOD,128,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,20,http://www.ptinews.com/news/6817649_Chennai-grapples-with-flood-aftermath.html
+20151130,PREMIER,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,20,http://www.business-standard.com/article/current-affairs/drdo-distributes-ready-to-eat-food-in-flood-affected-ares-in-chennai-115113000564_1.html
+20151205,ARMY,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,20,http://article.wn.com/view/2015/12/05/Chennai_floods_18_patients_die_after_blackout_halts_hospital/
+20151208,,0353,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,20,http://www.bgr.in/news/mobile-app-to-provide-24x7-doctors-advice-to-people-in-flood-hit-chennai/
+20151130,ARMED FORCES,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,20,http://www.business-standard.com/article/current-affairs/drdo-distributes-ready-to-eat-food-in-flood-affected-ares-in-chennai-115113000564_1.html
+20151208,EMPLOYEE,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,20,http://www.adventistreview.org/church-news/story3515-adventists-provide-urgent-aid-after-devastating-floods-in-india
+20151207,GOVERNMENT,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,20,http://www.dawn.com/news/1224787/ravaging-floods-chennai-gets-back-on-feet-residents-criticise-slow-response
+20160121,CHIEF MINISTER,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,20,http://www.newindianexpress.com/cities/chennai/DMK-Using-False-Report-on-Floods-For-Poll-Gains-PWD-Minister/2016/01/22/article3238551.ece
+20151217,COMMUNITY,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,20,http://efytimes.com/e1/179494/Press-Release/SolarTown-Solar-Rooftop-Systems-Provide-Critical-Support-For-Chennai-Communities-During-Floods-As-Electric-Grids-Shutdown
+20151204,DIRECTOR GENERAL,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,20,http://www.thehindubusinessline.com/news/national/chennai-floods-ndrf-sends-20-more-teams-rescues-10000/article7948988.ece
+20151210,CHIEF MINISTER,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,20,http://www.india.com/news/india/chennai-rains-rs-4000-flood-relief-to-be-credited-in-bank-accounts-from-tomorrow-773711/
+20151214,COMPANIES,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,20,http://www.business-standard.com/article/opinion/chennai-floods-higher-impact-for-tcs-hcl-technologies-115121400937_1.html
+20151207,GOVERNMENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,20,http://www.business-standard.com/article/opinion/chennai-floods-when-politics-hijacks-relief-efforts-115120700247_1.html
+20151204,MINISTRY,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,20,"http://www.thecitizen.in/NewsDetail.aspx?Id=6061&Boats/Replace/Taxis,/Food/In/30/Minutes:/Startups/Offer/Chennai/Flood/Relief"
+20151208,COMPANY,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,20,http://www.business-standard.com/article/current-affairs/cognizant-commits-40-million-to-chennai-flood-relief-efforts-115120800230_1.html
+20160121,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,20,http://www.newindianexpress.com/cities/chennai/DMK-Using-False-Report-on-Floods-For-Poll-Gains-PWD-Minister/2016/01/22/article3238551.ece
+20151229,INVESTOR,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,20,http://post.jagran.com/flashback-2015-heavy-flood-pushed-indias-detroit-offtrack-gim-a-saving-grace-1451381371
+20151213,CONGRESS,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,18,http://www.business-standard.com/article/pti-stories/defence-forces-role-in-chennai-floods-commendable-parrikar-115121300660_1.html
+20151204,CHENNAI,0841,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,18,http://www.business-standard.com/article/pti-stories/ker-prison-made-chapati-to-be-sent-to-chennai-flood-victims-115120400891_1.html
+20151205,MEDIA,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,16,http://article.wn.com/view/2015/12/05/Chennai_grapples_with_flood_aftermath_long_queues_at_ATMs_pe_t/
+20160105,ACTIVIST,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,16,http://www.business-standard.com/article/news-ians/dmk-demands-judicial-probe-into-chennai-flooding-116010500623_1.html
+20151130,PREMIER,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,16,http://www.business-standard.com/article/current-affairs/drdo-distributes-ready-to-eat-food-in-flood-affected-ares-in-chennai-115113000564_1.html
+20151213,DEFENCE MINIST,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,16,http://www.business-standard.com/article/pti-stories/low-key-b-day-for-parrikar-cong-says-bjp-insensitive-to-flood-115121300737_1.html
+20160111,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,16,http://www.thehindu.com/news/cities/chennai/flood-volunteers-seek-sustainable-solutions-for-chennai/article8091723.ece
+20151124,,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,16,http://www.business-standard.com/article/pti-stories/flood-relief-dmk-demands-white-paper-gives-rs-one-crore-115112400635_1.html
+20151118,INDUSTRY,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,16,http://news.chennaionline.com/chennai/General-insurers-bracing-for-flood-claim-notices/0fd79a23-be04-4ad9-8f77-d26a056de435.col
+20151204,CHENNAI,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,15,http://www.business-standard.com/article/pti-stories/ker-prison-made-chapati-to-be-sent-to-chennai-flood-victims-115120400891_1.html
+20151230,PARLIAMENTARIAN,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,15,http://www.dnaindia.com/india/report-chennai-floods-over-195-crore-contributed-to-cm-s-public-relief-fund-2160705
+20151224,ACTOR,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,15,http://www.bollywoodlife.com/news-gossip/heres-how-siddharth-dhanush-jayam-ravi-r-madhavan-are-helping-chennai-flood-victims/
+20151223,DOCTOR,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,15,http://www.business-standard.com/article/pti-stories/mard-to-be-secret-santa-for-chennai-flood-victims-115122300867_1.html
+20151223,DOCTOR,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,15,http://www.business-standard.com/article/pti-stories/mard-to-be-secret-santa-for-chennai-flood-victims-115122300867_1.html
+20151207,AUTHORITIES,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,15,http://www.iol.co.za/dailynews/news/14-patients-die-in-flood-hit-chennai-1.1956292
+20151203,PARAMILITARY FORCE,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,15,http://www.ameripublications.com/chaos-as-heavy-rains-flood-indian-state/29682
+20151202,CHENNAI,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,15,http://aninews.in/newsdetail2/story243024/chennai-floods-can-039-t-be-directly-attributed-to-climate-change-javadekar.html
+20151227,BANK,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,15,http://www.thehindu.com/news/cities/chennai/loans-distributed-to-floodhit-street-vendors/article8033873.ece
+20151227,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,14,http://www.business-standard.com/article/pti-stories/chennai-floods-wash-out-rs-1700-crore-of-msme-business-115122700122_1.html
+20151214,GOVERNMENT,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,14,http://indianexpress.com/article/india/india-news-india/after-the-chennai-floods-revisiting-the-natural-catastrophe-pool/
+20151211,COMPANY,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,13,http://www.dnaindia.com/money/report-insurers-relax-claim-settlement-norms-for-tamil-nadu-flood-victims-2154638
+20151204,CHENNAI,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,12,http://www.patrika.com/news/india/india-meteorological-department-office-had-already-given-alert-before-one-month-in-chennai-regarding-flood-1140203/
+20151203,GOOGLE,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,12,http://www.business-standard.com/article/pti-stories/facebook-activates-safety-button-for-chennai-floods-115120300465_1.html
+20151202,CHENNAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,12,http://www.business-standard.com/article/news-ians/declare-chennai-floods-as-national-disaster-kanimozhi-115120200714_1.html
+20151205,ARMY,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,12,http://article.wn.com/view/2015/12/05/Chennai_floods_18_patients_die_after_blackout_halts_hospital/
+20151203,MINISTRY,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,12,http://www.newindianexpress.com/cities/thiruvananthapuram/State-Offers-All-Help-to-Flood-hit-Tamil-Nadu/2015/12/04/article3160135.ece
+20151204,ARMY,166,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.0,12,http://www.kolotv.com/news/internationalnews/headlines/More-Rain-Coming-as-South-India-Deals-With-Massive-Flood-360505771.html
+20151213,CONGRESS,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,12,http://www.business-standard.com/article/pti-stories/defence-forces-role-in-chennai-floods-commendable-parrikar-115121300660_1.html
+20151117,CHENNAI,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,12,http://reliefweb.int/report/india/chennai-flooded-more-rain-forecast
+20151230,CHENNAI,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,12,http://economictimes.indiatimes.com/news/politics-and-nation/chennai-flood-over-195-crore-contributed-to-cms-public-relief-fund/articleshow/50379188.cms
+20151204,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,12,http://www.ibtimes.co.uk/chennai-floods-citizens-battle-chronic-shortages-food-water-milk-floodwaters-recede-1531818
+20151204,COMMUNITY,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,12,http://www.gdnonline.com/Details/48143/Community-raising-funds-for-flood-hit
+20151206,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,12,https://in.news.yahoo.com/good-bad-ugly-side-chennai-floods-092804968.html
+20151116,CHENNAI,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,12,http://timesofindia.indiatimes.com/city/chennai/Chennai-flooded-more-rain-forecast/articleshow/49800938.cms
+20151202,COAST GUARD,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,12,http://www.business-standard.com/article/news-ians/rains-floods-devastate-chennai-rs-15-000-crore-loss-estimated-roundup-115120201206_1.html
+20151123,TAMIL NADU,0253,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.3,12,http://www.dailypioneer.com/top-stories/tn-govt-pegs-flood-damage-at-rs-8481-cr-jaya-writes-to-pm.html
+20151204,CHENNAI,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,12,http://www.patrika.com/news/bollywood/bollywood-celebrities-pray-for-the-safety-of-the-victims-of-chennai-floods-1140276/
+20151203,MINISTRY,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,12,http://www.newindianexpress.com/cities/thiruvananthapuram/State-Offers-All-Help-to-Flood-hit-Tamil-Nadu/2015/12/04/article3160135.ece
+20151203,CHENNAI,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,12,http://www.prabhatkhabar.com/news/other-state/chennai-rain-floods-prime-minister-modi-leaving-for-chennai-president-mukherjee-expressed-grief/637155.html
+20151207,STUDENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,12,http://www.business-standard.com/article/pti-stories/cm-deputes-officer-to-help-arunachalese-in-flooded-chennai-115120700755_1.html
+20151202,VENKAIAH NAIDU,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,12,http://www.business-standard.com/article/current-affairs/pm-tracks-chennai-floods-situation-on-hourly-basis-115120201253_1.html
+20151203,PRIME MINISTER,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,12,http://www.ptinews.com/news/6808783_PM-flies-to-Chennai-to-take-stock-of-flood-situation.html
+20151211,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,12,http://economictimes.indiatimes.com/news/politics-and-nation/chennai-floods-peoples-welfare-front-backs-demand-for-probe-into-reservoir-water-release/articleshow/50136611.cms
+20151204,,0841,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,12,http://www.business-standard.com/article/pti-stories/ker-prison-made-chapati-to-be-sent-to-chennai-flood-victims-115120400891_1.html
+20151202,STUDENT,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,12,http://malaysiandigest.com/frontpage/282-main-tile/582235-40-malaysian-students-stranded-by-floods-in-chennai.html
+20151213,CONGRESS,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,12,http://www.business-standard.com/article/pti-stories/low-key-b-day-for-parrikar-cong-says-bjp-insensitive-to-flood-115121300737_1.html
+20151210,,032,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.5,12,http://www.diamondworld.net/Content/GJSCI-donates-Rs-1-00001-for-Chennai-Floods/12388
+20151203,MINISTRY,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,12,http://www.newindianexpress.com/cities/thiruvananthapuram/State-Offers-All-Help-to-Flood-hit-Tamil-Nadu/2015/12/04/article3160135.ece
+20151204,COMMUNITY,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,12,http://www.gdnonline.com/Details/48143/Community-raising-funds-for-flood-hit
+20160105,CHENNAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,12,http://www.business-standard.com/article/companies/flood-lessons-for-telecom-firms-116010501125_1.html
+20151216,COMPANY,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,12,http://www.business-standard.com/article/news-cm/wipro-drops-after-issuing-q3-revenue-warning-over-chennai-floods-115121600222_1.html
+20151204,ARMY,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,12,http://www.nyoooz.com/chennai/280338/chennaiflood58-armed-forces-continue-rescue-operations-evacuate-over-5000-people
+20160111,THE OPPOSITION,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.indiatimes.com/news/india/rs-700-crores-have-reached-chennai-flood-victims-directly-in-matter-of-days-no-middlemen-no-corruption-249281.html
+20151203,GOVERNMENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.todayonline.com/world/modi-blames-climate-change-india-floods-toll-hits-269
+20151214,SECURITY FORCE,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.dailymail.co.uk/indiahome/indianews/article-3358519/CISF-men-given-boots-protect-snakes-scorpions-Chennai-floods.html
+20160111,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.indiatimes.com/news/india/rs-700-crores-have-reached-chennai-flood-victims-directly-in-matter-of-days-no-middlemen-no-corruption-249281.html
+20151224,MAHARASHTRA,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://www.asianage.com/mumbai/mard-secret-santa-flood-victims-461
+20151218,INDUSTRY,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.dailythanthi.com/News/India/2015/12/18090408/Venkaiah-Naidu-briefs-PM-on-TN-flood-impact.vpf
+20151218,COMPANY,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://economictimes.indiatimes.com/tech/ites/chennai-floods-to-have-material-impact-on-revenue-hexaware-technologies/articleshow/50230001.cms
+20151217,MEDIA,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://overdrive.in/news/automotive-manufacturers-contribute-to-chennai-flood-relief-operations/
+20151224,EMPLOYEE,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.sify.com/finance/tcs-to-hand-out-rs-5-lakh-for-its-flood-affected-chennai-staff-news-finance-pmylgMagejdhi.html
+20151211,POLITICIAN,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.thestar.com.my/opinion/columnists/why-not/2015/12/11/lessons-from-the-perfect-storm-as-malaysians-wait-for-the-annual-monsoon-rains-and-floods-to-hit-the/
+20151221,CONGRESS,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://www.ptinews.com/news/6886271_Chennai-floods--Centre--TN-govt-attacked-in-RS.html
+20151203,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.todayonline.com/world/modi-blames-climate-change-india-floods-toll-hits-269
+20151203,KANNADA,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.ibtimes.co.in/chennai-rain-sudeep-sri-murali-other-kannada-celebs-pray-flood-victims-657906
+20151227,REPRESENTATIVES,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://blog.propgod.com/floods-in-chennai-a-wake-up-call-for-climate-change/
+20151202,COAST GUARD,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.business-standard.com/article/news-ians/rains-floods-devastate-chennai-rs-15-000-crore-loss-estimated-roundup-115120201206_1.html
+20151117,GOVERNMENT,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.agi.it/en/flash-news/articles/india_floods_in_the_south_kill_more_than_70_people-201511171809-pol-inw0008
+20151211,BANK,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.thehindu.com/news/cities/puducherry/flood-aid-through-dbt/article7974144.ece
+20151219,CHIEF MINISTER,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.newindianexpress.com/states/tamil_nadu/Jaitley-to-Meet-Jaya-Assess-the-Tamil-Nadu-Flood-Damage/2015/12/19/article3185108.ece
+20151215,,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.ndtv.com/chennai-news/jayalalithaa-reaches-out-to-flood-hit-people-through-audio-message-1255404
+20160115,HINDU,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.thehindu.com/features/lit-for-life/from-srinagar-to-chennai-flood-tales/article8112689.ece
+20151211,BUSINESS,050,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.5,10,http://auto.economictimes.indiatimes.com/news/aftermarket/car-service-provider-my-tvs-to-provide-tow-repair-to-vehicles-affected-during-chennai-floods/50140016
+20151214,VENKAIAH NAIDU,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.dailypioneer.com/todays-newspaper/mudra-to-give-chennai--flood-victims-a-leg-up.html
+20151206,COLLEGE,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.thehindu.com/news/cities/chennai/chennai-floods-man-drowns-while-trying-to-save-daughters-certificates/article7953677.ece
+20151203,ABU DHABI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.thenational.ae/uae/etihad-flights-to-chennai-cancelled-due-to-flooding
+20151204,NEWSPAPER,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.dnaindia.com/india/report-chennai-floods-18-patients-on-ventilator-support-in-hospital-die-due-to-power-failure-2151930
+20151204,CHENNAI,128,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://article.wn.com/view/2015/12/04/More_rain_forecast_as_floods_inundate_Chennais_street_homes_/
+20151203,NAVAL BASE,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://m.thehindu.com/news/national/prime-minister-narendra-modis-does-aerial-survey-on-tn-floods-announces-rs1000-cr/article7945526.ece
+20151207,TAMIL,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://businessofcinema.com/regionalmovies/chennai-floods-rajinikanth-vijay-ajith-and-other-south-celebs-donate-generously/257790
+20151203,POLICE,166,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.0,10,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2015-12-03-AS-India-Monsoon-Flooding/id-a59557c945104629be4fad3a164d5abd
+20151203,NEW DELHI,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://economictimes.indiatimes.com/news/politics-and-nation/president-pranab-mukherjee-hopes-tamil-nadu-people-will-overcome-flood-tragedy-with-dignity/articleshow/50022543.cms
+20151211,GOVERNMENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.maalaimalar.com/2015/12/11123122/Ramadoss-report-flood-affected.html
+20151202,CITIZEN,154,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.2,10,http://www.csmonitor.com/World/Global-News/2015/1202/India-deploys-troops-in-south-to-help-citizens-deal-with-deadly-floods
+20151116,CHENNAI,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://deccanchronicle.com/151116/nation-current-affairs/article/jaya-visits-flood-hit-pockets-north-chennai-announces-rs-500
+20151211,PARIS,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.indiatimes.com/news/india/paris-comes-out-in-support-of-chennai-raise-funds-for-flood-victims-248276.html
+20151211,ACTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.hindustantimes.com/regional-movies/chennai-floods-kamal-haasan-contributes-rs-15-lakhs/story-RPqSwZzDAikmiJaRtXFLOK.html
+20151203,PRIME MINISTER,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://m.thehindu.com/news/national/prime-minister-narendra-modis-does-aerial-survey-on-tn-floods-announces-rs1000-cr/article7945526.ece
+20151203,ARMY,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://www.firstpost.com/india/chennai-floods-twelve-hours-with-the-army-rescue-team-2532212.html
+20151221,COMPANIES,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://www.dailypioneer.com/todays-newspaper/mudra-to-give-chennai--flood-victims-a-leg-up.html
+20151203,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.straitstimes.com/singapore/singaporeans-advised-to-postpone-travel-to-chennai-because-of-severe-flooding
+20151212,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://economictimes.indiatimes.com/news/politics-and-nation/chennai-floods-result-of-bad-town-planning-the-new-project-that-never-took-off-could-have-averted-the-havoc/articleshow/50152691.cms
+20151129,GOVERNMENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://economictimes.indiatimes.com/news/politics-and-nation/pm-narendra-modis-chennai-flood-survey-pmo-seeks-explanation-on-image-alteration/articleshow/50069478.cms
+20151203,,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://www.dnaindia.com/money/report-chennai-floods-indigo-cancels-all-flights-to-and-fro-chennai-till-december-5-2151676
+20151203,MEDIA,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://media.canberratimes.com.au/featured/dozens-die-in-chennai-floods-7055177.html
+20151221,NEW DELHI,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://economictimes.indiatimes.com/industry/auto/news/industry/honda-announces-multiple-measures-to-repair-cars-affected-by-chennai-floods/articleshow/50268099.cms
+20151212,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://overdrive.in/news/nissan-reopens-service-centres-in-chennai-to-cater-to-flood-affected-customers/
+20151212,DEALER,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://overdrive.in/news/nissan-reopens-service-centres-in-chennai-to-cater-to-flood-affected-customers/
+20151208,MEDIA,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://scroll.in/article/774371/what-the-celeb-obsessed-media-missed-in-its-chennai-flood-reports-useful-information-for-victims
+20151208,PUBLIC SECTOR,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.moneycontrol.com/news/current-affairs/finmin-meets-psu-insurers-irda-to-expedite-tn-flood-claims_4500961.html
+20151212,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.asianage.com/india/chennai-flood-air-fares-hit-roof-during-crisis-436
+20151212,,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://timesofindia.indiatimes.com/city/nashik/Nashik-app-helps-20000-Chennai-floods-victims/articleshow/50132500.cms
+20151204,RESIDENTS,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.WLOX.com/story/30665694/flood-waters-swirl-in-south-india-even-as-rain-eases
+20151212,CABINET,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.patrika.com/news/states/the-government-has-failed-to-deal-with-flooding-1143675/
+20151205,CORPORATION,0841,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.thehindu.com/news/national/tamil-nadu/tirunelveli-corporation-to-collect-relief-materials-to-help-flood-victims/article7951411.ece
+20151205,AIRWAY,160,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://seatingchair.com/2015/12/05/united-states-offers-help-in-chennai-floods-42009.html
+20151208,PRIME MINISTER,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.democracynow.org/2015/12/8/indian_pm_links_worst_floods_in
+20160108,GOVERNMENT,1031,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://www.thehindu.com/news/cities/chennai/sanitary-workers-involved-in-flood-relief-move-hc-for-better-compensation/article8080327.ece
+20160121,NEWSPAPER,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.newindianexpress.com/cities/chennai/DMK-Using-False-Report-on-Floods-For-Poll-Gains-PWD-Minister/2016/01/22/article3238551.ece
+20151209,,0841,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.news18.com/news/madhya-pradesh/when-a-student-donated-her-over-rs-6000-saving-for-chennai-flood-victims-848225.html
+20151204,CABINET,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.business-standard.com/article/government-press-release/cabinet-secretary-chairs-ncmc-meeting-to-review-flood-situation-in-tamil-115120401177_1.html
+20151224,COMPANY,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.sify.com/finance/tcs-to-hand-out-rs-5-lakh-for-its-flood-affected-chennai-staff-news-finance-pmylgMagejdhi.html
+20151202,ACTOR,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://food.ndtv.com/food-drinks/chennai-floods-extend-a-helping-hand-heres-what-you-can-do-1250261
+20151215,ACTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.desimartini.com/news/bollywood/akshay-kumar-donates-rs-1-crore-chennai-flood-victims/article27968.htm
+20151205,PRIME MINISTER,182,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.5,10,http://www.amarujala.com/feature/samachar/national/prime-minister-announced-compensation-to-deceased-men-s-family-in-chennai-flood-hindi-news/
+20151205,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.newindianexpress.com/cities/chennai/Chennai-Flood-Coast-Guard-Saves-2K-People/2015/12/05/article3162142.ece
+20151207,ACTOR,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://businessofcinema.com/regionalmovies/chennai-floods-rajinikanth-vijay-ajith-and-other-south-celebs-donate-generously/257790
+20151205,AUTHORITIES,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.freemalaysiatoday.com/category/world/2015/12/05/tamil-nadu-floods-kill-hospital-patients-but-rains-ease/
+20151205,,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.newindianexpress.com/cities/chennai/Chennai-Flood-Coast-Guard-Saves-2K-People/2015/12/05/article3162142.ece
+20151203,ARMY,166,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.0,10,http://www.gulf-times.com/india/185/details/465200/india-army-on-war-footing-to-rescue-survivors-as-flood-toll-nears-270
+20151207,WEBSITE,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.newslaundry.com/2015/12/07/whos-afraid-of-jayalalithaa-is-the-media-going-soft-on-tn-government-in-the-wake-of-chennai-floods/
+20151205,MEDIA,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.dnaindia.com/india/report-chennai-floods-what-unfolded-when-a-resident-took-up-a-garbage-cleaner-s-job-2152474
+20151205,GOVERNMENT,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://www.lidtime.com/saina-nehwal-to-donate-rs-2-lakh-for-tamil-nadu-flood-victims-3767/
+20151116,HEALTH OFFICIAL,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://reliefweb.int/report/india/flooded-hospitals-turn-potential-dengue-breeding-sites-chennai
+20151205,GOVERNMENT OFFICIAL,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.thehindu.com/news/cities/Delhi/gogoi-holds-meeting-on-chennai-flood-situation/article7950419.ece
+20151205,NAVY,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.financialexpress.com/article/economy/chennai-floods-ins-airavat-begins-relief-work-two-more-ships-to-arrive/174440/
+20151213,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.newindianexpress.com/cities/chennai/Flood-hit-Lose-Shelter-as-Schools-Reopen-in-Chennai/2015/12/14/article3176420.ece
+20151205,TAMIL,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.ibtimes.co.in/theri-star-vijay-donate-rs-5-crore-chennai-flood-victims-658184
+20151202,MEDIA,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://economictimes.indiatimes.com/news/politics-and-nation/chennaiflood-support-pours-in-on-social-media/articleshow/50019557.cms
+20151213,CHENNAI,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://nripress.com/dont-blame-us-for-floods-tamil-nadu-government/
+20151213,,0841,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.thehindu.com/news/national/tamil-nadu/celebrate-christmas-by-donating-for-floodhit-bishop-urges-christians/article7982271.ece
+20151202,,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.thestatesman.com/news/india/chennai-flood-situation-may-worsen-as-more-rains-to-hit/107976.html
+20151203,VODAFONE,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://trak.in/tags/business/2015/12/03/brands-business-establishments-provided-assistance-chennai-flood-victims/
+20151211,GOVERNMENT,015,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.boomlive.in/dont-just-blame-climate-change-chennai-floods-were-a-manmade-disaster/
+20151211,FINANCE MINIST,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://indread.com/20720/kamal-hassan-donates-to-chennai-floods
+20151207,CHIEF MINISTER,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.business-standard.com/article/pti-stories/cm-deputes-officer-to-help-arunachalese-in-flooded-chennai-115120700755_1.html
+20151207,MEDIA,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://hindi.webdunia.com/my-blog/chennai-flood-social-media-115120600033_1.html
+20151211,SINGAPORE,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,https://sg.news.yahoo.com/singapore-s-mercy-relief-disburses--10-000-for-south-india-floods-001739017.html
+20151207,STUDENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.thestar.com.my/news/nation/2015/12/08/12-students-finally-back-from-chennai-msians-wade-through-flood-waters-and-endure-15hour-road-trip-b/
+20151207,POLICE,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.stardailystandard.com/breaking/photos-chennai-grapples-with-flood-aftermath/37551/
+20151207,SEX WORKER,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.dnaindia.com/india/report-what-maharashtra-sex-workers-did-for-chennai-flood-victims-will-blow-your-mind-2153151
+20151210,MEDIA,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://indread.com/20596/karthi-says-as-chennai-floods-decreases-the-worry-increases
+20151204,BANK,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.business-standard.com/article/current-affairs/chennai-floods-take-their-toll-to-banks-atms-115120400936_1.html
+20151203,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.hindustantimes.com/india/chennai-floods-affect-pharma-majors-some-suspend-production/story-PSdEPvmEMisvyfDtdp45EO.html
+20151202,WORKER,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://morungexpress.com/record-rains-flood-tamil-nadu-more-to-come/
+20151204,HOSPITAL,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.oneindia.com/india/chennai-floods-shocking-18-icu-patients-die-due-power-fail-reports-1946070.html
+20160116,FRANCE,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://indiatoday.intoday.in/story/india-to-follow-frances-high-tech-flood-warning-systems/1/571895.html
+20151203,ARMY,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.newindianexpress.com/cities/chennai/Chennai-Flood-Armed-Forces-Continue-Rescue-Operations-Evacuate-Over-5000-People/2015/12/03/article3159323.ece
+20151204,CHIEF MINISTER,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.newindianexpress.com/cities/chennai/Jaya-Surveys-Three-Flood-hit-Districts/2015/12/04/article3159879.ece
+20151208,POLICE,080,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.0,10,http://www.dawn.com/news/1225013/ex-indian-army-officer-and-wife-drown-during-chennai-floods
+20160108,GOVERNMENT,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://scroll.in/article/801455/with-opposition-slamming-amma-over-floods-aiadmk-takes-to-whatsapp-audio-rebuttals
+20151218,CORPORATION,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.thehindu.com/news/cities/chennai/postfloods-whither-swachh-bharat/article8002428.ece
+20151202,CHENNAI,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://economictimes.indiatimes.com/news/politics-and-nation/chennaiflood-support-pours-in-on-social-media/articleshow/50019557.cms
+20151212,CARRIER,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.portstrategy.com/news101/world/asia/chennai-port-operations-crippled-by-floods
+20151212,COMPANIES,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://blogs.economictimes.indiatimes.com/et-citings/chennai-deluge-everybody-does-not-love-a-good-flood/
+20151225,WORKER,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.newindianexpress.com/cities/chennai/Festive-Bells-Ring-in-Joy-for-Flood-hit-Sweeper/2015/12/25/article3192660.ece
+20151215,CIVIL SOCIETY,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.ndtv.com/chennai-news/jayalalithaa-reaches-out-to-flood-hit-people-through-audio-message-1255404
+20151212,PARIS,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://allindiaroundup.com/news/paris-comes-out-in-support-of-chennai-raises-funds-for-flood-victims/
+20151208,SEX WORKER,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.mid-day.com/articles/maharashtra-sex-workers-donate-rs-1-lakh-for-chennai-flood-aid/16752156
+20151208,COIMBATORE,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.ibtimes.co.in/chennai-floods-class-5-students-coimbatore-donate-towels-cash-victims-658531
+20151212,COMPANY,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://inextlive.jagran.com/tata-consultancy-services-help-flood-struck-chennai-employees-201512120015
+20160108,GOVERNMENT,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://scroll.in/article/801455/with-opposition-slamming-amma-over-floods-aiadmk-takes-to-whatsapp-audio-rebuttals
+20151212,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.newindianexpress.com/cities/chennai/Teen-Hero-for-Flood-hit-Dies-Kin-Blame-it-on-Insect-Bite/2015/12/13/article3174817.ece
+20151212,DOCTOR,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.newindianexpress.com/cities/chennai/Teen-Hero-for-Flood-hit-Dies-Kin-Blame-it-on-Insect-Bite/2015/12/13/article3174817.ece
+20151224,NON GOVERNMENTAL ORGANISATION,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.thehindu.com/opinion/op-ed/nityanand-jayaraman-on-chennai-floods-shock-but-no-awe/article8026139.ece
+20151203,HOME MINIST,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://news.chennaionline.com/national/Tamil-Nadu-facing-unprecedented-floods--Naidu--/66089847-c74c-45d7-bd43-877099853f9a.col
+20151203,AMERICAN,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.indiatvnews.com/buzz/life/chennai-rains-how-to-help-flood-victims-251.html
+20151210,COMPANY,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://www.cartrade.com/car-bike-news/hyundai-india-donates-rs-2-crore-for-chennai-floods-relief-130741.html
+20151203,CONGRESS,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.firstpost.com/politics/fifth-day-of-winter-session-chennai-floods-intolerance-debate-dominate-both-houses-of-parliament-2531422.html
+20151203,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.financialexpress.com/article/industry/companies/chennai-rain-and-floods-cognizant-infosys-tcs-hyundai-ford-renault-suspend-operations/173665/
+20151211,POLITICIAN,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.thestar.com.my/opinion/columnists/why-not/2015/12/11/lessons-from-the-perfect-storm-as-malaysians-wait-for-the-annual-monsoon-rains-and-floods-to-hit-the/
+20151206,HYUNDAI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.business-standard.com/article/pti-stories/corporates-help-flood-hit-people-115120600577_1.html
+20151211,MINISTRY,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.nyoooz.com/chennai/287344/centre-has-declared-tn-floods-as-calamity-of-severe-nature58-jayalalithaa
+20151203,PRIME MINISTER,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.newindianexpress.com/editorials/Chennai-Floods-A-National-Calamity/2015/12/03/article3158479.ece
+20151211,CITIZEN,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://indianexpress.com/article/opinion/columns/chennai-floods-rains-kerala/
+20151209,GOVERNMENT,015,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://theconversation.com/dont-just-blame-climate-change-chennai-floods-were-a-manmade-disaster-51849
+20151207,STUDENT,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.thehindu.com/news/national/kerala/pmc-to-collect-medicines-for-floodhit-chennai/article7956912.ece
+20151211,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://newstodaynet.com/chennai/anakaputhur-weavers-lose-everything-floods
+20151207,HYUNDAI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.ptinews.com/news/6822379_Corporates-help-flood-hit-people.html
+20151207,RESIDENTS,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.anandabazar.com/national/iaf-airlifted-a-pregnant-woman-from-a-flooded-area-1.257139
+20151203,PRIME MINISTER,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.firstpost.com/politics/fifth-day-of-winter-session-chennai-floods-intolerance-debate-dominate-both-houses-of-parliament-2531422.html
+20151203,QATAR,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.gulf-times.com/qatar/178/details/465162/chennaites-in-qatar-worried-about-kin-in-flood-hit-city
+20151227,SUPREME COURT,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.livemint.com/Politics/HYNANrGimcyW3ilhZtSQnK/Aadhaar-comes-to-the-rescue-during-Tamil-Nadu-floods.html
+20151202,PRODUCER,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.ibtimes.co.in/chennai-floods-sivakarthikeyans-rajini-murugan-release-postponed-due-heavy-rain-657649
+20151207,TELUGU,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.iluvcinema.in/telugu/chennai-floods-telugu-movie-artistes-association-maa-announces-huge-amount/
+20151211,COMPANY,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://www.thehindu.com/news/national/tamil-nadu/insurance-houses-flooded-with-calls/article7973451.ece
+20151109,,092,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://reliefweb.int/report/india/act-alert-india-cyclone-floods-threaten-tamil-nadu
+20151206,AUTHORITIES,025,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.3,10,http://zeenews.india.com/news/india/chennai-floods-flight-operations-resume-as-plane-to-port-blair-takes-off_1831077.html
+20151209,,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.thehindu.com/news/cities/chennai/on-board-noahs-ark-animal-rescue-missions-during-the-floods/article7966158.ece
+20151218,EMPLOYEE,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://profit.ndtv.com/news/market/article-take-solutions-sinks-8-over-chennai-floods-warning-1256356
+20151202,ACTOR,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://economictimes.indiatimes.com/news/politics-and-nation/chennaiflood-support-pours-in-on-social-media/articleshow/50019557.cms
+20151230,LAWMAKER,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.ndtv.com/tamil-nadu-news/chennai-floods-over-195-crore-contributed-to-chief-ministers-public-relief-fund-1260577
+20160115,SRINAGAR,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.thehindu.com/features/lit-for-life/from-srinagar-to-chennai-flood-tales/article8112689.ece
+20160115,PROFESSOR,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.thehindu.com/features/lit-for-life/from-srinagar-to-chennai-flood-tales/article8112689.ece
+20151214,MEDIA,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.dnaindia.com/analysis/column-chennai-floods-brought-out-the-best-in-people-2155343
+20151214,CONGRESS,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://post.jagran.com/parrikar-keeps-birthday-bash-low-congress-says-bjp-insensitive-to-flood-victims-1450061410
+20151214,CHENNAI,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.sify.com/news/dont-blame-us-for-floods-tamil-nadu-government-news-chennai-pmnvuijijghcg.html
+20151203,WORLD VISION,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.gqindia.com/get-smart/pop-culture/help-victims-chennai-floods/
+20151209,POLICE,023,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.ndtv.com/chennai-news/how-people-of-chennai-are-coming-together-to-help-flood-affected-1253094
+20151204,QATAR,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.menafn.com/1094460974/Chennaites-in-Qatar-worried-about-kin-in-flood-hit-city
+20151204,NAVY,160,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://www.aljazeera.com/news/2015/12/hundreds-trapped-rooftops-flood-devastated-india-151204060826339.html
+20151203,MINIST,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://news.chennaionline.com/national/Tamil-Nadu-facing-unprecedented-floods--Naidu--/66089847-c74c-45d7-bd43-877099853f9a.col
+20151204,CIVIC GROUP,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.newindianexpress.com/cities/bengaluru/Netizens-Criticise-Bengaluru-Town-Planning-Aftermath-of-Chennai-Flood/2015/12/04/article3160144.ece
+20151204,PARAMILITARY FORCE,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.straitstimes.com//asia/south-asia/death-toll-in-tamil-nadu-floods-hits-269
+20151204,NEW DELHI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.theborneopost.com/2015/12/04/more-than-90-malaysians-still-stranded-in-flood-battered-chennai/
+20151224,EMPLOYEE,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.sify.com/finance/tcs-to-hand-out-rs-5-lakh-for-its-flood-affected-chennai-staff-news-finance-pmylgMagejdhi.html
+20151205,RESIDENTS,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.freemalaysiatoday.com/category/world/2015/12/05/tamil-nadu-floods-kill-hospital-patients-but-rains-ease/
+20160114,DEALER,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,https://www.rushlane.com/chennai-floods-damaged-cars-auction-prices-12179095.html
+20151202,DEPUTY,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://indianexpress.com/article/india/india-news-india/chennai-flood-jayalalithaa-seeks-rs-8400-cr-rs-mps-offer-aid/
+20151202,AUTHORITIES,160,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://www.asianews.it/news-en/Floods-immobilize-Chennai:-at-least-188-victims-36035.html
+20151205,ACTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.merinews.com/article/prominent-celebrities-who-have-offered-a-helping-hand-to-chennai-flood-relief/15911720.shtml
+20151202,COMPANY,0311,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://www.financialexpress.com/article/markets/indian-markets/tvs-motor-sundaram-clayton-ashok-leyland-shares-fall-after-chennai-floods-december-2-2015/173309/
+20151202,TAMIL NADU,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,10,http://www.thewiire.com/news/chennai-fights-with-floods-after-heavy-rain/16088/
+20151205,,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.straitstimes.com/asia/south-asia/more-troops-out-to-rescue-chennai-flood-victims
+20151202,NEW DELHI,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,10,http://economictimes.indiatimes.com/industry/telecom/paytm-offers-free-mobile-recharges-to-help-flood-hit-chennai-residents/articleshow/50012988.cms
+20151202,,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://qz.com/563397/chennai-floods-once-again-social-media-is-helping-indians-while-the-government-flounders/
+20151202,,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.mid-day.com/articles/helpline-numbers-issued-in-chennai-amid-flood-alert/16733153
+20151202,VODAFONE,0331,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://www.themobileindian.com/news/17177_Bharti-Airtel-Vodafone-extends-support-to-Chennai-flood-victims
+20151205,NEW DELHI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://malaysiandigest.com/news/582742-more-than-90-malaysians-still-stranded-in-flood-battered-chennai.html
+20151202,,113,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.dnaindia.com/money/report-indigo-suspends-all-flight-operations-in-chennai-today-due-to-floods-2151158
+20151202,GOVERNMENT,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.ibtimes.co.uk/chennai-floods-indian-city-battered-by-torrential-rain-bringing-life-standstill-1531480
+20151205,TELECOM,080,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.0,10,http://www.ibtimes.co.in/chennai-floods-telcos-losses-pegged-rs-300-crore-658142
+20151206,,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.news24.com/World/News/top-india-politician-faces-criticism-over-deadly-floods-20151206
+20151206,GOVERNMENT,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://indianexpress.com/article/business/banking-and-finance/chennai-floods-banks-to-consider-loan-recasts-after-easing-emi-rules/
+20151210,CATHOLIC,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://en.radiovaticana.va/news/2015/12/10/india_churches_to_cancel_christmas_to_aid_flood_victims_/1193439
+20151205,ENVIRONMENT MINIST,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.abcactionnews.com/newsy/indias-environment-minister-blames-chennai-floods-on-climate-change
+20151210,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://news.asiaone.com/news/asia/singapore-ngo-mercy-relief-start-distributing-supplies-flood-hit-chennai
+20151206,THE US,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.business-standard.com/article/pti-stories/chennai-author-s-debut-book-contributes-to-flood-victims-115120600223_1.html
+20151205,REUTERS,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.freemalaysiatoday.com/category/world/2015/12/05/tamil-nadu-floods-kill-hospital-patients-but-rains-ease/
+20151129,GOVERNMENT,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://economictimes.indiatimes.com/news/politics-and-nation/pm-narendra-modis-chennai-flood-survey-pmo-seeks-explanation-on-image-alteration/articleshow/50069478.cms
+20151125,RESIDENTS,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.ndtv.com/chennai-news/rainwater-recedes-but-chennais-it-corridor-stays-flooded-1247620
+20151206,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.dnaindia.com/india/comment-trapped-and-cut-off-notes-from-surviving-the-chennai-floods-2152691
+20151203,DIRECTOR GENERAL,154,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.2,10,http://www.niticentral.com/2015/12/03/chennai-flood-2-337688.html
+20160128,,0841,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,https://www.ibcworldnews.com/2016/01/28/bridgestone-india-contributes-1-cr-for-chennai-flood-relief/
+20151206,BANK,0331,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://economictimes.indiatimes.com/industry/banking/finance/banking/banks-like-sbi-icici-go-all-out-to-extend-support-to-customers-in-flood-hit-chennai/articleshow/50063477.cms
+20151205,GOVERNMENT,031,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://thebangladeshtoday.com/2015/12/chennai-floods-are-an-ecological-wake-up-call/
+20151206,GOVERNMENT,031,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://www.thefrontierpost.com/article/359039/chennai-floods-are-an-ecological-wake-up-call/
+20151206,MINISTRY,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,10,"http://www.thecitizen.in/NewsDetail.aspx?Id=6061&Boats%20Replace%20Taxis,%20Food%20In%2030%20Minutes:%20Startups%20Offer%20Chennai%20Flood%20Relief"
+20151206,MINIST OF HOME AFFAIRS,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://indianexpress.com/article/india/india-news-india/urban-flood-unit-mooted-by-expert-panel-yet-to-be-set-up/
+20160107,GOVERNMENT,1031,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://www.thehindu.com/news/cities/chennai/sanitary-workers-involved-in-flood-relief-move-hc-for-better-compensation/article8074650.ece
+20151206,CITIZEN,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://unnindia.com/2015/12/06/18-die-in-india-hospital-as-floods-cut-off-power/
+20151206,EMPLOYEE,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.newindianexpress.com/cities/bengaluru/Bangalore-Chips-in-Wholeheartedly-for-Chennai-Flood-Relief/2015/12/06/article3163771.ece
+20151210,PUBLIC SECTOR,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.sify.com/finance/chennais-worst-floods-security-guards-and-safaiwalas-in-corporates-fear-salary-loss-news-finance-pmjja4eigcjcc.html
+20151206,GOVERNMENT,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.dailyo.in/politics/chennai-floods-tamil-nadu-indian-army-ndrf-j-jayalalithaa-aiadmk-dmk-chennairainshelp-social-media-delhi/story/1/7783.html
+20151203,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://news.chennaionline.com/national/Tamil-Nadu-facing-unprecedented-floods--Naidu--/66089847-c74c-45d7-bd43-877099853f9a.col
+20160107,GOVERNMENT,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.dnaindia.com/india/report-tamil-nadu-government-credits-flood-relief-cash-to-people-s-accounts-2163099
+20151222,CHIEF MINISTER,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.thehindu.com/news/cities/chennai/flood-relief-spotlight-on-centrestate-relationship/article8015780.ece
+20151210,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.thestar.com.my/news/nation/2015/12/11/lessons-from-the-perfect-storm-as-malaysians-wait-for-the-annual-monsoon-rains-and-floods-to-hit-the/
+20151202,NEW DELHI,125,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://www.dailyexcelsior.com/adjournment-notice-on-chennai-floods-accepted-in-ls-amid-slogan-shouting/
+20151117,GOVERNMENT,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.agi.it/en/flash-news/articles/india_floods_in_the_south_kill_more_than_70_people-201511171809-pol-inw0008
+20151222,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.thehindu.com/news/cities/chennai/flood-relief-spotlight-on-centrestate-relationship/article8015780.ece
+20151222,COMMUNITY,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.pv-magazine.com/services/press-releases/details/beitrag/solartown-provides-critical-support-for-chennai-communities-during-floods-as-electric-grids-shut-down_100022538/
+20151202,COMPANY,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://zeenews.india.com/business/automobiles/auto-news/chenani-floods-hyundai-ford-renault-suspend-operations_1829435.html
+20151222,GOVERNMENT OFFICIAL,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.thehindu.com/news/cities/chennai/flood-relief-spotlight-on-centrestate-relationship/article8015780.ece
+20151218,MUMBAI,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://profit.ndtv.com/news/market/article-take-solutions-sinks-8-over-chennai-floods-warning-1256356
+20151203,,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.firstpost.com/politics/fifth-day-of-winter-session-chennai-floods-intolerance-debate-dominate-both-houses-of-parliament-2531422.html
+20151206,BANK,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://indianexpress.com/article/business/banking-and-finance/chennai-floods-banks-to-consider-loan-recasts-after-easing-emi-rules/
+20151109,ADMINISTRATION,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://reliefweb.int/report/india/act-alert-india-cyclone-floods-threaten-tamil-nadu
+20151217,ACTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.india.com/news/india/red-cross-society-of-china-donates-50000-usd-towards-chennai-flood-relief-792001/
+20151204,CORPORATION,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://zeenews.india.com/news/tamil-nadu/this-mans-advice-would-have-helped-chennai-avoid-flood-fury_1830454.html
+20151210,SINGAPORE,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.channelnewsasia.com/news/singapore/chennai-floods-corporate/2335960.html
+20151206,THE US,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.abc.net.au/news/2015-12-06/chennai-airport-reopens-locals-frustrated-by-slow-flood-response/7005640
+20160107,DEALER,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.rushlane.com/chennai-floods-damaged-cars-auction-prices-12179095.html
+20151125,MEDIA,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.thehindu.com/news/cities/chennai/when-metro-rail-was-flooded-with-commuters/article7916489.ece
+20151206,BANGALORE,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.deccanherald.com/content/516068/chennai-like-flooding-not-happen.html
+20151210,TAMIL,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.indiapost.com/appeal-for-funds-for-chennai-flood-relief/
+20151206,PUBLISHING HOUSE,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.business-standard.com/article/pti-stories/chennai-author-s-debut-book-contributes-to-flood-victims-115120600223_1.html
+20151206,GOVERNMENT,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.dnaindia.com/india/comment-trapped-and-cut-off-notes-from-surviving-the-chennai-floods-2152691
+20151203,,041,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.siasat.com/news/rains-floods-kill-269-tamil-nadu-rajnath-879426/
+20151206,AUTHORITIES,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.stardailystandard.com/uk/south-indian-floods-kill-hospital-sufferers-however-rains-ease/33810/
+20151206,WORKER,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.dnaindia.com/india/comment-trapped-and-cut-off-notes-from-surviving-the-chennai-floods-2152691
+20151206,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.business-standard.com/article/pti-stories/chennai-author-s-debut-book-contributes-to-flood-victims-115120600223_1.html
+20151206,GOVERNMENT,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://indianexpress.com/article/business/banking-and-finance/chennai-floods-banks-to-consider-loan-recasts-after-easing-emi-rules/
+20151202,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.thestatesman.com/news/southern-cinema/siddharth-helps-his-city-residents-as-chennai-floods-create-havoc/107881.html
+20151206,RESIDENTS,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.stardailystandard.com/uk/south-indian-floods-kill-hospital-sufferers-however-rains-ease/33810/
+20151210,TAMIL,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.indiatvnews.com/entertainment/bollywood/rajinikanth-steps-ahead-from-srk-donates-rs-crore-to-chennai-flood-victims-25647.html
+20151208,DOCTOR,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.bgr.in/news/mobile-app-to-provide-24x7-doctors-advice-to-people-in-flood-hit-chennai/
+20151210,EMPLOYEE,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://telugu.oneindia.com/news/india/tata-consultancy-services-sets-aside-rs-1-100-crore-help-flood-struck-chennai-169014.html
+20151206,MINISTRY,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://economictimes.indiatimes.com/news/politics-and-nation/pm-narendra-modis-chennai-flood-survey-pmo-seeks-explanation-on-image-alteration/articleshow/50069478.cms
+20151206,ADMINISTRATION,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.thehindu.com/news/national/andhra-pradesh/helping-hand-to-flood-victims/article7953506.ece
+20151206,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.business-standard.com/article/pti-stories/chennai-author-s-debut-book-contributes-to-flood-victims-115120600223_1.html
+20151206,BANK,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://indianexpress.com/article/business/banking-and-finance/chennai-floods-banks-to-consider-loan-recasts-after-easing-emi-rules/
+20151206,POLICE,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.dnaindia.com/india/chennai-floods-live-updates-heavy-rain-resumes-in-airport-area-train-services-restart-2152548
+20151202,PARLIAMENT,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.business-standard.com/article/current-affairs/pm-tracks-chennai-floods-situation-on-hourly-basis-115120201253_1.html
+20151204,AUTHORITIES,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://dailycapital.pk/india-floods-death-toll-rises-to-269/
+20151222,COMPANY,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,10,http://www.myiris.com/news/company-update/take-solutions-q3-revenues-and-margins-to-be-impacted-by-chennai-floods/20151218134702199
+20160107,COMPANY,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.cardekho.com/india-car-news/chennai-flood-luxury-cars-being-auctioned-at-throwaway-prices-17424.htm
+20151206,,0311,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://www.dailyo.in/politics/chennai-floods-tamil-nadu-indian-army-ndrf-j-jayalalithaa-aiadmk-dmk-chennairainshelp-social-media-delhi/story/1/7783.html
+20151202,INDUSTRY,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.business-standard.com/article/news-ians/rs-15-000-crore-loss-in-flood-hit-tamil-nadu-assocham-115120200784_1.html
+20151128,MAYOR,174,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://newstodaynet.com/chennai/mayor-hails-speedy-flood-relief-work
+20151202,RESIDENTS,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.business-standard.com/article/news-ians/rains-floods-devastate-chennai-rs-15-000-crore-loss-estimated-roundup-115120201206_1.html
+20151202,MEDIA,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.bollywoodlife.com/news-gossip/allu-arjun-donates-rs-25-lakhs-for-chennai-floods-relief/
+20151215,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.thehindubusinessline.com/specials/flight-plan/the-flood-fury-and-after/article7992702.ece
+20151203,AIR FORCE,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.gujaratsamachar.com/index.php/articles/display_article/chennai-india-floods-increase-in-the-price-of-milk-and-vegetables-tamilanadu
+20151203,ARMY,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://zeenews.india.com/live-updates/chennai-remains-flooded-more-heavy-rains-forecast-1829695
+20151202,WORKER,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://qz.com/563843/chennai-flooding-photos/
+20151203,HOME MINIST,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.reuters.com/article/2015/12/03/india-floods-idUSL3N13S2AQ20151203
+20151203,GUJARAT,140,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,10,http://www.firstpost.com/politics/fifth-day-of-winter-session-chennai-floods-intolerance-debate-dominate-both-houses-of-parliament-2531422.html
+20151204,RESIDENTS,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.iamin.in/en/bangalore-central/news/bangalore-corporator-collects-funds-chennai%E2%80%99s-flood-victims-77744
+20151230,LAWMAKER,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.ndtv.com/tamil-nadu-news/chennai-floods-over-195-crore-contributed-to-chief-ministers-public-relief-fund-1260577
+20151124,MEDIA,128,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://www.thehindu.com/news/cities/chennai/its-a-flood-of-rumours-too/article7910396.ece
+20151204,GOVERNMENT,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.ameripublications.com/flood-waters-swirl-in-south-india-even-as-rain-eases/31401
+20151204,PRIME MINISTER,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,10,http://khaleejtimes.com/offbeat/india-deletes-doctored-photo-of-modi-at-flood-scene-aides-promise-action
+20151204,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.asianews.it/news-en/Tamil-Nadu:-Dramatic-conditions-of-the-flood-affected-population-36059.html
+20151208,GOVERNMENT,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://scroll.in/article/774371/what-the-celeb-obsessed-media-missed-in-its-chennai-flood-reports-useful-information-for-victims
+20151224,DOCTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.asianage.com/mumbai/mard-secret-santa-flood-victims-461
+20151117,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.ibtimes.co.in/ola-starts-boat-service-chennai-rescue-flood-affected-people-655233
+20151202,METEOROLOGICAL DEPARTMENT,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.digitaljournal.com/news/world/india-deploys-troops-in-south-as-deadly-floods-worsen/article/451046
+20151125,SCHOOL,015,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://timesofindia.indiatimes.com/city/chennai/Concerns-of-parents-flood-online-portals/articleshow/49914878.cms
+20151211,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.thestar.com.my/opinion/columnists/why-not/2015/12/11/lessons-from-the-perfect-storm-as-malaysians-wait-for-the-annual-monsoon-rains-and-floods-to-hit-the/
+20151211,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.maalaimalar.com/2015/12/11123122/Ramadoss-report-flood-affected.html
+20151211,MADURAI,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.newindianexpress.com/states/tamil_nadu/Network-to-Track-Missing-Flood-Victims/2015/12/11/article3171485.ece
+20151211,MILITARY,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.indianweekender.co.nz/Pages/ArticleDetails/25/6326/In-focus/Special-Report-Chennai-floods-water-recedes-anger-persists
+20151207,FARMER,122,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://www.freshplaza.com/article/150194/Bananas-worst-affected-by-Indian-floods
+20151112,HEALTH OFFICIAL,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://timesofindia.indiatimes.com/city/chennai/Flooded-hospitals-turn-potential-dengue-breeding-sites-in-Chennai/articleshow/49757040.cms
+20151207,PRESIDENT,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://indiatoday.intoday.in/story/chennai-rains-live-relief-and-rescue-operation-in-flood-hit-city-and-rahul-gandhi-visit/1/540101.html
+20151128,CRIMINAL,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://timesofindia.indiatimes.com/city/mumbai/HC-Save-wetlands-avoid-Chennai-like-flooding-in-Mumbai/articleshow/49955645.cms
+20151207,GOVERNMENT,031,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://www.project-syndicate.org/commentary/chennai-floods-urban-planning-disaster-by-shashi-tharoor-2015-12
+20151208,KANNADA,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.idiva.com/news-entertainment/shah-rukh-khan-other-celebs-donate-money-for-the-victims-of-chennai-floods/15120846
+20151207,HINDU,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.hindustantimes.com/bollywood/chennai-floods-shah-rukh-khan-donates-rs-1-crore/story-IBv8O2TuyaJkVeht5iOeRM.html
+20151211,ACTOR,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://indread.com/20862/dhanush-appreciates-rana-and-navdeep-for-raising-funds-to-chennai-floods
+20151207,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.dnaindia.com/money/report-chennai-floods-financial-institutions-banks-waiver-penalty-on-late-emi-payments-2152858
+20151203,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.newindianexpress.com/editorials/Chennai-Floods-A-National-Calamity/2015/12/03/article3158479.ece
+20151207,MEDIA,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.bollywoodlife.com/news-gossip/chennai-floods-anushka-sharma-has-been-reaching-out-to-those-in-need-of-help-and-we-love-her-for-that/
+20151215,EMPLOYEE,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://newstodaynet.com/chennai/bookasmile-pledges-support-flood-relief-chennai
+20151207,WORKER,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://www.dawn.com/news/1224787/ravaging-floods-chennai-gets-back-on-feet-residents-criticise-slow-response
+20151204,GOVERNMENT OFFICIAL,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.thestatesman.com/news/northeast/gogoi-holds-high-level-meeting-on-chennai-flood/108475.html
+20151223,CHIEF MINISTER,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.dailythanthi.com/News/State/2015/12/23034019/Rain-and-flood-damage-in-the-state-to-offer-a-complete.vpf
+20160107,GOVERNMENT,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://www.thehindu.com/news/cities/chennai/sanitary-workers-involved-in-flood-relief-move-hc-for-better-compensation/article8074650.ece
+20151202,,031,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://www.thestatesman.com/news/southern-cinema/siddharth-helps-his-city-residents-as-chennai-floods-create-havoc/107881.html
+20151203,PARLIAMENT,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.bbc.com/hindi/india/2015/12/151203_chennai_flood_update_ra
+20151202,MEDIA,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.gizbot.com/internet/news/chennai-floods-paytm-offering-free-mobile-recharge-help-local-residents-029948.html
+20151209,COMPANY,061,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.4,10,http://scroll.in/article/774573/zomatos-flood-initiative-wasnt-an-attempt-to-exploit-a-disaster-says-employee
+20151203,VODAFONE,0331,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://www.indiatvnews.com/business/india/10-companies-using-business-model-to-help-chennai-flood-victims-20631.html
+20151212,SOLICITOR GENERAL,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://m.thehindu.com/news/national/tamil-nadu/tamil-nadu-floods-madras-high-court-seeks-details-of-coordination-in-relief-work-by-december-16/article7977992.ece
+20151212,DELHI,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.asianage.com/india/chennai-flood-air-fares-hit-roof-during-crisis-436
+20151210,COMPANY,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://www.thehindu.com/news/cities/chennai/insurance-houses-flooded-with-calls/article7968071.ece
+20151205,RESIDENTS,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.lidtime.com/rains-ease-in-chennai-after-thousands-rescued-from-floods-8685/
+20151124,RESIDENTS,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.thehindu.com/news/cities/chennai/its-a-flood-of-rumours-too/article7910396.ece
+20151202,HINDU,080,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.0,10,http://www.oneindia.com/india/chennai-floods-nature-s-fury-stops-the-hindu-from-publication-for-the-1st-time-1943955.html
+20151124,ACTOR,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.mytechbits.com/dengue-kills-tamil-comedian-vivek-s-son-twitter-flooded-with-condolences/98152304/
+20151217,LEGISLATOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://timesofindia.indiatimes.com/tamil-nadu/Jayalalithaa-issues-audio-clip-to-boost-morale-of-flood-victims/articleshow/50217488.cms
+20160108,GOVERNMENT,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://www.thehindu.com/news/cities/chennai/sanitary-workers-involved-in-flood-relief-move-hc-for-better-compensation/article8080327.ece
+20151208,CHIEF MINISTER,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.thehindu.com/news/national/other-states/reconsider-building-hospital-on-yamuna-floodplain-activist/article7959417.ece
+20151225,WORKER,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.newindianexpress.com/cities/chennai/Festive-Bells-Ring-in-Joy-for-Flood-hit-Sweeper/2015/12/25/article3192660.ece
+20151210,POLITICIAN,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.thestar.com.my/news/nation/2015/12/11/lessons-from-the-perfect-storm-as-malaysians-wait-for-the-annual-monsoon-rains-and-floods-to-hit-the/
+20151202,COAST GUARD,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.business-standard.com/article/news-ians/food-cooked-in-coast-guard-ships-given-to-flood-hit-people-115120201129_1.html
+20151206,ACTIVIST,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,10,http://mauritaniavox.com/indian-army-battles-deadly-flooding-in-chennai/
+20151202,AUTHORITIES,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.nst.com.my/news/2015/12/115037/all-flights-cancelled-chennai-airport-due-floods
+20151124,REPRESENTATIVES,0841,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://timesofindia.indiatimes.com/city/chennai/Hyundai-Motor-India-Foundation-distributes-relief-materials-in-five-flood-hit-villages/articleshow/49912166.cms
+20151217,GOVERNMENT,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://timesofindia.indiatimes.com/tamil-nadu/Jayalalithaa-issues-audio-clip-to-boost-morale-of-flood-victims/articleshow/50217488.cms
+20151205,CORPORATION,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.puthiyathalaimurai.tv/chennai-floods-chennai-corpration-focus-to-relief-work-251617.html
+20151212,COMPANIES,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://blogs.economictimes.indiatimes.com/et-citings/chennai-deluge-everybody-does-not-love-a-good-flood/
+20151209,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.thehindu.com/news/national/tamil-nadu/special-camps-to-issue-certificates-lost-in-floods/article7995001.ece
+20151212,MAGAZINE,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://economictimes.indiatimes.com/news/politics-and-nation/chennai-floods-result-of-bad-town-planning-the-new-project-that-never-took-off-could-have-averted-the-havoc/articleshow/50152691.cms
+20151123,PRIME MINISTER,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.thehindu.com/news/national/tamil-nadu/tn-govt-pegs-flood-damage-at-rs-8481-cr-jayalalithaa-writes-to-modi/article7908361.ece
+20151206,COMPANIES,050,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.5,10,http://yourstory.com/2015/12/chennai-floods-losses/
+20151209,STUDENT,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.news18.com/news/madhya-pradesh/when-a-student-donated-her-over-rs-6000-saving-for-chennai-flood-victims-848225.html
+20151212,HOSPITAL,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.newindianexpress.com/cities/chennai/Teen-Hero-for-Flood-hit-Dies-Kin-Blame-it-on-Insect-Bite/2015/12/13/article3174817.ece
+20151208,CHIEF MINISTER,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.thehindu.com/news/national/other-states/reconsider-building-hospital-on-yamuna-floodplain-activist/article7959417.ece
+20151208,COMPANY,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://auto.economictimes.indiatimes.com/news/industry/hmil-contributes-rs-2-crores-towards-chennai-flood-relief-fund/50094268
+20151205,ASSAM,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.thehindu.com/news/cities/Delhi/gogoi-holds-meeting-on-chennai-flood-situation/article7950419.ece
+20151208,RESIDENTS,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.newindianexpress.com/states/andhra_pradesh/Flood-of-Donations-From-City-to-Chennai-Victims/2015/12/08/article3166606.ece
+20151208,ARMED FORCES,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.iluvcinema.in/hindi/chennai-floods-bollywood-stars-salutes-real-heroes/
+20151208,SCIENTIST,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,10,http://telugu.oneindia.com/news/india/chennai-floods-shocking-tamil-nadu-govt-ignored-repeated-warnings-by-scientists-168865.html
+20151209,COMPANIES,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://newstodaynet.com/chennai/biz-houses-banks-rush-reach-out-flood-hit-chennai
+20151212,EMPLOYEE,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://inextlive.jagran.com/tata-consultancy-services-help-flood-struck-chennai-employees-201512120015
+20151215,,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.thehindu.com/news/cities/chennai/floods-to-have-impact-on-political-parties-manifestos-too/article7989260.ece
+20151209,DEFENCE FORCE,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.ddinews.gov.in/Home%20-%20Headlines/Pages/interiorflood.aspx
+20151209,CHIEF MINISTER,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.newindianexpress.com/cities/chennai/Jaya-Announces-More-Aid-for-Flood-hit-Families/2015/12/09/article3168537.ece
+20151215,ARMY,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.thehindubusinessline.com/specials/flight-plan/the-flood-fury-and-after/article7992702.ece
+20151212,POLITICAL PARTIES,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.patrika.com/news/states/the-government-has-failed-to-deal-with-flooding-1143675/
+20151209,,0841,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.dnaindia.com/india/report-commercial-sex-workers-give-rs1-lakh-for-chennai-flood-hit-2153486
+20151210,PAKISTAN,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://indread.com/20508/no-birthday-plans-for-dilip-kumar-feelings-for-chennai-floods
+20151209,TAMIL,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.indiatvnews.com/entertainment/bollywood/rajinikanth-donates-10-crore-to-flood-victims-25647.html
+20151201,,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://aninews.in/newsdetail2/story242964/helpline-numbers-issued-in-chennai-amid-flood-alert.html
+20151210,POLITICIAN,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.thestar.com.my/news/nation/2015/12/11/lessons-from-the-perfect-storm-as-malaysians-wait-for-the-annual-monsoon-rains-and-floods-to-hit-the/
+20151202,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://indianexpress.com/article/india/india-news-india/chennai-flood-jayalalithaa-seeks-rs-8400-cr-rs-mps-offer-aid/
+20151223,COMMUNITY,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.solarnovus.com/flooded-town-in-india-gets-power-from-off-grid-solar_N9585.html
+20151209,,061,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.4,10,http://scroll.in/article/774573/zomatos-flood-initiative-wasnt-an-attempt-to-exploit-a-disaster-says-employee
+20151201,CITIZEN,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.scoopwhoop.com/news/this-chennai-map-tells-you-exactly-which-roads-of-the-city-are-flooded/
+20151129,MEDIA,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://economictimes.indiatimes.com/news/politics-and-nation/pm-narendra-modis-chennai-flood-survey-pmo-seeks-explanation-on-image-alteration/articleshow/50069478.cms
+20151203,HOME MINIST,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://m.indiatvnews.com/news/india/major-developments-so-far-chennai-floods-56232.html
+20151203,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://media.canberratimes.com.au/featured/dozens-die-in-chennai-floods-7055177.html
+20151203,TAMIL,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://gulfnews.com/news/uae/society/uae-expats-fear-for-loved-ones-in-flood-hit-chennai-1.1631057
+20151211,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://reliefweb.int/report/india/mercy-relief-s-first-relief-supplies-distribution-benefit-300-families-chennai-s-flood
+20151203,ACTOR,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://indiatoday.intoday.in/story/chennai-floods-kamal-haasan-feels-guilty-to-stay-indoors-when-the-city-is-suffering/1/538053.html
+20151211,POLICE,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.newindianexpress.com/states/tamil_nadu/Network-to-Track-Missing-Flood-Victims/2015/12/11/article3171485.ece
+20151203,GOVERNMENT,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://tamil.oneindia.com/news/tamilnadu/chennai-flood-karunanidhi-thank-modi-241435.html
+20151211,EMPLOYEE,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.nyoooz.com/chennai/282642/stories-of-resilience-and-kindness-during-chennai-floods
+20151202,CHIEF MINISTER,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://www.firstpost.com/india/fresh-downpour-in-chennai-flood-alert-along-adyar-river-2529072.html
+20151220,STUDENT,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.thehindu.com/features/education/chennai-floods-resilience-rebuilding-and-recovery/article8008300.ece
+20151201,CARMAKER,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://www.straitstimes.com/asia/south-asia/chennai-airport-shut-amid-heavy-floods
+20151209,GOVERNMENT,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://english.manoramaonline.com/in-depth/chennai-floods-2015/chennai-fights-back-to-keep-diseases-at-bay-tamil-nadu-flood.html
+20151209,CONGRESS,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.patrika.com/news/chennai/rahul-gandhi-spent-time-among-the-flood-victims-1142300/
+20151209,COMPANIES,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://newstodaynet.com/chennai/biz-houses-banks-rush-reach-out-flood-hit-chennai
+20151204,CATHOLIC,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.asianews.it/news-en/Tamil-Nadu:-Dramatic-conditions-of-the-flood-affected-population-36059.html
+20151209,GOVERNMENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.thehindu.com/news/cities/chennai/on-board-noahs-ark-animal-rescue-missions-during-the-floods/article7966158.ece
+20151209,ACTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.huewire.com/health/after-indian-corporates-uae-firms-come-forward-to-help-chennai-flood-victims/45087/
+20151209,HOSPITAL,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.dnaindia.com/india/report-trapped-in-a-watery-hell-what-it-was-like-to-be-stuck-during-the-chennai-floods-2153512
+20151207,TAMIL,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.hindustantimes.com/bollywood/chennai-floods-shah-rukh-khan-donates-rs-1-crore/story-IBv8O2TuyaJkVeht5iOeRM.html
+20151207,CONGRESS,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://indiatoday.intoday.in/story/chennai-rains-live-relief-and-rescue-operation-in-flood-hit-city-and-rahul-gandhi-visit/1/540101.html
+20151207,NEIGHBOURHOOD,128,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://www.stardailystandard.com/breaking/photos-chennai-grapples-with-flood-aftermath/37551/
+20151207,RESIDENTS,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.lidtime.com/die-in-india-hospital-as-floods-cut-off-power-9427/
+20151207,NEW DELHI,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.newindianexpress.com/nation/TN-Floods-No-Big-Outbreak-of-Disease-Finds-Panel/2015/12/08/article3166615.ece
+20151230,CHENNAI,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.dnaindia.com/india/report-chennai-floods-over-195-crore-contributed-to-cm-s-public-relief-fund-2160705
+20151203,MEDIA,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://hosted2.ap.org/CAANR/0260ea4c3e85456b80715585ba3c7b5b/Article_2015-12-03-AS-India-Monsoon-Flooding/id-a59557c945104629be4fad3a164d5abd
+20151203,AUTHORITIES,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.domain-b.com/environment/20151203_floods.html
+20151209,CAR MAKER,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.thestatesman.com/news/india/chennai-floods-cries-for-help-continues/109422.html
+20151227,SUPREME COURT,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.livemint.com/Politics/HYNANrGimcyW3ilhZtSQnK/Aadhaar-comes-to-the-rescue-during-Tamil-Nadu-floods.html
+20151203,SINGAPORE,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.straitstimes.com/singapore/singaporeans-advised-to-postpone-travel-to-chennai-because-of-severe-flooding
+20151227,LAW OFFICER,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.livemint.com/Politics/HYNANrGimcyW3ilhZtSQnK/Aadhaar-comes-to-the-rescue-during-Tamil-Nadu-floods.html
+20151204,THE US,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.ndtv.com/chennai-news/united-states-offers-assistance-for-chennai-flood-victims-1250882
+20151209,VILLAGER,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.news18.com/news/madhya-pradesh/when-a-student-donated-her-over-rs-6000-saving-for-chennai-flood-victims-848225.html
+20151204,RESIDENTS,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.gulf-times.com/india/185/details/465289/flood-woes-continue-as-chennai-remains-cut-off
+20151207,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.dnaindia.com/entertainment/report-kamal-haasan-denies-making-controversial-comments-on-state-govt-s-relief-measures-during-chennai-floods-2153006
+20151211,DIOCESE,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://www.asianews.it/news-en/Indian-Church-handing-out-relief-aid-to-flood-stricken-Chennai-residents-36124.html
+20151202,MINIST,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.business-standard.com/article/news-ians/tamil-nadu-facing-unprecedented-floods-naidu-115120200712_1.html
+20151215,FARMER,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://m.indiatvnews.com/entertainment/bollywood/akshay-kumar-donates-rs-1-crore-chennai-flood-relief-25756.html
+20151219,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.newindianexpress.com/states/tamil_nadu/Jaitley-to-Meet-Jaya-Assess-the-Tamil-Nadu-Flood-Damage/2015/12/19/article3185108.ece
+20151207,GOVERNMENT,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://indianexpress.com/article/india/india-news-india/chennai-floods-industries-crippled-suffer-huge-revenue-loss/
+20151209,HYUNDAI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://timesofindia.indiatimes.com/city/chennai/Corporates-dole-out-funds-for-flood-relief/articleshow/50114728.cms
+20151204,AMERICAN,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.gulte.com/news/44748/US-Offers-Assistance-for-Chennai-Flood-Victims
+20151206,RANA,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.bollywoodlife.com/news-gossip/varun-dhawan-contacts-rana-daggubati-to-help-flood-stricken-chennai/
+20151204,ACTOR,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,10,http://www.khaskhabar.com/picture-news/bollywood-bollywood-celebs-pray-for-chennai-flood-victims-1-59039.html
+20151204,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://english.manoramaonline.com/news/just-in/chennai-floods-tamil-nadu-heavy-rains-resume-rescue-relief.html
+20151204,RESIDENTS,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.iamin.in/en/bangalore-central/news/bangalore-corporator-collects-funds-chennai%E2%80%99s-flood-victims-77744
+20151204,CITIZEN,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,10,http://www.gulte.com/news/44748/US-Offers-Assistance-for-Chennai-Flood-Victims
+20151204,CARRIER,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://mumbaimirror.com/news/india/Let-up-in-rain-rescue-gains-speed-in-flood-hit-Chennai/articleshow/50034909.cms
+20151218,COMPANY,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,10,http://www.myiris.com/news/sector/take-solutions-q3-revenues-and-margins-to-be-impacted-by-chennai-floods/20151218134702199
+20151204,THE PM,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.in.com/news/current-affairs/photoshop-fail-pib-removes-pm-modis-chennai-floods-photo-after-twitter-raises-questions-53402006-in-1.html
+20151211,COMPANY,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://newstodaynet.com/chennai/anakaputhur-weavers-lose-everything-floods
+20160101,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,http://www.iamin.in/en/bangalore-north/news/start-diaries-lookup-bangalore-which-connects-citizens-local-shops-reached-out-chennai-flood-victims-80589
+20151219,GOVERNMENT,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://timesofindia.indiatimes.com/city/chennai/Govt-responsible-for-flood-disaster-Ex-mayor/articleshow/50241934.cms
+20160115,HINDU,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.thehindu.com/features/lit-for-life/from-srinagar-to-chennai-flood-tales/article8112689.ece
+20151211,COMPANY,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,10,http://www.dnaindia.com/money/report-chennai-flood-tcs-sets-aside-rs-1100-crore-to-help-employees-2154366
+20160104,TAMIL NADU,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://indianexpress.com/article/india/india-news-india/jayas-flood-report-aid-for-14-lakh-families/
+20151120,COMPANY,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.asianage.com/business/maruti-helps-flood-hit-customers-529
+20151204,GOVERNOR,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://zeenews.india.com/news/tamil-nadu/chennai-floods-tn-guv-lauds-rescue-efforts-by-tn-govt-centre_1830432.html
+20151214,CHIEF MINISTER,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://timesofindia.indiatimes.com/india/Chennai-floods-Tamil-Nadu-political-parties-refute-chief-secretarys-statement-on-water-release/articleshow/50171705.cms
+20151120,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.asianage.com/business/maruti-helps-flood-hit-customers-529
+20151204,COMPANIES,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.digit.in/apps/foodpanda-to-deliver-food-packets-to-those-affected-by-chennai-floods-28167.html
+20151204,TAMIL,193,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,10,https://en-maktoob.news.yahoo.com/uae-expats-fear-loved-ones-flood-hit-chennai-065421149.html
+20151211,ARCHDIOCESE,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,10,http://directory.ucanews.com/news/catholic-churches-cancel-christmas-to-aid-chennai-flood-victims/2917
+20151226,PARIS,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://m.thejakartapost.com/news/2015/12/26/your-letters-aftermath-floods.html
+20160106,ACTIVIST,1053,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://news.chennaionline.com/chennai/DMK-demands-judicial-probe-into-Chennai-flooding/cc83d91f-62bd-42d1-bba7-8441892aa8bd.col
+20151204,PRIME MINISTER,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://kannada.oneindia.com/news/chennai/chennai-floods-narendra-modi-pic-photoshop-pib-website-controversy-099075.html
+20151031,CORPORATION,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.newindianexpress.com/cities/chennai/Chennai-Corporation-Blames-Rain-Intensity-for-flooding-Met-Dept-says-This-Was-Nothing/2015/10/31/article3107283.ece
+20151204,THE US,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://www.ndtv.com/chennai-news/united-states-offers-assistance-for-chennai-flood-victims-1250882
+20151202,POLICE,023,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.csmonitor.com/World/Global-News/2015/1202/India-deploys-troops-in-south-to-help-citizens-deal-with-deadly-floods
+20151124,ACTOR,018,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.mytechbits.com/dengue-kills-tamil-comedian-vivek-s-son-twitter-flooded-with-condolences/98152304/
+20151204,POLICE,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.thehindu.com/news/cities/chennai/innovation-in-the-times-of-flooding/article7947137.ece
+20151204,GOVERNMENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.straitstimes.com//asia/south-asia/death-toll-in-tamil-nadu-floods-hits-269
+20151204,TAMIL,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.khaskhabar.com/picture-news/bollywood-bollywood-celebs-pray-for-chennai-flood-victims-1-59039.html
+20151203,HOME MINIST,041,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.siasat.com/news/rains-floods-kill-269-tamil-nadu-rajnath-879426/
+20151204,WEBSITE,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.iamin.in/en/bangalore-central/news/bangalore-team-collects-power-banks-chennai-flood-victims-77765
+20151204,GOVERNMENT,031,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://khaleejtimes.com/editorials-columns/chennai-floods-are-an-ecological-wake-up-call
+20151204,COMPANY,064,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.pc-tablet.co.in/2015/12/04/18044/chennai-flood-telecos-tech-companies-samaritans/
+20151202,CORPORATION,015,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.indiatimes.com/news/india/vijay-pingale-was-the-ias-officer-who-was-transferred-away-from-chennai-corporation-cause-he-warned-about-chennaifloods-247991.html
+20151204,MEDIA,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://english.manoramaonline.com/in-depth/chennai-floods-2015/chennai-floods-relief-social-media-online-help.html
+20151204,SCHOOL,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://scroll.in/article/773359/how-we-escaped-the-madras-flood-and-lived-to-tell-the-tale
+20151204,POLITICIAN,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.iluvcinema.in/tamil/ulaganayagan-kamal-haasan-expressed-serious-grief-on-chennai-floods/
+20151208,SCIENTIST,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.oneindia.com/india/chennai-floods-shocking-tamil-nadu-govt-ignored-repeated-warnings-by-scientists-1949610.html
+20151214,ARMY,154,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.2,10,http://www.rediff.com/news/report/chennai-floods-it-wasnt-negligence-but-rarest-of-rare-natural-disasters/20151214.htm
+20151204,WORKER,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://aajtak.intoday.in/story/threat-of-epidemic-after-flood-in-chennai-1-844842.html
+20151118,WORKER,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://timesofindia.indiatimes.com/city/chennai/70-yr-old-washed-away-in-flash-floods-in-Tiruttani/articleshow/49824194.cms
+20151214,PRESIDENT,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://timesofindia.indiatimes.com/india/Chennai-floods-Tamil-Nadu-political-parties-refute-chief-secretarys-statement-on-water-release/articleshow/50171705.cms
+20151214,PRESIDENT,1053,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://timesofindia.indiatimes.com/india/Chennai-floods-Tamil-Nadu-political-parties-refute-chief-secretarys-statement-on-water-release/articleshow/50171705.cms
+20151118,NAVY,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://navbharattimes.indiatimes.com/state/other-states/bangalore/chennai/schools-and-colleges-to-remain-shut-this-week-in-chennai-because-of-floods-after-heavy-rain/articleshow/49832372.cms
+20151118,WORKER,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://timesofindia.indiatimes.com/city/chennai/70-yr-old-washed-away-in-flash-floods-in-Tiruttani/articleshow/49824194.cms
+20151214,RANA,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.iluvcinema.in/hindi/hrithik-donated-huge-amount-to-chennai-flood-relief/
+20151204,CONGRESS,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.bangaloremirror.com/bangalore/cover-story/No-tears-for-TN-LS-discussion-on-floods-turns-a-petty-shame/articleshow/50033654.cms
+20151216,MANUFACTURER,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://overdrive.in/news/renault-nissan-donates-rs-1-crore-to-cms-relief-fund-for-chennai-floods/
+20151217,,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.india.com/news/india/red-cross-society-of-china-donates-50000-usd-towards-chennai-flood-relief-792001/
+20151204,COMPANY,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.pc-tablet.co.in/2015/12/04/18044/chennai-flood-telecos-tech-companies-samaritans/
+20151206,ARMED FORCES,154,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.2,10,http://www.ameripublications.com/rains-ease-in-chennai-after-thousands-rescued-from-floods/33539
+20151216,FARMER,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.indiatvnews.com/entertainment/bollywood/after-helping-drought-struck-farmers-akshay-kumar-donates-rs-crore-for-chennai-flood-victims-25756.html
+20151202,ACTOR,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://movies.ndtv.com/bollywood/chennai-floods-on-twitter-celebrities-pray-and-share-advice-1250055
+20151216,MEDIA,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://timesofindia.indiatimes.com/city/chennai/MK-picks-holes-in-chief-secy-note-on-floods/articleshow/50200495.cms
+20151204,MEDIA,0331,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://www.ibtimes.co.uk/chennai-floods-ten-ways-help-victims-without-spending-any-money-1531892
+20151216,GOVERNMENT,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://timesofindia.indiatimes.com/city/chennai/CM-issues-audio-clip-to-boost-morale-of-states-flood-victims/articleshow/50199789.cms
+20160111,THE OPPOSITION,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.indiatimes.com/news/india/rs-700-crores-have-reached-chennai-flood-victims-directly-in-matter-of-days-no-middlemen-no-corruption-249281.html
+20151204,COMMENTATOR,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://khaleejtimes.com/offbeat/india-deletes-doctored-photo-of-modi-at-flood-scene-aides-promise-action
+20151216,SCHOOL,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://scroll.in/article/775850/a-dalit-village-in-cuddalore-was-left-to-fend-for-itself-through-36-days-of-flooding
+20151204,RESIDENTS,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.thestar.com.my/news/world/2015/12/05/indian-army-battles-deadly-flooding-to-rescue-survivors/
+20151229,DEALER,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.hindustantimes.com/india/chennai-floods-impact-auto-dealers-cash-in-charge-rs-11-000-parking-fee/story-76KKS4rqQ4bkqmyAYXNrDP.html
+20151216,COMPANIES,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,10,http://www.moneycontrol.com/news/business/wipro-issues-q3-revenue-warning-over-chennai-floods_4597441.html
+20151214,SCHOOL,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.ndtv.com/chennai-news/as-schools-resume-an-academic-session-washed-out-in-chennai-floods-1254946
+20151214,CHENNAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://www.mid-day.com/articles/jayalalithaa-demands-rs-10250-crore-for-chennai-flood-relief/16768166
+20151216,CHENNAI,016,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://www.firstpost.com/india/chennai-floods-bureaucrat-refutes-experts-analysis-of-development-plan-2548124.html
+20151126,COMMUNITY,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://newstodaynet.com/chennai/yadava-assn-gives-rs-5-lakh-flood-relief
+20151229,DEALER,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.hindustantimes.com/india/chennai-floods-impact-auto-dealers-cash-in-charge-rs-11-000-parking-fee/story-76KKS4rqQ4bkqmyAYXNrDP.html
+20151229,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.thehindu.com/news/national/tamil-nadu/rain-returns-to-tirunelveli-flood-in-manimuthar-falls/article8038699.ece
+20151216,LEGISLATOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://timesofindia.indiatimes.com/city/chennai/CM-issues-audio-clip-to-boost-morale-of-states-flood-victims/articleshow/50199789.cms
+20151204,VODAFONE,0331,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://telecom.economictimes.indiatimes.com/news/news/airtel-vodafone-idea-cellular-struggle-to-keep-services-going-in-flood-hit-chennai/50029218
+20151204,THE US,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.firstpost.com/world/us-offers-assistance-to-india-to-meet-challenges-faced-by-chennai-flood-2532822.html
+20151216,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://scroll.in/article/775850/a-dalit-village-in-cuddalore-was-left-to-fend-for-itself-through-36-days-of-flooding
+20151216,ACTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.americanbazaaronline.com/2015/12/15/akshay-kumar-donates-rs-1-crore-to-bhoomika-trust-for-chennai-flood-relief/
+20160106,,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://www.firstpost.com/politics/after-dmk-slams-jayalalithaa-central-team-praises-tamil-nadu-cm-for-flood-relief-work-2572038.html
+20151216,POLICEMAN,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,10,http://www.thequint.com/chennai-floods/2015/12/16/chennai-policeman-bullies-old-woman-snatches-away-relief-material
+20151229,SIMBU,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://economictimes.indiatimes.com/news/politics-and-nation/unprecedented-rains-floods-battered-tamil-nadu-in-2015/articleshow/50364364.cms
+20151229,STUDENT,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.thehindu.com/news/national/tamil-nadu/students-rush-to-offer-support-to-floodhit/article8039496.ece
+20151216,OPPOSITION PARTIES,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://timesofindia.indiatimes.com/city/chennai/MK-picks-holes-in-chief-secy-note-on-floods/articleshow/50200495.cms
+20160111,FORD MOTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.india.com/news/india/chennai-rains-contributions-to-flood-relief-crosses-rs-300-crore-852601/
+20151120,,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,10,http://timesofindia.indiatimes.com/city/chennai/After-floods-there-has-been-no-disease-outbreak-says-state-health-secretary/articleshow/49853260.cms
+20151216,COMPANY,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.moneycontrol.com/news/business/wipro-issues-q3-revenue-warning-over-chennai-floods_4597441.html
+20151210,GOVERNMENT,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://www.cartrade.com/car-bike-news/hyundai-india-donates-rs-2-crore-for-chennai-floods-relief-130741.html
+20151216,FARMER,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://www.tribunereporter.com/dashing-after-donating-1-cr-for-chennai-flood-relief-akshay-kumar-spotted-at-the-launch-of-cultivating-hope-campaign/11279
+20151126,CHIEF MINISTER,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,10,http://newstodaynet.com/chennai/yadava-assn-gives-rs-5-lakh-flood-relief
+20151210,,0353,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.financialexpress.com/article/companies/chennai-floods-tcs-earmarks-rs-1100-cr-for-flood-hit-staff/177214/
+20151129,MEDIA,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://economictimes.indiatimes.com/news/politics-and-nation/pm-narendra-modis-chennai-flood-survey-pmo-seeks-explanation-on-image-alteration/articleshow/50069478.cms
+20151204,GOVERNMENT,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.ndtv.com/chennai-news/united-states-offers-assistance-for-chennai-flood-victims-1250882
+20151209,ACTOR,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,10,http://www.americanbazaaronline.com/2015/12/08/rajnikanth-cancels-birthday-celebrations-donates-rs-10-crores-to-chennai-flood-victims/
+20151204,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://tribune.com.pk/story/1003894/18-hospital-patients-die-in-flood-hit-indian-state/
+20151209,SEX WORKER,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://timesofindia.indiatimes.com/city/mumbai/Maharashtra-sex-workers-donate-Rs-1-lakh-for-Chennai-flood-aid/articleshow/50097157.cms
+20151204,THE US,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,10,http://zeenews.india.com/news/world/us-offers-assistance-for-chennai-flood-victims_1830264.html
+20151209,ENGINEER,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,10,http://scroll.in/article/773948/chennai-floods-highlight-perils-of-development-driven-by-real-estate-lobby
+20151204,ACTOR,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,10,http://indread.com/19764/khan-actors-ignoring-chennai-floods
+20151204,PARLIAMENT,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://www.aljazeera.com/news/2015/12/hundreds-trapped-rooftops-flood-devastated-india-151204060826339.html
+20151209,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.thehindu.com/news/cities/chennai/on-board-noahs-ark-animal-rescue-missions-during-the-floods/article7966158.ece
+20151204,OMAR ABDULLAH,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,10,http://www.in.com/news/current-affairs/photoshop-fail-pib-removes-pm-modis-chennai-floods-photo-after-twitter-raises-questions-53402006-in-1.html
+20151209,STUDENT,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://timesofindia.indiatimes.com/city/chennai/MadrasHC-calls-for-details-of-TN-govts-flood-relief-works/articleshow/50092707.cms
+20151209,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,10,http://www.thestatesman.com/news/india/chennai-floods-cries-for-help-continues/109422.html
+20151209,SEX WORKER,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,10,http://www.therakyatpost.com/world/2015/12/09/indian-sex-workers-donate-money-for-chennai-flood-aid/
+20160129,TAMIL,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,10,http://indianewengland.com/2016/01/sankara-healthcare-foundation-raises-10000-for-chennai-flood-victims/
+20151202,ARMY,166,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.0,10,http://helenair.com/news/world/asia/southern-india-flooding-closes-airport-cuts-off-power/article_dc7c39e0-af77-5d72-8c21-3cddb25ec0dc.html
+20151204,GOVERNMENT,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.abplive.in/india-news/chennai-floods-us-offers-assistance-for-chennai-flood-victims-254898
+20151119,VENKAIAH NAIDU,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,10,http://www.thehindu.com/news/cities/chennai/venkaiah-naidu-briefs-pm-on-flood-situation/article7894187.ece
+20151124,CHIEF MINISTER,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,10,http://www.skymetweather.com/content/weather-news-and-analysis/tamil-nadu-floods-have-caused-damage-worth-rs-8481-crore/
+20151204,WORKER,160,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,10,http://aajtak.intoday.in/story/threat-of-epidemic-after-flood-in-chennai-1-844842.html
+20160111,BANK,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,10,http://www.indiatimes.com/news/india/rs-700-crores-have-reached-chennai-flood-victims-directly-in-matter-of-days-no-middlemen-no-corruption-249281.html
+20151203,COAST GUARD,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,9,http://fijione.tv/deadly-chennai-india-flooding-leaves-residents-in-fear/
+20151205,ARMY STAFF,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,9,http://ptinews.com/news/6818247_Army-Chief-conducts-aerial-survey-of-flood-hit-areas-.html
+20151204,SINGAPOREAN,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,9,http://www.business-standard.com/article/pti-stories/flights-to-chennai-cancelled-after-floods-in-singapore-115120400096_1.html
+20151222,CHENNAI,017,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,9,http://www.business-standard.com/article/news-ani/hershey-india-to-supply-sofit-to-chennai-flood-victims-115122200668_1.html
+20151209,KOCHI,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,9,http://english.manoramaonline.com/news/kerala/govt-failed-to-help-chennai-flood-victims-pinarayi-vijayan.html
+20151214,CHENNAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,8,http://portalkbr.com/cerita/12-2015/climate_change_to_blame_for_chennai_s_floods__say_environmentalists/77683.html
+20151214,GOVERNMENT,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,8,http://www.deccanherald.com/content/517358/dont-blame-us-floods-tamil.html
+20151214,MINIST,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,8,http://www.dailypioneer.com/todays-newspaper/mudra-to-give-chennai--flood-victims-a-leg-up.html
+20151203,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,8,http://www.indiatvnews.com/entertainment/bollywood/-chennaifloods-telugu-actors-come-to-rescue-of-flood-victims-announce-aid-25515.html
+20151203,PRANAB MUKHERJEE,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,8,http://www.business-standard.com/article/pti-stories/prez-hopes-tn-people-will-overcome-flood-tragedy-with-dignity-115120300242_1.html
+20151203,GOOGLE,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,8,http://www.business-standard.com/article/pti-stories/facebook-activates-safety-button-for-chennai-floods-115120300465_1.html
+20151203,PARIS,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,8,http://errabus.com/article/chennai-floods-discussed-in-paris
+20151217,KOLKATA,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,8,http://www.businessinsider.in/Wounded-by-Chennai-floods-claims-Motor-insurance-cos-to-increase-premium-to-15-in-metropolitans/articleshow/50216092.cms
+20151203,PRIME MINISTER,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,8,http://www.newindianexpress.com/nation/PM-Flies-to-Chennai-to-Take-Stock-of-Flood-Situation/2015/12/03/article3159025.ece
+20151221,,140,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,8,http://www.ptinews.com/news/6886271_Chennai-floods--Centre--TN-govt-attacked-in-RS.html
+20151207,PRIME MINISTER,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,8,http://gulfnews.com/news/uae/society/uae-expatriates-from-chennai-brace-for-flood-aftermath-1.1633276
+20151116,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,8,http://deccanchronicle.com/151116/nation-current-affairs/article/jaya-visits-flood-hit-pockets-north-chennai-announces-rs-500
+20151116,CHIEF MINISTER,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,8,http://deccanchronicle.com/151116/nation-current-affairs/article/jaya-visits-flood-hit-pockets-north-chennai-announces-rs-500
+20151220,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,8,http://article.wn.com/view/2015/12/20/Chennai_floods_a_climate_change_wakeup_call_for_world/
+20151205,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,8,http://article.wn.com/view/2015/12/05/Chennai_grapples_with_flood_aftermath_long_queues_at_ATMs_pe_t/
+20151205,DELHI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,8,https://in.news.yahoo.com/pm-announces-ex-gratia-relief-tn-floods-victims-143107171.html
+20151205,PARLIAMENTARIAN,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,8,http://www.eurasiareview.com/05122015-chennai-floods-has-it-anything-to-do-with-climate-change-analysis/
+20151208,MEDIA,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,8,http://www.oneindia.com/india/chennai-floods-shocking-tamil-nadu-govt-ignored-repeated-warnings-by-scientists-1949610.html
+20151202,VENKAIAH NAIDU,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,8,http://deccanchronicle.com/151202/nation-current-affairs/article/narendra-modi-discusses-tamil-nadu-flood-situation-singh
+20151202,DEPUTY,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,8,http://www.business-standard.com/article/pti-stories/tn-floods-mps-offer-to-spend-mplads-115120201089_1.html
+20151202,CHENNAI,0333,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,8,https://in.news.yahoo.com/army-navy-come-aid-flood-battling-chennai-070504248.html
+20151202,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,8,http://www.business-standard.com/article/current-affairs/pm-tracks-chennai-floods-situation-on-hourly-basis-115120201253_1.html
+20151208,ARMY,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,8,http://ddinews.gov.in/Home%20-%20Headlines/Pages/interiorflood.aspx
+20151208,MINIST,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,8,http://in.newshub.org/parliament-pass-resolution-chennai-floods-19742246.html
+20151208,MINIST FOR CIVIL,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,8,http://ddinews.gov.in/Home%20-%20Headlines/Pages/interiorflood.aspx
+20151208,GOVERNMENT,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,8,http://www.oneindia.com/india/chennai-floods-shocking-tamil-nadu-govt-ignored-repeated-warnings-by-scientists-1949610.html
+20151208,MINIST FOR CIVIL,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,8,http://ddinews.gov.in/Home%20-%20Headlines/Pages/interiorflood.aspx
+20151208,FRANCE,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,8,http://khabar.ibnlive.com/blogs/rahul-vishwakarma/reason-behind-chennai-flood-global-warming-432809.html
+20151205,ARMY STAFF,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,8,http://www.business-standard.com/article/pti-stories/army-chief-conducts-aerial-survey-of-flood-hit-areas-115120500363_1.html
+20151202,JAIN,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,8,http://www.hindustantimes.com/india/flood-battered-chennai-clings-onto-hope-amidst-a-sea-of-misery/story-M8JDwFMJqtVfiYKjxHlv5M.html
+20151202,DEFENCE MINIST,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,8,http://www.business-standard.com/article/current-affairs/pm-tracks-chennai-floods-situation-on-hourly-basis-115120201253_1.html
+20151205,TELUGU,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,8,http://www.merinews.com/article/prominent-celebrities-who-have-offered-a-helping-hand-to-chennai-flood-relief/15911720.shtml
+20151205,JHARKHAND,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,8,http://www.prabhatkhabar.com/news/national/chennai-flood-life-back-on-track-crowd-at-atms-and-petrol-pumps/640908.html
+20151123,,0253,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.3,8,http://www.dailypioneer.com/top-stories/tn-govt-pegs-flood-damage-at-rs-8481-cr-jaya-writes-to-pm.html
+20151207,INDUSTRY,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,8,http://in.newshub.org/chennai-floods-ministry-deputes-delegation-assess-impact-industry-19723348.html
+20151207,MEDIA,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,8,http://gulfnews.com/news/uae/society/uae-expatriates-from-chennai-brace-for-flood-aftermath-1.1633276
+20151207,INDUSTRY,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,8,http://in.newshub.org/chennai-floods-ministry-deputes-delegation-assess-impact-industry-19723348.html
+20151202,STUDENT,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,8,http://malaysiandigest.com/frontpage/282-main-tile/582235-40-malaysian-students-stranded-by-floods-in-chennai.html
+20151207,MEDIA,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,8,http://gulfnews.com/news/uae/society/uae-expatriates-from-chennai-brace-for-flood-aftermath-1.1633276
+20151207,MEDIA,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,8,http://gulfnews.com/news/uae/society/uae-expatriates-from-chennai-brace-for-flood-aftermath-1.1633276
+20151202,PRIME MINISTER,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,8,http://www.thestatesman.com/news/india/tn-floods-rs-members-offer-to-spend-mplads-funds/107987.html
+20151203,PRANAB MUKHERJEE,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,8,http://www.business-standard.com/article/pti-stories/prez-hopes-tn-people-will-overcome-flood-tragedy-with-dignity-115120300242_1.html
+20151213,DEFENCE MINIST,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,8,http://www.business-standard.com/article/pti-stories/defence-forces-role-in-chennai-floods-commendable-parrikar-115121300660_1.html
+20151123,CHENNAI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,8,http://www.business-standard.com/article/pti-stories/tvs-group-employees-undertake-relief-work-in-flood-hit-areas-115112300758_1.html
+20151213,DEFENCE MINIST,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,8,http://www.business-standard.com/article/pti-stories/low-key-b-day-for-parrikar-cong-says-bjp-insensitive-to-flood-115121300737_1.html
+20151202,MALAYSIA,160,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,8,http://www.thestar.com.my/news/nation/2015/12/03/klchennai-flights-grounded-by-the-floods/
+20151213,GOVERNMENT,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,8,http://www.thestatesman.com/news/latest-headlines/don-t-blame-us-for-floods-tamil-nadu-government/110372.html
+20151213,DEFENCE FORCE,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,8,http://www.business-standard.com/article/pti-stories/defence-forces-role-in-chennai-floods-commendable-parrikar-115121300660_1.html
+20151206,RESIDENTS,125,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,8,http://investmentunderground.com/2015/12/iran-ready-for-relief-missions-in-indias-flood-hit-areas/
+20151206,JAIN,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,8,http://www.stardailystandard.com/uk/indias-modi-spoofed-over-doctored-photographs-of-chennai-flood-go-to/34180/
+20151206,HYUNDAI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,8,http://www.business-standard.com/article/pti-stories/corporates-help-flood-hit-people-115120600577_1.html
+20151206,CHENNAI,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,8,http://www.business-standard.com/article/pti-stories/chennai-author-s-debut-book-contributes-to-flood-victims-115120600223_1.html
+20151206,EMPLOYEE,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,8,https://in.news.yahoo.com/good-bad-ugly-side-chennai-floods-092804968.html
+20151210,COMPANY,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,8,http://www.dnaindia.com/money/report-chennai-floods-from-tata-aig-to-sbi-general-here-is-how-insurance-companies-are-helping-victims-file-claims-easily-2154144
+20151206,HIGH COURT,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,8,http://indianexpress.com/article/cities/pune/lessons-for-pune-pour-in-from-chennai-floods/
+20151206,BANK,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,8,http://indianexpress.com/article/business/banking-and-finance/chennai-floods-banks-to-consider-loan-recasts-after-easing-emi-rules/
+20151202,ACTOR,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,8,http://www.business-standard.com/article/news-ians/telugu-actors-announce-aid-for-flood-victims-115120200798_1.html
+20151206,ACADEMICS,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,8,http://www.business-standard.com/article/pti-stories/chennai-author-s-debut-book-contributes-to-flood-victims-115120600223_1.html
+20151210,SINGAPORE,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,8,http://www.channelnewsasia.com/news/singapore/chennai-floods-corporate/2335960.html
+20151204,NEW DELHI,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,8,http://www.theborneopost.com/2015/12/04/more-than-90-malaysians-still-stranded-in-flood-battered-chennai/
+20151204,CORPORATION,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,8,http://article.wn.com/view/2015/12/04/More_rain_forecast_as_floods_inundate_Chennais_street_homes_/
+20151204,ACTOR,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,8,http://www.thehindu.com/news/cities/chennai/flood-unites-political-parties-in-tn/article7946933.ece
+20151204,PARLIAMENT,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,8,http://www.bendbulletin.com/nation/3770909-151/record-flooding-in-india
+20151204,THE US,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,8,http://zeenews.india.com/news/world/us-offers-assistance-for-chennai-flood-victims_1830264.html
+20151204,CHENNAI,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,8,http://www.thestar.com.my/news/nation/2015/12/04/chennai-floods-over-90-malaysians-stranded/
+20151204,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,8,http://article.wn.com/view/2015/12/04/More_rain_forecast_as_floods_inundate_Chennais_street_homes_/
+20151204,ANDHRA PRADESH,138,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.0,8,http://www.afternoondc.in/letters/tn-floods-a-wake-up-call-for-other-states/article_155060
+20151204,POLITICIAN,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,8,http://www.thehindu.com/news/cities/chennai/flood-unites-political-parties-in-tn/article7946933.ece
+20151204,BANK,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,8,http://www.business-standard.com/article/current-affairs/chennai-floods-take-their-toll-to-banks-atms-115120400936_1.html
+20151102,PARIS,180,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,8,http://navbharattimes.indiatimes.com/india/social-media-proved-big-help-in-chennai-flood/articleshow/50016653.cms
+20151222,RESIDENTS,017,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,8,http://www.business-standard.com/article/news-ani/hershey-india-to-supply-sofit-to-chennai-flood-victims-115122200668_1.html
+20151204,ARMY,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,8,http://www.nyoooz.com/chennai/280338/chennaiflood58-armed-forces-continue-rescue-operations-evacuate-over-5000-people
+20151203,GOVERNMENT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,8,https://in.newshub.org/chennai-rain-army-battles-deadly-flooding-rescue-survivors-19661639.html
+20151204,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,8,http://www.cnet.com/uk/news/skype-to-offer-free-calls-to-indian-city-of-chennai-as-it-battles-the-worst-floods-in-a-century/
+20151124,GOVERNMENT,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,8,http://www.business-standard.com/article/pti-stories/flood-relief-dmk-demands-white-paper-gives-rs-one-crore-115112400635_1.html
+20151209,MINIST,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,8,https://in.newshub.org/parliament-pass-resolution-chennai-floods-19742246.html
+20151209,CORPORATION,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,8,http://article.wn.com/view/2015/12/09/Rains_add_to_peoples_woes_in_floodhit_Chennai/
+20151209,HYUNDAI,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,8,http://www.financialexpress.com/article/industry/automobiles/chennai-floods-hyundai-india-contributes-rs-2-crore-towards-cm-public-relief-fund/176154/
+20151209,NON RESIDENT,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,8,http://www.emirates247.com/news/real-life-hero-dubai-nri-doubles-shah-rukh-khan-s-donation-for-chennai-flood-relief-2015-12-09-1.613293
+20151124,,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,8,http://www.business-standard.com/article/pti-stories/flood-relief-dmk-demands-white-paper-gives-rs-one-crore-115112400635_1.html
+20151120,ANDHRA PRADESH,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,8,http://post.jagran.com/flood-relief-work-proceeding-fast-as-death-toll-reaches-120-in-tamil-nadu-1447993224
+20151202,ARMY,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,8,https://in.news.yahoo.com/army-navy-come-aid-flood-battling-chennai-070504248.html
+20160105,TELECOM,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,8,http://www.business-standard.com/article/companies/flood-lessons-for-telecom-firms-116010501125_1.html
+20160104,CHIEF MINISTER,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,8,http://newstodaynet.com/chennai/cm-initiates-distribution-relief-flood-hit
+20151215,MINIST,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,8,http://www.india.com/news/india/bjp-mps-to-donate-rs-10000-for-chennai-flood-relief-786085/
+20151214,FRANCE,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,8,http://portalkbr.com/cerita/12-2015/climate_change_to_blame_for_chennai_s_floods__say_environmentalists/77683.html
+20151203,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,8,http://www.ptinews.com/news/6808783_PM-flies-to-Chennai-to-take-stock-of-flood-situation.html
+20151203,COAST GUARD,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,7,http://www.mid-day.com/articles/rains-floods-devastate-chennai-rs15000-crore-loss-estimated/16737187
+20151218,STUDENT,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,7,http://www.tnp.sg/news/world-news/chennai-floods-i-saw-homeless-cry-help
+20151121,CHENNAI,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,7,http://chennaionline.com/City360/City-Feature/20153821113800/Heritage-Fresh-Supermarkets-lends-support-to-Flood-affected-Chennai.col
+20160128,DIRECTOR GENERAL,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,7,http://newstodaynet.com/chennai/urudhi-focus-women-hit-floods
+20151228,INDUSTRY,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,7,http://www.dailypioneer.com/business/chennai-flood-claims-rising--may-touch-5k-cr-this-fiscal.html
+20151205,NEWSPAPER,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,7,http://english.manoramaonline.com/news/just-in/chennai-floods-heavy-rains-rescue-relief-tamil-nadu.html
+20151205,ARMY,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,7,http://www.straitstimes.com/asia/south-asia/more-troops-out-to-rescue-chennai-flood-victims
+20151202,CHENNAI,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,7,http://www.business-standard.com/article/news-ians/rains-floods-devastate-chennai-rs-15-000-crore-loss-estimated-roundup-115120201206_1.html
+20151202,NEW DELHI,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,7,http://www.dailyexcelsior.com/adjournment-notice-on-chennai-floods-accepted-in-ls-amid-slogan-shouting/
+20151208,TAMIL,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,7,http://english.manoramaonline.com/in-depth/chennai-floods-2015/chennai-floods-ksrtc-pitches-in-to-help-victims-relief.html
+20151210,GOVERNMENT,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,7,http://indread.com/20577/ap-government-announces-shocking-amount-to-chennai-floods-victims
+20151206,ARMY,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,7,http://www.ameripublications.com/airport-reopens-in-india-s-flood-hit-south/34466
+20151206,TAMIL,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,7,http://www.timesofoman.com/article/73090/Oman/Indian-expatriates-in-Oman-collect-aid-for-victims-of-massive-flood-in-Chennai
+20151206,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,7,http://www.oneindia.com/india/news-flash-national-international-politics-chennai-flood-victims-1947373.html
+20151222,CHENNAI,050,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.5,7,http://www.pv-magazine.com/services/press-releases/details/beitrag/solartown-provides-critical-support-for-chennai-communities-during-floods-as-electric-grids-shut-down_100022538/
+20151217,RED CROSS,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,7,http://www.india.com/news/india/red-cross-society-of-china-donates-50000-usd-towards-chennai-flood-relief-792001/
+20151209,GOVERNMENT,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,7,http://www.thestatesman.com/news/india/chennai-floods-cries-for-help-continues/109422.html
+20151209,HYUNDAI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,7,http://www.financialexpress.com/article/industry/automobiles/chennai-floods-hyundai-india-contributes-rs-2-crore-towards-cm-public-relief-fund/176154/
+20151209,,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,7,http://timesofindia.indiatimes.com/india/Delay-in-opening-sluice-gates-caused-flooding/articleshow/50099873.cms
+20151204,CITIZEN,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,7,http://www.ibtimes.co.uk/chennai-floods-citizens-battle-chronic-shortages-food-water-milk-floodwaters-recede-1531818
+20151204,ASSAM,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,7,http://www.thestatesman.com/news/northeast/gogoi-holds-high-level-meeting-on-chennai-flood/108475.html
+20151205,SINGAPORE,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.oneindia.com/india/chennai-floods-rescue-operations-social-media-technology-twitter-1947228.html
+20151205,BANK,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.dnaindia.com/money/report-chennai-floods-atms-down-banks-shut-people-have-little-cash-rely-on-generous-shopkeepers-2152342
+20151215,,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://reliefweb.int/report/india/act-preliminary-appeal-flooding-tamil-nadu-south-india-ind152-appeal-target-us-657278
+20151215,CHENNAI,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://newstodaynet.com/chennai/bookasmile-pledges-support-flood-relief-chennai
+20151203,INDUSTRY,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,6,http://www.mid-day.com/articles/r-madhavan-snakes-and-frogs-have-flooded-homes/16736187
+20151204,,154,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.2,6,http://m.indiatvnews.com/news/india/chennai-floods-rescue-operations-modi-relief-56242.html
+20151204,CHENNAI,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.bollywoodlife.com/news-gossip/katrina-kaif-is-really-worried-about-chennai-floods/
+20151214,CHENNAI,0333,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://indianexpress.com/article/india/india-news-india/after-the-chennai-floods-revisiting-the-natural-catastrophe-pool/
+20151214,TAMIL NADU,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.nyoooz.com/chennai/289325/human-negligence-cause-chennai-flood-carnage-say-urban-planning-experts
+20151214,CHENNAI,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://indianexpress.com/article/india/india-news-india/after-the-chennai-floods-revisiting-the-natural-catastrophe-pool/
+20151205,ASSAM,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.thehindu.com/news/cities/Delhi/gogoi-holds-meeting-on-chennai-flood-situation/article7950419.ece
+20151221,SCHOOL,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.ntnews.com.au/lifestyle/nt-teen-thiraj-ramamoorphi-digs-deep-to-help-flood-victims-in-india/news-story/bccc0aef0e511b63bc0199373f412732?nk=2dad214fb123b92cc94dcd36827bcc07-1450740761
+20151215,COMPANY,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://in.newshub.org/renault-nissan-donates-rs-1-cr-tn-flood-relief-19837011.html
+20151215,CHENNAI,032,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.5,6,http://newstodaynet.com/chennai/bookasmile-pledges-support-flood-relief-chennai
+20151215,CABINET MINISTER,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.thehindu.com/news/national/live-parliament-proceedings-gst-bill-chennai-flood-relief-national-herald-scam/article7991708.ece
+20151205,TELUGU,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.iluvcinema.in/telugu/rgv-sensational-tweets-on-chennai-floods/
+20151205,UNITED STATES,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://seatingchair.com/2015/12/05/united-states-offers-help-in-chennai-floods-42009.html
+20151215,KING,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://khabar.ibnlive.com/news/desh/actor-akshay-kumar-chennai-flood-1-crore-donate-435085.html
+20151130,CHENNAI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.business-standard.com/article/current-affairs/drdo-distributes-ready-to-eat-food-in-flood-affected-ares-in-chennai-115113000564_1.html
+20151218,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.tnp.sg/news/world-news/chennai-floods-i-saw-homeless-cry-help
+20151218,VILLAGE,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.tnp.sg/news/world-news/chennai-floods-i-saw-homeless-cry-help
+20151215,CHENNAI,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,6,http://www.newindianexpress.com/cities/chennai/14-Days-After-Downpour-Many-Streets-and-Homes-Still-Flooded/2015/12/16/article3179354.ece
+20151205,CHENNAI,0333,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://celebcafe.org/allu-arjun-donates-for-chennai-flood-victims-9481/
+20151218,TIBETAN,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.phayul.com/news/article.aspx?id=36897&article=Tibetan+NGOs+raise+fund+for+Chennai+flood+victims
+20151223,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.newindianexpress.com/cities/chennai/Disappointment-Floods-Our-Plans/2015/12/23/article3191030.ece
+20151218,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.thehindu.com/news/national/tamil-nadu/flood-pushes-film-release-dates-to-jan/article8002380.ece
+20151205,CHENNAI,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,6,http://www.telesurtv.net/english/news/Southern-India-Devastated-by-Flooding-Leaving-325-People-Dead--20151204-0008.html
+20151215,PARLIAMENT,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.thehindu.com/news/national/live-parliament-proceedings-gst-bill-chennai-flood-relief-national-herald-scam/article7991708.ece
+20151215,CHENNAI,1712,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.2,6,http://www.newindianexpress.com/cities/chennai/Flood-relief-Snatcher-Chennai-Cop-Shunted-Out/2015/12/16/article3180159.ece
+20151221,HONDA,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://auto.economictimes.indiatimes.com/news/aftermarket/honda-launches-campaign-to-repair-its-cars-affected-by-chennai-floods/50269711
+20151217,TIBETAN,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.phayul.com/news/article.aspx?id=36897&article=Tibetan+NGO%E2%80%99s+raise+fund+for+Chennai+flood+victims
+20151205,CHENNAI,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.abplive.in/india-news/chennai-floods-authorities-shocked-as-water-travelled-to-different-part-of-cities-through-metro-tunnels-255524
+20151217,CHENNAI,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,6,http://www.indiainfoline.com/article/news-top-story/take-solutions-issues-q3-warnings-post-chennai-floods-115121700450_1.html
+20151217,LEGISLATOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://timesofindia.indiatimes.com/tamil-nadu/Jayalalithaa-issues-audio-clip-to-boost-morale-of-flood-victims/articleshow/50217488.cms
+20160101,CITIZEN,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://www.iamin.in/en/bangalore-north/news/start-diaries-lookup-bangalore-which-connects-citizens-local-shops-reached-out-chennai-flood-victims-80589
+20151217,CHENNAI,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,6,"http://www.crn.com.au/News/413127,indian-it-outsourcers-hurt-by-heavy-flooding.aspx"
+20151205,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.abplive.in/india-news/chennai-floods-authorities-shocked-as-water-travelled-to-different-part-of-cities-through-metro-tunnels-255524
+20151117,COMMANDANT,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.thehindu.com/news/national/andhra-pradesh/flood-rescue-ndrf-deputes-10-teams-to-tn-ap-put-forces-on-alert/article7887949.ece
+20151128,CHENNAI,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://newstodaynet.com/chennai/mayor-hails-speedy-flood-relief-work
+20151205,,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.dnaindia.com/india/report-airlines-hike-flight-rates-due-to-chennai-floods-2152176
+20151223,HONDA,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.centralchronicle.com/honda-to-support-repair-activities-of-flood-affected-cars-in-chennai.html
+20151205,SINGAPORE,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,6,http://www.freepressjournal.in/singapore-to-provide-usd-75000-assistance-to-flood-hit-chennai/
+20151227,TAMIL NADU,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://timesofindia.indiatimes.com/india/Tamil-Nadu-floods-Maruti-Suzuki-to-contribute-Rs-2-crore-to-PMs-national-relief-fund/articleshow/50340545.cms
+20151128,CHENNAI,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://newstodaynet.com/chennai/mayor-hails-speedy-flood-relief-work
+20151224,COMPANY,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://www.sify.com/finance/tcs-to-hand-out-rs-5-lakh-for-its-flood-affected-chennai-staff-news-finance-pmylgMagejdhi.html
+20151205,HOME MINIST,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.thehindu.com/news/national/tamil-nadu/prison-chappatis-for-floodhit/article7950727.ece
+20151205,COMPANY,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.freemalaysiatoday.com/category/world/2015/12/05/tamil-nadu-floods-kill-hospital-patients-but-rains-ease/
+20151211,CHENNAI,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://timesofindia.indiatimes.com/city/chennai/Vodafone-and-other-cos-pitch-in-to-help-flood-affected-Chennai/articleshow/50131338.cms
+20151211,ARMED FORCES,154,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.2,6,http://blogs.wsj.com/indiarealtime/2015/12/11/how-chennai-floods-stack-up-against-other-natural-disasters-in-2015/
+20151211,HASSAN,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://indread.com/20720/kamal-hassan-donates-to-chennai-floods
+20151211,EMPLOYEE,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://economictimes.indiatimes.com/tech/ites/chennai-floods-to-have-material-impact-on-q3-revenues-tcs/articleshow/50141258.cms
+20151211,TYRE,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://www.livemint.com/Companies/ybzVPjarWJ7NyteMgdyHRN/Employers-lend-a-hand-to-floodhit-employees.html
+20151211,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://economictimes.indiatimes.com/tech/ites/chennai-floods-to-have-material-impact-on-q3-revenues-tcs/articleshow/50141258.cms
+20151211,CHENNAI,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.dnaindia.com/entertainment/report-dilwale-varun-dhawan-raises-funds-for-chennai-flood-relief-2154386
+20151211,AUSTRALIA,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://news.biharprabha.com/2015/12/relief-efforts-speed-up-in-flood-struck-chennai/
+20151211,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.indianweekender.co.nz/Pages/ArticleDetails/25/6326/In-focus/Special-Report-Chennai-floods-water-recedes-anger-persists
+20151211,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.indianweekender.co.nz/Pages/ArticleDetails/25/6326/In-focus/Special-Report-Chennai-floods-water-recedes-anger-persists
+20151205,AUTHORITIES,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.abplive.in/india-news/chennai-floods-authorities-shocked-as-water-travelled-to-different-part-of-cities-through-metro-tunnels-255524
+20151203,CHENNAI,0874,"Chennai, Tamil Nadu, India",13.0833,80.2833,10.0,6,http://www.techtree.com/content/features/10169/tech-startup-companies-stand-chennai-city-flood.html
+20151211,TAMIL NADU,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.nyoooz.com/chennai/287344/centre-has-declared-tn-floods-as-calamity-of-severe-nature58-jayalalithaa
+20151223,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.newindianexpress.com/cities/chennai/Disappointment-Floods-Our-Plans/2015/12/23/article3191030.ece
+20151211,INVESTOR,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.business-standard.com/article/pti-stories/cdsl-sends-demat-kyc-docs-to-flood-affected-bos-in-chennai-115121100790_1.html
+20151220,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.kesq.com/news/chennai-floods-a-wakeup-call-for-world/37048068
+20151211,DOCTOR,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://timesofindia.indiatimes.com/city/chennai/Vodafone-and-other-cos-pitch-in-to-help-flood-affected-Chennai/articleshow/50131338.cms
+20151205,RESIDENTS,0333,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://www.newindianexpress.com/cities/chennai/Meet-the-Heroes-of-Chennai-Floods/2015/12/05/article3162958.ece
+20151220,REPRESENTATIVES,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.channel4000.com/news/chennai-floods-a-wakeup-call-for-world/37048068
+20151220,CHENNAI,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.dnaindia.com/money/report-chennai-floods-arun-jaitley-asks-banks-to-grant-loans-on-mission-mode-to-people-2157797
+20151220,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.thehindu.com/news/national/tamil-nadu/flood-pushes-film-release-dates-to-jan/article8009852.ece
+20151220,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.kesq.com/news/chennai-floods-a-wakeup-call-for-world/37048068
+20151205,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://indread.com/20005/tollywood-celebrities-who-never-cared-about-chennai-floods
+20151220,CHENNAI,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://www.dnaindia.com/money/report-chennai-floods-fm-arun-jaitley-asks-banks-to-wipe-the-tears-from-every-eye-2157750
+20151116,CHIEF MINISTER,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://deccanchronicle.com/151116/nation-current-affairs/article/jaya-visits-flood-hit-pockets-north-chennai-announces-rs-500
+20151212,PARIS,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://allindiaroundup.com/news/paris-comes-out-in-support-of-chennai-raises-funds-for-flood-victims/
+20151202,COMPANIES,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.digit.in/general/companies-come-together-to-offer-help-during-chennai-floods-28137.html
+20151212,WORKER,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://blogs.economictimes.indiatimes.com/onmyplate/chennai-floods-food-aid-or-why-people-are-so-ungrateful/
+20151212,CHENNAI,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.indiancarsbikes.in/cars/fca-india-extends-its-services-to-flood-affected-cars-in-chennai-136964/
+20151202,VODAFONE,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.teleanalysis.com/news/after-airtel-vodafone-extends-support-to-flood-hit-chennai-users-19313.html
+20151202,ARMY,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,6,https://in.news.yahoo.com/army-navy-come-aid-flood-battling-chennai-070504248.html
+20151212,CHENNAI,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://allindiaroundup.com/news/chennai-floods-unfortunate-exhibit-of-the-perfect-storm-created-by-climate-change-and-shoddy-urban-planning/
+20151212,COMPANY,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://www.indiancarsbikes.in/cars/fca-india-extends-its-services-to-flood-affected-cars-in-chennai-136964/
+20151202,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.businessinsider.in/ChennaiFloods-These-pictures-show-you-the-grimsituation-that-people-in-Chennai-are-facing-right-now/articleshow/50012695.cms
+20151212,COMPANY,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.indiancarsbikes.in/cars/fca-india-extends-its-services-to-flood-affected-cars-in-chennai-136964/
+20151202,CHENNAI,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://indianexpress.com/article/india/india-news-india/chennai-floods-govt-asks-all-private-media-houses-to-critical-and-vital-information/
+20151202,VODAFONE,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.teleanalysis.com/news/after-airtel-vodafone-extends-support-to-flood-hit-chennai-users-19313.html
+20151202,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://nripress.com/telugu-actors-announce-aid-for-flood-victims/
+20151212,MEDIA,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://indread.com/20989/tamil-nadu-govt-is-the-only-reason-for-floods-disater
+20151202,CHENNAI,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,6,https://in.news.yahoo.com/army-navy-come-aid-flood-battling-chennai-070504248.html
+20151202,NEW DELHI,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://economictimes.indiatimes.com/news/politics-and-nation/pm-narendra-modi-discusses-tamil-nadu-flood-situation-with-rajnath-singh-arun-jaitley-venkaiah-naidu/articleshow/50011946.cms
+20151202,ARMY,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.dnaindia.com/india/live-updates-army-navy-chennai-heavy-rains-floods-water-met-bengaluru-tamil-nadu-schools-colleges-2150971
+20151202,CHENNAI,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.bollywoodlife.com/news-gossip/allu-arjun-donates-rs-25-lakhs-for-chennai-floods-relief/
+20151116,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://deccanchronicle.com/151116/nation-current-affairs/article/jaya-visits-flood-hit-pockets-north-chennai-announces-rs-500
+20151202,ARMY,154,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.2,6,http://www.nst.com.my/news/2015/12/115037/all-flights-cancelled-chennai-airport-due-floods
+20151202,CHENNAI,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.bollywoodlife.com/news-gossip/allu-arjun-donates-rs-25-lakhs-for-chennai-floods-relief/
+20151202,CHENNAI,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.technuter.com/breaking-news/chennaifloods-vodafone-is-offering-pre-approved-chhota-credit.html
+20151202,CHENNAI,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://www.dnaindia.com/india/report-chennai-floods-ntr-kalyan-ram-announce-aid-for-victims-2151207
+20151202,CHENNAI,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,6,http://www.thestatesman.com/news/business/it-auto-majors-suspend-operations-in-flood-hit-chennai/107992.html
+20151202,TELUGU,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.bollywoodlife.com/news-gossip/allu-arjun-donates-rs-25-lakhs-for-chennai-floods-relief/
+20160113,INVESTOR,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.zacks.com/stock/news/203653/cognizant-retains-fy15-view-despite-chennai-floods-up-6
+20151202,TELUGU,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://www.sakshipost.com/index.php/entertainment/news-gossip/68731-junior-ntr-announce-aid-for-flood-victims.html
+20151204,PRISONER,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.thestatesman.com/news/india/kerala-prison-made-chapati-for-chennai-flood-victims/108472.html
+20151204,CHENNAI,0333,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://www.ibtimes.co.uk/chennai-floods-citizens-battle-chronic-shortages-food-water-milk-floodwaters-recede-1531818
+20151225,ARMY,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.sify.com/finance/update-1-india-army-on-war-footing-to-rescue-survivors-as-flood-toll-nears-270-news-auto-pmdouochafijf.html
+20160113,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.zacks.com/stock/news/203653/cognizant-retains-fy15-view-despite-chennai-floods-up-6
+20151204,ARMY,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,6,http://www.straitstimes.com//asia/south-asia/death-toll-in-tamil-nadu-floods-hits-269
+20151204,,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://indiatoday.intoday.in/story/chennai-flood-situation-continues-to-remain-grim/1/538315.html
+20151202,TAMIL NADU,041,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.dnaindia.com/money/report-chennai-floods-telecom-companies-offer-free-talktime-to-help-citizens-2151256
+20151208,ARMED FORCES,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.ibnlive.com/news/movies/amitabh-bachchan-and-anushka-sharma-salute-armed-forces-for-their-rescue-work-in-chennai-floods-1174115.html
+20151208,SRI LANKAN,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.ibtimes.co.in/chennai-residents-body-washes-sri-lanka-was-he-victim-tamil-nadu-floods-658495
+20151208,DIOCESE,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,6,http://www.anglicannews.org/news/2015/12/church-of-south-india-in-chennai-flood-relief.aspx
+20151208,,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.dailyme.com/story/2015120700003502/chennai-floods-aftermath-displaced-families-count-their-losses
+20151208,CHENNAI,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.dailyo.in/politics/chennai-floods-amma-stickers-dmk-aiadmk-chennai-rain-tamil-nadu-flood/story/1/7828.html
+20151208,NEW DELHI,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://news.biharprabha.com/2015/12/rahul-gandhi-to-visit-flood-hit-tamil-nadu-today/
+20151208,CHURCH OF SOUTH INDIA,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,6,http://www.anglicannews.org/news/2015/12/church-of-south-india-in-chennai-flood-relief.aspx
+20151208,INDUSTRY,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.telugupeople.com/news/article_00100807_Chennai_floods_Namrata_Shirodkars_Shocking_message.asp
+20151208,,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://gadgets.ndtv.com/apps/news/chennai-floods-new-app-to-offer-round-the-clock-medical-advice-775124
+20151208,MAHARASHTRA,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://indianexpress.com/article/trending/this-is-serious/maharashtra-sex-workers-donate-rs-1-lakh-for-chennai-flood-aid/
+20151208,CHENNAI,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.newstracklive.com/news/royal-enfield-suffers-production-loss-of-11200-bikes-due-to-chennai-flood-1029121-1.html
+20151208,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.dailyme.com/story/2015120700003502/chennai-floods-aftermath-displaced-families-count-their-losses
+20151208,CHENNAI,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,https://in.news.yahoo.com/cognizant-announces-rs-260-crore-aid-chennai-flood-091222963.html
+20160110,CHENNAI,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.thehindu.com/news/cities/chennai/flood-volunteers-seek-sustainable-solutions-for-city/article8088217.ece
+20151204,CHENNAI,086,"Chennai, Tamil Nadu, India",13.0833,80.2833,9.0,6,http://gulfnews.com/your-say/your-view/chennaifloods-trend-on-social-media-channels-1.1630951
+20151208,MEDIA,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://english.manoramaonline.com/in-depth/chennai-floods-2015/chennai-floods-ksrtc-pitches-in-to-help-victims-relief.html
+20151208,,181,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,6,http://www.dnaindia.com/money/report-chennai-floods-cognizant-commits-rs-260-crore-for-relief-rehabilitation-efforts-2153298
+20151208,CHENNAI,173,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,6,http://www.dailyo.in/politics/chennai-floods-amma-stickers-dmk-aiadmk-chennai-rain-tamil-nadu-flood/story/1/7828.html
+20151202,RESIDENTS,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.businessinsider.in/ChennaiFloods-These-pictures-show-you-the-grimsituation-that-people-in-Chennai-are-facing-right-now/articleshow/50012695.cms
+20151208,CHENNAI,0333,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://www.newindianexpress.com/cities/bengaluru/City-NGOs-Send-Help-for-Flood-hit-Animals/2015/12/08/article3165815.ece
+20151204,PARLIAMENT,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.bangaloremirror.com/bangalore/cover-story/No-tears-for-TN-LS-discussion-on-floods-turns-a-petty-shame/articleshow/50033654.cms
+20151204,,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://timesofindia.indiatimes.com/city/mumbai/110-city-baraatis-to-tide-over-floods-for-Chennai-wedding/articleshow/50048313.cms
+20151208,CHENNAI,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.newindianexpress.com/cities/bengaluru/City-NGOs-Send-Help-for-Flood-hit-Animals/2015/12/08/article3165815.ece
+20151204,UNITED STATES,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://www.americanbazaaronline.com/2015/12/04/us-offers-assistance-for-chennai-flood-victims/
+20151204,ARMY,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.bendbulletin.com/nation/3770909-151/record-flooding-in-india
+20151208,NEWSPAPER,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://scroll.in/article/774371/what-the-celeb-obsessed-media-missed-in-its-chennai-flood-reports-useful-information-for-victims
+20151202,TELUGU,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://www.business-standard.com/article/news-ians/telugu-actors-announce-aid-for-flood-victims-115120200798_1.html
+20151204,,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.business-standard.com/article/pti-stories/ker-prison-made-chapati-to-be-sent-to-chennai-flood-victims-115120400891_1.html
+20151204,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.thehindu.com/news/cities/chennai/flood-unites-political-parties-in-tn/article7946933.ece
+20151204,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://economictimes.indiatimes.com/industry/services/hotels-restaurants/chennai-floods-hotels-fear-running-out-of-supplies-in-next-couple-of-days/articleshow/50035349.cms
+20151202,ACTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://movies.ndtv.com/regional/chennai-floods-rajinikanth-donates-rs-10-lakh-to-relief-fund-1250073
+20151202,NEW DELHI,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,6,http://www.siasat.com/news/chennai-floods-worried-rahul-urges-congress-workers-extend-help-878729/
+20151207,RESIDENTS,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.lidtime.com/die-in-india-hospital-as-floods-cut-off-power-9427/
+20151204,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.thehindu.com/news/cities/chennai/flood-unites-political-parties-in-tn/article7946933.ece
+20151208,STUDENT,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.newindianexpress.com/states/andhra_pradesh/Flood-of-Donations-From-City-to-Chennai-Victims/2015/12/08/article3166606.ece
+20151207,NAVY,154,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.2,6,http://www.stardailystandard.com/breaking/chennai-floods-military-out-for-aid-as-torrents-pound-at-metropolis/42213/
+20151207,,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,6,http://indiatoday.intoday.in/story/anusha-natarajans-fitting-reply-to-an-inhumane-post-on-chennaifloods-is-going-viral/1/540311.html
+20151202,CHENNAI,160,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,6,http://www.timesofoman.com/article/72881/Oman/Environment/Chennai-floods-force-airlines-from-Oman-to-cancel-trips
+20151202,CHENNAI,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.gizbot.com/internet/news/chennai-floods-paytm-offering-free-mobile-recharge-help-local-residents-029948.html
+20151207,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.stardailystandard.com/breaking/chennai-floods-military-out-for-aid-as-torrents-pound-at-metropolis/42213/
+20151207,CHIEF MINISTER,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.thehindu.com/news/cities/Thiruvananthapuram/chandy-offers-relief-to-tn-flood-victims/article7956918.ece
+20151202,MINIST,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.newsx.com/regional/14284-chennai-floods-lives-inundated-with-woes
+20151202,OMAN,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.timesofoman.com/article/72881/Oman/Environment/Chennai-floods-force-airlines-from-Oman-to-cancel-trips
+20151202,TELECOM FIRM,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.business-standard.com/article/news-ians/telecom-firms-offer-free-talk-time-to-help-chennai-flood-victims-115120200965_1.html
+20151202,RESIDENTS,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,6,http://www.technuter.com/apps/chennaifloods-paytm-offers-free-mobile-recharges-to-help-residents-stay-connected.html
+20151202,ACTOR,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.bollywoodlife.com/news-gossip/allu-arjun-donates-rs-25-lakhs-for-chennai-floods-relief/
+20151207,JOURNALIST,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.newslaundry.com/2015/12/07/whos-afraid-of-jayalalithaa-is-the-media-going-soft-on-tn-government-in-the-wake-of-chennai-floods/
+20151207,CHENNAI,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,6,http://www.thehindu.com/news/cities/chennai/floods-lead-to-striking-changes-in-airfares/article7956375.ece
+20151203,GOOGLE,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://computer.financialexpress.com/news/chennaifloods-facebook-safety-check-googles-crisis-response-page-go-live/14751/
+20151204,CHENNAI,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,6,http://www.thestar.com.my/news/world/2015/12/04/indian-army-battles-deadly-flooding-to-rescue-survivors/
+20151204,,0874,"Chennai, Tamil Nadu, India",13.0833,80.2833,10.0,6,http://timesofindia.indiatimes.com/india/Chennai-floods-IndiGo-to-operate-extra-flights-out-of-Bengaluru/articleshow/50041292.cms
+20151207,CHENNAI,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.newslaundry.com/2015/12/07/whos-afraid-of-jayalalithaa-is-the-media-going-soft-on-tn-government-in-the-wake-of-chennai-floods/
+20151207,DUBAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://gulfnews.com/news/uae/society/uae-expatriates-from-chennai-brace-for-flood-aftermath-1.1633276
+20151207,ACTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://businessofcinema.com/regionalmovies/chennai-floods-rajinikanth-vijay-ajith-and-other-south-celebs-donate-generously/257790
+20151207,VILLAGE,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://www.thehindu.com/news/cities/Vijayawada/dearth-of-volunteers-hits-ngos-work-in-floodhit-areas/article7956220.ece
+20151202,CHENNAI,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://english.manoramaonline.com/entertainment/entertainment-news/tamil-nadu-floods-rajnikanth-dhanush-suriya-karthi-donates-for-relief-fund.html
+20151202,TAMIL NADU,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.thestatesman.com/news/india/chennai-floods-army-called-flight-operations-suspended/107855.html
+20151129,ACTOR,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://timesofindia.indiatimes.com/entertainment/tamil/movies/news/Suriya-donates-25-lakh-for-Chennai-flood-relief-fund/articleshow/49970008.cms
+20151123,PRIME MINISTER,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.business-standard.com/article/pti-stories/tvs-group-employees-undertake-relief-work-in-flood-hit-areas-115112300758_1.html
+20151207,CHENNAI,181,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.0,6,http://indread.com/20162/kamal-haasan-faces-heat-chennai-floods
+20151207,JOURNALIST,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.newslaundry.com/2015/12/07/whos-afraid-of-jayalalithaa-is-the-media-going-soft-on-tn-government-in-the-wake-of-chennai-floods/
+20151210,ENVIRONMENT MINIST,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.christiantoday.com/article/catholic.churches.in.chennai.cancel.christmas.to.serve.flood.victims/73159.htm
+20151207,AIR FORCE,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://kannada.oneindia.com/news/chennai/chennai-floods-airlifted-pregnant-woman-delivers-healthy-twin-girls-099148.html
+20151207,PRESIDENT,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.iluvcinema.in/telugu/chennai-floods-telugu-movie-artistes-association-maa-announces-huge-amount/
+20151210,CHENNAI,0331,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://www.siasat.com/news/company-offers-home-loans-reduced-rate-flood-affected-883444/
+20151207,PRESIDENT,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.iluvcinema.in/telugu/chennai-floods-telugu-movie-artistes-association-maa-announces-huge-amount/
+20151207,CHENNAI,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.iol.co.za/dailynews/news/14-patients-die-in-flood-hit-chennai-1.1956292
+20151207,ARMY,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.business-standard.com/article/government-press-release/army-flood-relief-in-chennai-update-on-07-dec-115120700851_1.html
+20151210,POLICE,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.gizmodo.in/indiamodo/Chennai-Floods-Drones-help-Police-to-locate-people-stranded-in-remote-areas/articleshow/50119663.cms
+20151210,STUDENT,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.thehindu.com/todays-paper/tp-features/tp-metroplus/flood-of-goodwill/article7967235.ece
+20151210,GOVERNMENT,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.deccanherald.com/content/516772/357-people-perished-floods-tn.html
+20151210,,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.southgatearc.org/news/2015/december/hams_help_out_india_flood_disaster.htm
+20151219,CHENNAI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.indiatimes.com/entertainment/bollywood/akshay-kumar-joins-srk-donates-rs-1-crore-towards-chennai-flood-relief-work-248441.html
+20151204,CHENNAI,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.thehindu.com/news/cities/bangalore/bengaluru-also-prone-to-floods/article7946879.ece
+20151219,TAMIL NADU,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.sakshipost.com/index.php/news/national/69958-rs100-crore-loss-to-railways-due-to-chennai-flood.html
+20151210,CALIFORNIA,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.indiapost.com/appeal-for-funds-for-chennai-flood-relief/
+20151210,HYUNDAI,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.cartrade.com/car-bike-news/hyundai-india-donates-rs-2-crore-for-chennai-floods-relief-130741.html
+20151210,CHENNAI,080,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.0,6,http://www.channelnewsasia.com/news/singapore/chennai-floods-corporate/2335960.html
+20151204,CHENNAI,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,6,http://article.wn.com/view/2015/12/04/More_rain_forecast_as_floods_inundate_Chennais_street_homes_/
+20151204,ARMY,166,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.0,6,http://www.thestar.com.my/news/world/2015/12/04/indian-army-battles-deadly-flooding-to-rescue-survivors/
+20151204,POLITICIAN,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.thehindu.com/news/cities/chennai/flood-unites-political-parties-in-tn/article7946933.ece
+20151219,REPRESENTATIVES,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.cnn.com/2015/12/19/opinions/potarazu-chennai-flooding/
+20151204,ACTOR,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.thehindu.com/news/cities/chennai/flood-unites-political-parties-in-tn/article7946933.ece
+20151204,TAMIL,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.oneindia.com/india/chennai-rains-twitter-controversy-ram-gopal-varma-flood-victims-rajinikanth-funds-1946537.html
+20151204,ACTOR,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,6,http://www.khaskhabar.com/picture-news/bollywood-bollywood-celebs-pray-for-chennai-flood-victims-1-59039.html
+20151213,CHENNAI,138,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.0,6,http://www.thehindubusinessline.com/news/national/chennai-floods-a-rare-natural-calamity/article7983580.ece
+20151213,DEFENCE FORCE,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.business-standard.com/article/pti-stories/defence-forces-role-in-chennai-floods-commendable-parrikar-115121300660_1.html
+20151204,,072,"Chennai, Tamil Nadu, India",13.0833,80.2833,8.3,6,http://gulfnews.com/your-say/your-view/chennaifloods-trend-on-social-media-channels-1.1630951
+20151213,DEFENCE MINIST,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.business-standard.com/article/pti-stories/defence-forces-role-in-chennai-floods-commendable-parrikar-115121300660_1.html
+20151204,NEW DELHI,032,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.5,6,http://aninews.in/newsdetail6/story243276/shuttler-saina-pledges-rs-2-lakh-for-chennai-flood-victims.html
+20151213,CHENNAI,080,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.0,6,https://in.news.yahoo.com/yechury-meets-flood-victims-chennai-demands-probe-081041083.html
+20151204,CHENNAI,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://economictimes.indiatimes.com/industry/services/hotels-restaurants/chennai-floods-hotels-fear-running-out-of-supplies-in-next-couple-of-days/articleshow/50035349.cms
+20151204,CHENNAI,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.dailystar.com.lb/News/World/2015/Dec-04/325912-south-indian-floods-kill-hospital-patients-renewed-rains-strike-fear.ashx
+20151204,CHENNAI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.thestar.com.my/news/nation/2015/12/04/chennai-floods-over-90-malaysians-stranded/
+20151213,KATHMANDU,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,6,http://thehimalayantimes.com/nepal/nepali-youth-reach-out-to-chennai-flood-victims-with-relief/
+20151204,AUTHORITIES,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://english.astroawani.com/world-news/more-90-malaysians-still-stranded-flood-battered-chennai-83712
+20151204,CHENNAI,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://english.manoramaonline.com/in-depth/chennai-floods-2015/chennai-floods-relief-social-media-online-help.html
+20151213,CHENNAI,090,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://news.biharprabha.com/2015/12/venkaiah-naidu-meets-flood-victims/
+20151204,SINGAPOREAN,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.business-standard.com/article/pti-stories/flights-to-chennai-cancelled-after-floods-in-singapore-115120400096_1.html
+20151204,CHENNAI,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.catchnews.com/chennai-news/here-s-how-the-indian-navy-launched-rescue-operations-on-a-war-footing-in-chennai-floods-rescue-operation-1449217986.html
+20160115,PROFESSOR,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,6,http://www.thehindu.com/features/lit-for-life/from-srinagar-to-chennai-flood-tales/article8112689.ece
+20151211,UNITED SIKHS,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,6,http://www.sikh24.com/2015/12/12/after-devastating-floods-sikhs-continue-to-serve-in-chennai/
+20151211,BAHRAIN,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.gdnonline.com/Details/49672/Leading-Bahrain-jeweller-lends-a-helping-hand-to-flood-victims
+20151210,ACTIVIST,1014,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,6,http://indianexpress.com/article/india/india-news-india/chennai-floods-pil-seeks-action-against-chief-secy-top-officials/
+20151226,CHENNAI,026,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://economictimes.indiatimes.com/news/politics-and-nation/flood-fallout-will-ias-officer-u-sagayam-be-able-to-do-a-arvind-kejriwal-in-chennai/articleshow/50330960.cms
+20151228,BUSINESS,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://yourstory.com/2015/12/chennai-floods-msme/
+20151211,UNITED SIKHS,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,6,http://www.sikh24.com/2015/12/12/after-devastating-floods-sikhs-continue-to-serve-in-chennai/
+20151204,QATAR,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,6,http://www.menafn.com/1094460974/Chennaites-in-Qatar-worried-about-kin-in-flood-hit-city
+20151204,CHENNAI,050,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.5,6,http://turkishweekly.net/2015/12/04/news/india-s-chennai-still-struggles-with-rainfall-flooding/
+20151204,CHENNAI,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,6,http://www.bollywoodlife.com/news-gossip/katrina-kaif-is-really-worried-about-chennai-floods/
+20151204,CORPORATION,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://article.wn.com/view/2015/12/04/More_rain_forecast_as_floods_inundate_Chennais_street_homes_/
+20151210,COMPANY,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.dnaindia.com/money/report-chennai-floods-from-tata-aig-to-sbi-general-here-is-how-insurance-companies-are-helping-victims-file-claims-easily-2154144
+20151211,HEALTH MINIST,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.indianweekender.co.nz/Pages/ArticleDetails/25/6326/In-focus/Special-Report-Chennai-floods-water-recedes-anger-persists
+20151206,COMPANY,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.stardailystandard.com/uk/south-indian-floods-kill-hospital-sufferers-however-rains-ease/33810/
+20151206,MANUFACTURER,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.ibtimes.co.in/chennai-floods-union-minister-thanks-companies-sending-packaged-food-water-658281
+20151206,CHENNAI,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.firstpost.com/world/u-turn-paris-talks-force-modi-govt-to-admit-climate-change-cause-behind-chennai-floods-2535228.html
+20151127,CHENNAI,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.moneycontrol.com/news/cnbc-tv18-comments/chennai-corp-starts-post-flood-infra-redevelopment-work_4355681.html
+20151127,TAMIL NADU,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.dailythanthi.com/News/State/2015/11/27050413/CM-Jayalalithaa-requested-report-soon-for-flood-relief.vpf
+20151206,CHENNAI,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,6,https://in.newshub.org/floods-cripple-tamil-nadu-s-capital-likely-dent-brand-chennai-19700889.html
+20151127,,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.dnaindia.com/india/report-how-a-group-of-citizens-fed-more-than-1100-animals-during-the-chennai-floods-2149438
+20151204,CHENNAI,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://kannada.oneindia.com/news/bangalore/a-lesson-for-bengaluru-from-the-chennai-floods-099079.html
+20151206,TAMIL NADU,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.patrika.com/news/miscellenous-india/chennai-floods-milk-packets-sell-for-rs-100-per-litre-1141001/
+20151206,CHENNAI,011,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.1,6,http://www.deccanherald.com/content/516068/chennai-like-flooding-not-happen.html
+20151206,CHIEF MINISTER,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://english.mathrubhumi.com/chennai-flood-relief-cm-lauds-mathrubhumi-s-efforts-english-news-1.718004
+20151206,CHENNAI,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.news24.com/World/News/top-india-politician-faces-criticism-over-deadly-floods-20151206
+20151206,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.firstpost.com/world/u-turn-paris-talks-force-modi-govt-to-admit-climate-change-cause-behind-chennai-floods-2535228.html
+20151206,CHENNAI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.khabarmantra.com/news/chennai-nestle-sent-noodle-to-flood-victims-06122015.html
+20151206,COMPANIES,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,6,http://www.newstracklive.com/news/it-companies-suffer-60-million-loss-due-to-chennai-floods-1028844-1.html
+20151204,REUTERS,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.themalaysianinsider.com/malaysia/article/more-than-90-malaysians-still-stranded-in-chennai-flood
+20151204,NEW DELHI,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://aninews.in/newsdetail6/story243276/shuttler-saina-pledges-rs-2-lakh-for-chennai-flood-victims.html
+20151206,CHENNAI,0331,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://www.business-standard.com/article/pti-stories/dipika-pallikal-to-contribute-rs-2-lakh-to-flood-relief-fund-115120600495_1.html
+20151204,ACTOR,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.oneindia.com/india/chennai-floods-what-angered-actor-kamal-haasan-1946286.html
+20151228,CHENNAI,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.motoroids.com/news/honda-supports-repair-activities-flood-affected-cars-chennai-offers-discount-spares-value-added-services/
+20151204,CHENNAI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.digit.in/apps/foodpanda-to-deliver-food-packets-to-those-affected-by-chennai-floods-28167.html
+20151204,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.deccanherald.com/content/515671/people-state-return-home-flood.html
+20151204,COMPANY,114,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.thestar.com.my/news/world/2015/12/05/indian-army-battles-deadly-flooding-to-rescue-survivors/
+20151204,RESIDENTS,023,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,https://en-maktoob.news.yahoo.com/uae-expats-fear-loved-ones-flood-hit-chennai-065421149.html
+20151204,STUDENT,125,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,6,http://www.thestar.com.my/news/nation/2015/12/04/escape-from-indian-floods-students-recount-terrifying-ordeal/
+20151204,MEDIA,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.bollywoodlife.com/news-gossip/katrina-kaif-is-really-worried-about-chennai-floods/
+20151210,THE OPPOSITION,100,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,6,http://m.firstpost.com/india/at-jayalalithaas-behest-centre-declares-tamil-nadu-floods-calamity-of-severe-nature-2541026.html
+20151222,CHENNAI,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://realty.economictimes.indiatimes.com/news/industry/chennai-floods-dent-property-tax-collection/50277598
+20151222,TAMIL NADU,033,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://www.team-bhp.com/news/chennai-honda-offers-discount-repairs-flood-hit-cars
+20151222,CHENNAI,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://www.dnaindia.com/money/report-chennai-floods-honda-announces-special-support-activities-for-flood-affected-customers-2158528
+20151222,HONDA,020,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.0,6,http://www.team-bhp.com/news/chennai-honda-offers-discount-repairs-flood-hit-cars
+20151124,CHENNAI,111,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://timesofindia.indiatimes.com/city/chennai/Stalin-flays-Jayalalithaa-for-not-visiting-flood-hit-areas-in-Tamil-Nadu/articleshow/49905745.cms
+20151222,,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,6,http://businesswireindia.com/news/news-details/hershey-india-supply-sofit-soya-milk-nutritional-beverage-victims-chennai-floods/46683
+20151209,WORLD RESOURCES INSTITUTE,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.citylab.com/weather/2015/12/chennai-flood-climate-change-urban-planning-cop21-paris/419349/
+20151209,,036,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.newindianexpress.com/cities/chennai/Rahul-Visits-Flood-affected-Spots-Avoids-Political-Bytes/2015/12/09/article3168195.ece
+20151217,TRADER,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.iamin.in/en/bangalore-central/news/chennai-floods-bangalore%E2%80%99s-apmc-traders-send-3-trucks-food-grains-victims-79306
+20151209,HYUNDAI,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.zigwheels.com/news-features/news/hyundai-india-contributes-rs-2-crore-to-chennai-floods-relief/23858/
+20151209,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.citylab.com/weather/2015/12/chennai-flood-climate-change-urban-planning-cop21-paris/419349/
+20151209,COMPANY,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.ibtimes.co.in/chennaifloods-maruti-suzuki-sends-team-technicians-service-flood-affected-cars-658702
+20151209,MEDIA,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://indread.com/20358/shriya-saran-bathroom-selfie-dominates-her-charity-for-chennai-floods
+20151209,CHENNAI,061,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.4,6,http://www.newindianexpress.com/cities/bengaluru/Floods-in-Chennai-Double-Prices-of-Veggies-in-City/2015/12/09/article3168113.ece
+20151209,CHENNAI,120,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.0,6,http://www.thefrontierpost.com/article/359729/chennai-floods-are-about-a-city-choking-on-itself/
+20151124,CHENNAI,1053,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,6,http://www.ameripublications.com/tamil-nadu-gets-rs940-crore-from-centre-as-flood-relief/16149
+20151209,SEX WORKER,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.therakyatpost.com/world/2015/12/09/indian-sex-workers-donate-money-for-chennai-flood-aid/
+20151209,DEALER,061,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.4,6,http://www.newindianexpress.com/cities/bengaluru/Floods-in-Chennai-Double-Prices-of-Veggies-in-City/2015/12/09/article3168113.ece
+20151209,ACTOR,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.hindustantimes.com/regional-movies/chennai-floods-rajinikanth-donates-rs-10-crore/story-9gh9Xd6z9IN3FE5HWmXBrK.html
+20151209,ACTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.americanbazaaronline.com/2015/12/08/rajnikanth-cancels-birthday-celebrations-donates-rs-10-crores-to-chennai-flood-victims/
+20151209,TAMIL NADU,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.newindianexpress.com/nation/Mata-Amritanandamayi-Math-Donates-Rs-5-Crore-for-Chennai-Flood-Victims/2015/12/09/article3169422.ece
+20151209,CHENNAI,026,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://auto.economictimes.indiatimes.com/news/passenger-vehicle/cars/post-chennai-floods-over-4000-cars-need-immediate-servicing-maruti-suzuki/50100545
+20151209,INDUSTRY,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/chennai-floods-hit-small-drug-factories-blow-to-us-exports/articleshow/50100257.cms
+20151209,CHENNAI,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.thehindu.com/features/metroplus/society/good-samaritans-chip-in-to-support-those-affected-by-flood-in-chennai/article7966311.ece
+20151209,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/chennai-floods-hit-small-drug-factories-blow-to-us-exports/articleshow/50100257.cms
+20151209,POLICEMEN,112,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://scroll.in/article/773948/chennai-floods-highlight-perils-of-development-driven-by-real-estate-lobby
+20151203,CHENNAI,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,6,http://www.business-standard.com/article/news-ians/sirisena-saddened-by-chennai-floods-115120300929_1.html
+20151223,,013,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.4,6,http://www.merinews.com/article/hershey-india-to-supply-nutritional-beverage-to-chennai-floods-victims/15912176.shtml
+20151201,STUDENT,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.theborneopost.com/2015/12/03/40-malaysian-students-stranded-by-floods-in-tamil-nadu/
+20151201,CHENNAI,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,6,http://www.bollywoodlife.com/news-gossip/chennai-rains-flood-siddharths-house-forces-him-to-move-to-terrace-view-pics/
+20151201,CHENNAI,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.bollywoodlife.com/news-gossip/chennai-rains-flood-siddharths-house-forces-him-to-move-to-terrace-view-pics/
+20151201,LEADING NEWS,040,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.0,6,http://www.bollywoodlife.com/news-gossip/chennai-rains-flood-siddharths-house-forces-him-to-move-to-terrace-view-pics/
+20151215,ACTOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://chennaionline.com/movies/cine-buzz/20151115011134/Bollywood-Actor-Akshay-Kumar-donated-Rs-1-Crore-for-Chennai-Flood-Relief.col
+20151215,COMPANY,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,6,http://www.kannadaprabha.com/nation/walmart-commits-around-rs-1-cr-for-chennai-flood-relief/265675.html
+20160105,CHENNAI,1053,"Chennai, Tamil Nadu, India",13.0833,80.2833,-5.0,6,http://www.newsx.com/regional/16956-opposition-dmk-demands-inquiry-into-chennai-flooding
+20151215,CHENNAI,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,6,http://english.manoramaonline.com/in-depth/chennai-floods-2015/thank-you-says-suriya-as-manorama-medical-camps-start-in-chennai.html
+20160105,CHENNAI,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,6,http://www.newsx.com/regional/16956-opposition-dmk-demands-inquiry-into-chennai-flooding
+20151228,CHENNAI,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://auto.ndtv.com/news/chennai-floods-hyundai-offers-additional-service-benefits-to-vehicle-owners-in-chennai-1259193
+20151205,CHENNAI,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.thehindu.com/news/national/karnataka/suda-sdcc-donate-for-relief-work-in-floodhit-tamil-nadu/article7951391.ece
+20160106,ACTIVIST,141,"Chennai, Tamil Nadu, India",13.0833,80.2833,-6.5,6,http://news.chennaionline.com/chennai/DMK-demands-judicial-probe-into-Chennai-flooding/cc83d91f-62bd-42d1-bba7-8441892aa8bd.col
+20151205,CHENNAI,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.thehindu.com/news/cities/Delhi/gogoi-holds-meeting-on-chennai-flood-situation/article7950419.ece
+20160111,CHENNAI,027,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.thehindu.com/news/cities/chennai/flood-volunteers-seek-sustainable-solutions-for-chennai/article8091723.ece
+20151205,PARLIAMENTARIAN,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.eurasiareview.com/05122015-chennai-floods-has-it-anything-to-do-with-climate-change-analysis/
+20160111,CHENNAI,014,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://www.thehindu.com/news/cities/chennai/flood-volunteers-seek-sustainable-solutions-for-chennai/article8091723.ece
+20151216,COMPANY,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.indiainfoline.com/article/news-top-story/chennai-flood-wipro-warns-of-lower-revenues-for-q3-fy16-115121600286_1.html
+20151216,LEGISLATOR,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://timesofindia.indiatimes.com/city/chennai/CM-issues-audio-clip-to-boost-morale-of-states-flood-victims/articleshow/50199789.cms
+20151205,,046,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.thehindu.com/news/cities/Delhi/gogoi-holds-meeting-on-chennai-flood-situation/article7950419.ece
+20151216,CHENNAI,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,6,http://www.moneycontrol.com/news/business/wipro-issues-q3-revenue-warning-over-chennai-floods_4597441.html
+20151216,CHENNAI,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://www.indiatvnews.com/entertainment/bollywood/after-helping-drought-struck-farmers-akshay-kumar-donates-rs-crore-for-chennai-flood-victims-25756.html
+20151216,EMPLOYEE,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.livemint.com/Companies/TWwa6hQiigyJywSOwgkYyM/After-TCS-Wipro-issues-Q3-warning-courtesy-Chennai-floods.html
+20151216,CHENNAI,130,"Chennai, Tamil Nadu, India",13.0833,80.2833,-4.4,6,http://www.thehindubusinessline.com/info-tech/chennai-floods-will-hit-revenue-operating-margins-wipro/article7995789.ece
+20151205,CHENNAI,010,"Chennai, Tamil Nadu, India",13.0833,80.2833,0.0,6,http://english.manoramaonline.com/in-depth/chennai-floods-2015/chennai-rain-rescue-relief-operations-art-of-living-volunteers-software-professionals.html
+20151216,CHENNAI,138,"Chennai, Tamil Nadu, India",13.0833,80.2833,-7.0,6,http://www.indiainfoline.com/article/news-top-story/chennai-flood-wipro-warns-of-lower-revenues-for-q3-fy16-115121600286_1.html
+20151216,CHENNAI,042,"Chennai, Tamil Nadu, India",13.0833,80.2833,1.9,6,http://www.livemint.com/Companies/TWwa6hQiigyJywSOwgkYyM/After-TCS-Wipro-issues-Q3-warning-courtesy-Chennai-floods.html
+20151216,EMPLOYEE,060,"Chennai, Tamil Nadu, India",13.0833,80.2833,6.0,6,http://overdrive.in/news/renault-nissan-donates-rs-1-crore-to-cms-relief-fund-for-chennai-floods/
+20151216,CHENNAI,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://www.americanbazaaronline.com/2015/12/15/akshay-kumar-donates-rs-1-crore-to-bhoomika-trust-for-chennai-flood-relief/
+20151205,,0311,"Chennai, Tamil Nadu, India",13.0833,80.2833,5.2,6,http://www.merinews.com/article/prominent-celebrities-who-have-offered-a-helping-hand-to-chennai-flood-relief/15911720.shtml
+20160111,CHENNAI,043,"Chennai, Tamil Nadu, India",13.0833,80.2833,2.8,6,http://www.thehindu.com/news/cities/chennai/flood-volunteers-seek-sustainable-solutions-for-chennai/article8091723.ece
+20151126,CHENNAI,071,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,http://newstodaynet.com/chennai/yadava-assn-gives-rs-5-lakh-flood-relief
+20151205,ACTOR,051,"Chennai, Tamil Nadu, India",13.0833,80.2833,3.4,6,http://indread.com/20005/tollywood-celebrities-who-never-cared-about-chennai-floods
+20151203,CHENNAI,012,"Chennai, Tamil Nadu, India",13.0833,80.2833,-0.4,6,http://humanitariannews.org/20151203/india-situation-report-floods-southern-states-india-02122015
+20151214,OPPOSITION PARTIES,084,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://english.manoramaonline.com/news/just-in/jaya-govt-refutes-charges-chennai-floods-rarest-of-rare.html
+20151214,COMPANIES,110,"Chennai, Tamil Nadu, India",13.0833,80.2833,-2.0,6,http://www.rediff.com/business/report/what-lessons-brands-must-learn-from-tamil-nadu-floods/20151214.htm
+20151205,AIRLINE,073,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.4,6,https://in.newshub.org/chennai-floods-flight-tickets-skyrocket-rs-50000-one-way-19688636.html
+20151214,CHENNAI,070,"Chennai, Tamil Nadu, India",13.0833,80.2833,7.0,6,http://m.firstpost.com/politics/chennai-floods-aftermath-dubai-healthcare-firm-to-provide-medical-aid-at-camps-across-city-2544548.html
+20151214,CHENNAI,030,"Chennai, Tamil Nadu, India",13.0833,80.2833,4.0,6,http://www.rediff.com/business/report/what-lessons-brands-must-learn-from-tamil-nadu-floods/20151214.htm
+20151205,CHENNAI,1712,"Chennai, Tamil Nadu, India",13.0833,80.2833,-9.2,6,http://www.thehindu.com/news/cities/Coimbatore/encroachment-of-lakes-indiscriminate-mining-led-to-floods-in-chennai/article7950763.ece
+20151203,CHENNAI,190,"Chennai, Tamil Nadu, India",13.0833,80.2833,-10.0,6,http://www.nyoooz.com/lucknow/279638/chennai-floods-leave-students-stranded

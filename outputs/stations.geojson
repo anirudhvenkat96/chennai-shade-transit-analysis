@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.286079,
+          13.095369
+        ]
+      },
+      "properties": {
+        "stop_id": 1063,
+        "stop_name": "Mannadi",
+        "transit_type": "metro",
+        "shade_score": 4.6,
+        "mean_ndvi": 0.1455,
+        "network_file": "1063_metro.geojson",
+        "longitude": 80.286079,
+        "latitude": 13.095369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.201453,
+          13.004256
+        ]
+      },
+      "properties": {
+        "stop_id": 1065,
+        "stop_name": "Alandur",
+        "transit_type": "metro",
+        "shade_score": 18.0,
+        "mean_ndvi": 0.2043,
+        "network_file": "1065_metro.geojson",
+        "longitude": 80.201453,
+        "latitude": 13.004256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.198582,
+          12.995
+        ]
+      },
+      "properties": {
+        "stop_id": 1066,
+        "stop_name": "St. Thomas Mount",
+        "transit_type": "metro",
+        "shade_score": 15.5,
+        "mean_ndvi": 0.2054,
+        "network_file": "1066_metro.geojson",
+        "longitude": 80.198582,
+        "latitude": 12.995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.194003,
+          12.999848
+        ]
+      },
+      "properties": {
+        "stop_id": 1069,
+        "stop_name": "Nanganallur Road",
+        "transit_type": "metro",
+        "shade_score": 45.2,
+        "mean_ndvi": 0.2937,
+        "network_file": "1069_metro.geojson",
+        "longitude": 80.194003,
+        "latitude": 12.999848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.292059,
+          13.092238
+        ]
+      },
+      "properties": {
+        "stop_id": 1187,
+        "stop_name": "Chennai Beach",
+        "transit_type": "mrts",
+        "shade_score": 11.8,
+        "mean_ndvi": 0.1699,
+        "network_file": "1187_mrts.geojson",
+        "longitude": 80.292059,
+        "latitude": 13.092238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.282793,
+          13.083246
+        ]
+      },
+      "properties": {
+        "stop_id": 1188,
+        "stop_name": "Chennai Fort",
+        "transit_type": "mrts",
+        "shade_score": 21.0,
+        "mean_ndvi": 0.2031,
+        "network_file": "1188_mrts.geojson",
+        "longitude": 80.282793,
+        "latitude": 13.083246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.276696,
+          13.079468
+        ]
+      },
+      "properties": {
+        "stop_id": 1189,
+        "stop_name": "Parktown",
+        "transit_type": "mrts",
+        "shade_score": 15.0,
+        "mean_ndvi": 0.1683,
+        "network_file": "1189_mrts.geojson",
+        "longitude": 80.276696,
+        "latitude": 13.079468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.259419,
+          12.987301
+        ]
+      },
+      "properties": {
+        "stop_id": 0,
+        "stop_name": "Thiruvanmiyur Moffusil bus stop",
+        "transit_type": "bus",
+        "shade_score": 37.8,
+        "mean_ndvi": 0.2736,
+        "network_file": "0_bus.geojson",
+        "longitude": 80.259419,
+        "latitude": 12.987301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25935,
+          13.014809
+        ]
+      },
+      "properties": {
+        "stop_id": 1,
+        "stop_name": "Sathya Studio",
+        "transit_type": "bus",
+        "shade_score": 36.5,
+        "mean_ndvi": 0.2744,
+        "network_file": "1_bus.geojson",
+        "longitude": 80.25935,
+        "latitude": 13.014809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20939,
+          13.008075
+        ]
+      },
+      "properties": {
+        "stop_id": 2,
+        "stop_name": "Guindy",
+        "transit_type": "bus",
+        "shade_score": 36.4,
+        "mean_ndvi": 0.2625,
+        "network_file": "2_bus.geojson",
+        "longitude": 80.20939,
+        "latitude": 13.008075
+      }
+    }
+  ]
+}

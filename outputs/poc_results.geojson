@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2860786,
+          13.095369
+        ]
+      },
+      "properties": {
+        "stop_name": "Mannadi",
+        "transit_type": "metro",
+        "shade_score": 4.6,
+        "mean_ndvi": 0.146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2014525,
+          13.0042558
+        ]
+      },
+      "properties": {
+        "stop_name": "Alandur",
+        "transit_type": "metro",
+        "shade_score": 18.0,
+        "mean_ndvi": 0.204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.198582,
+          12.995
+        ]
+      },
+      "properties": {
+        "stop_name": "St. Thomas Mount",
+        "transit_type": "metro",
+        "shade_score": 15.5,
+        "mean_ndvi": 0.205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1940028,
+          12.9998483
+        ]
+      },
+      "properties": {
+        "stop_name": "Nanganallur Road",
+        "transit_type": "metro",
+        "shade_score": 45.2,
+        "mean_ndvi": 0.294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2920589998549,
+          13.0922379997216
+        ]
+      },
+      "properties": {
+        "stop_name": "Chennai Beach",
+        "transit_type": "mrts",
+        "shade_score": 11.8,
+        "mean_ndvi": 0.17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2827929995524,
+          13.0832459997062
+        ]
+      },
+      "properties": {
+        "stop_name": "Chennai Fort",
+        "transit_type": "mrts",
+        "shade_score": 21.0,
+        "mean_ndvi": 0.203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2766959997161,
+          13.0794680002777
+        ]
+      },
+      "properties": {
+        "stop_name": "Parktown",
+        "transit_type": "mrts",
+        "shade_score": 15.0,
+        "mean_ndvi": 0.168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2594187,
+          12.9873013
+        ]
+      },
+      "properties": {
+        "stop_name": "Thiruvanmiyur Moffusil bus stop",
+        "transit_type": "bus",
+        "shade_score": 37.8,
+        "mean_ndvi": 0.274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2593497,
+          13.0148091
+        ]
+      },
+      "properties": {
+        "stop_name": "Sathya Studio",
+        "transit_type": "bus",
+        "shade_score": 36.5,
+        "mean_ndvi": 0.274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2093905,
+          13.0080754
+        ]
+      },
+      "properties": {
+        "stop_name": "Guindy",
+        "transit_type": "bus",
+        "shade_score": 36.4,
+        "mean_ndvi": 0.263
+      }
+    }
+  ]
+}
