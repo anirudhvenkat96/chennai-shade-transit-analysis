@@ -1,4 +1,4 @@
-// build.js — injects MAPBOX_TOKEN env var into index.html at Vercel build time
+// build.js — reads index.template.html, injects MAPBOX_TOKEN, writes index.html
 const fs = require('fs');
 
 const token = process.env.MAPBOX_TOKEN;
@@ -7,14 +7,14 @@ if (!token) {
   process.exit(1);
 }
 
-const src = fs.readFileSync('index.html', 'utf8');
+const src = fs.readFileSync('index.template.html', 'utf8');
 
 if (!src.includes('YOUR_MAPBOX_TOKEN')) {
-  console.error('Error: placeholder YOUR_MAPBOX_TOKEN not found in index.html.');
+  console.error('Error: placeholder YOUR_MAPBOX_TOKEN not found in index.template.html.');
   process.exit(1);
 }
 
 const out = src.replace('YOUR_MAPBOX_TOKEN', token);
 fs.writeFileSync('index.html', out, 'utf8');
 
-console.log('Mapbox token injected into index.html successfully.');
+console.log('index.html written with Mapbox token injected.');

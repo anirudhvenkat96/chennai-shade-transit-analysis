@@ -5,3 +5,4 @@ __pycache__/
 .claude/
 cache/
 data/chennai_ndvi_2023.tif
+index.html
