@@ -1,0 +1,170 @@
+============================================================
+  CHENNAI TRANSIT — DATASET CLEANING
+============================================================
+============================================================
+  METRO — CLEANING (PASS 2)
+============================================================
+
+  Raw features         : 124
+  After null-name drop : 83  (removed 41)
+
+  Entrance/exit/depot nodes removed (10):
+    - Anna Nagar Tower Entrance/Exit
+    - Anna Nagar Tower Entrance/Exit
+    - Thirumangalam Metro Entrance/Exit
+    - Shenoy Nagar Metro Entrance - North East
+    - Shenoy Nagar Metro Entrance - North West
+    - Wimco Nagar Depot
+    - High Court A4
+    - High Court A2
+    - High Court A1
+    - High Court A3
+  After node filter    : 73
+  Groups after 100 m merge: 36
+
+  Final station count  : 36
+
+  Station list:
+      1. Alandur
+      2. St. Thomas Mount
+      3. Ekkattuthangal
+      4. Ashok Nagar
+      5. Vadapalani
+      6. Arumbakkam
+      7. CMBT
+      8. Koyambedu
+      9. Pachaiyappa's College
+     10. Kilpauk
+     11. Nehru Park
+     12. Egmore
+     13. சைதாப்பேட்டை
+     14. எல் ஐ சி
+     15. அரசினர் தோட்டம்
+     16. Mannadi
+     17. Washermanpet
+     18. Nanganallur Road
+     19. Meenambakkam
+     20. Chennai International Airport
+     21. தேனாம்பேட்டை
+     22. நந்தனம்
+     23. சின்னமலை
+     24. கிண்டி
+     25. ஏ ஜி டி.எம்.எஸ்
+     26. Central Metro
+     27. High Court
+     28. ஆயிரம் விளக்கு
+     29. தியாகராயா கல்லூரி
+     30. Tondiarpet
+     31. விம்கோ நகர்
+     32. Thiruvottriyur
+     33. Kaladipet
+     34. சுங்கச்சாவடி
+     35. புது வண்ணாரப்பேட்டை
+     36. Thiruvottiyur Theradi
+
+  Saved → C:\Users\aniru\chennai-shade-transit-analysis\data\chennai-metro-clean.geojson
+
+============================================================
+  MRTS — CLEANING
+============================================================
+
+  Raw features   : 118
+
+  [1] Removed outside bbox [(79.9, 12.8, 80.4, 13.3)]: 32
+      Remaining: 86
+
+  [2] Removed unnamed stops: 1
+      Remaining: 85
+
+  [3] Removed exact duplicate geometries: 9
+      Remaining: 76
+
+  Station list after cleaning:
+    Chennai Beach
+    Chennai Fort
+    Parktown
+    Chintadripet
+    Chepauk
+    Tiruvelikeni
+    Light House
+    Mundakanni Amman Koil
+    Thirumayilai
+    Mandaveli
+    Greenways Road
+    Kotturpuram
+    Kasturiba Nagar
+    Indira Nagar
+    Thiruvanmiyur
+    Taramani
+    Perungudi
+    Velachery
+    Royapuram
+    Washermanpet
+    Chennai Central
+    Basin Bridge
+    Vyasarpadi Jeeva
+    Perambur
+    Charrjage Works
+    Loco Works
+    Villivakkam
+    Korattur
+    Pattaravakkam
+    Ambattur
+    Thirumullaivoil
+    Annanur
+    Avadi
+    Hindu College
+    Pattabiram
+    Tiruninravur
+    Veppambattu
+    Sevvapet Road
+    Putlur
+    Thiruvallur
+    Chennai Park
+    Chennai Egmore
+    Chetpet
+    Nungambakkam
+    Kodambakkam
+    Mambalam
+    Saidapet
+    Guindy
+    St Thomas Mount
+    Pazhavanthangal
+    Meenambakkam
+    Tirusulam
+    Pallavaram
+    Chromepet
+    Tambaram Sanatorium
+    Tambaram
+    Korukkupet
+    Tondiarpet
+    V.O.C. Nagar
+    Thiruvottiyur
+    Wimco Nagar
+    Kathikivakkam
+    Ennore
+    Attipattu Pudunagar
+    Attipattu
+    Nandiambakkam
+    Minijur
+    Perungalathur
+    Vandalur
+    Urappakkam
+    Guduvancheri
+    Potheri
+    Kattangulathur
+    BALAJI NAGAR
+    ADAMBAKKAM
+    THILAI GANGA NAGAR
+
+  Saved → C:\Users\aniru\chennai-shade-transit-analysis\data\chennai-mrts-clean.geojson
+
+============================================================
+  FINAL SUMMARY
+============================================================
+  Bus stops : 1063 stops   (kept as-is)
+  Metro     : 124 stations before  →  36 stations after
+  MRTS      : 118 stops before      →  76 stops after
+
+  Combined total ready for full analysis: 1175 stops
+    (1063 bus + 36 metro + 76 MRTS)

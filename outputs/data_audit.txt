@@ -1,0 +1,166 @@
+============================================================
+  CHENNAI TRANSIT + NDVI — DATA QUALITY AUDIT
+  Chennai bounding box: (79.9, 12.8, 80.4, 13.3)
+============================================================
+
+============================================================
+  TRANSIT DATASET: BUS_STOPS
+============================================================
+  CRS            : EPSG:4326
+  Geometry types : {'Point': 1063}
+
+  [1] Total features    : 1063
+
+  [2] Named features    : 1063
+      Unnamed / blank   : 0
+
+  [3] Near-duplicate pairs (same name, <50 m): 198
+      idx 266 & 268  dist=24.4 m  name='Spastic Society'
+      idx 757 & 765  dist=37.2 m  name='Balaji Dental College'
+      idx 111 & 501  dist=32.9 m  name='Mugalivakkam'
+      idx 104 & 480  dist=22.0 m  name='அய்யப்பன்தாங்கல்'
+      idx 931 & 932  dist=7.4 m  name='Ayathur Chathiram'
+      idx 278 & 763  dist=36.5 m  name='Velachery Railway Station'
+      idx 48 & 319  dist=18.5 m  name='TVS'
+      idx 399 & 415  dist=11.9 m  name='Mekala Theatre'
+      idx 1023 & 1024  dist=10.9 m  name='Madanankuppam'
+      idx 438 & 608  dist=17.8 m  name='Thiruvanmiyur RTO'
+      ... and 188 more
+
+  [4] Within Chennai bbox (79.9, 12.8, 80.4, 13.3)  : 1063
+      Outside bbox              : 0
+
+  [5] Sample (5 rows):
+      [0] (80.2594, 12.9873)  id=node/246866326  |  @id=node/246866326  |  addr:city=nan  |  addr:country=nan  |  addr:postcode=nan  |  addr:street=nan
+      [1] (80.2593, 13.0148)  id=node/249497892  |  @id=node/249497892  |  addr:city=nan  |  addr:country=nan  |  addr:postcode=nan  |  addr:street=nan
+      [2] (80.2094, 13.0081)  id=node/256039818  |  @id=node/256039818  |  addr:city=nan  |  addr:country=nan  |  addr:postcode=nan  |  addr:street=nan
+      [3] (80.2797, 13.0506)  id=node/262666364  |  @id=node/262666364  |  addr:city=nan  |  addr:country=nan  |  addr:postcode=nan  |  addr:street=nan
+      [4] (80.0951, 12.9913)  id=node/277375984  |  @id=node/277375984  |  addr:city=nan  |  addr:country=nan  |  addr:postcode=nan  |  addr:street=nan
+
+============================================================
+  TRANSIT DATASET: METRO
+============================================================
+  CRS            : EPSG:4326
+  Geometry types : {'Point': 124}
+
+  [1] Total features    : 124
+      Expected range    : 40–55  →  WARNING — expected 40–55
+
+  [2] Named features    : 124
+      Unnamed / blank   : 0
+
+  [3] Near-duplicate pairs (same name, <50 m): 41
+      idx 35 & 44  dist=7.2 m  name='சைதாப்பேட்டை'
+      idx 47 & 48  dist=2.6 m  name='கிண்டி'
+      idx 11 & 46  dist=4.5 m  name='சின்னமலை'
+      idx 24 & 58  dist=3.1 m  name='எல் ஐ சி'
+      idx 12 & 47  dist=7.5 m  name='கிண்டி'
+      idx 22 & 60  dist=12.2 m  name='ஆயிரம் விளக்கு'
+      idx 33 & 42  dist=3.9 m  name='தேனாம்பேட்டை'
+      idx 27 & 56  dist=6.7 m  name='High Court'
+      idx 6 & 36  dist=4.1 m  name='Nanganallur Road'
+      idx 23 & 49  dist=3.3 m  name='ஏ ஜி டி.எம்.எஸ்'
+      ... and 31 more
+
+  [4] Within Chennai bbox (79.9, 12.8, 80.4, 13.3)  : 124
+      Outside bbox              : 0
+
+  [5] Sample (5 rows):
+      [0] (80.2861, 13.0954)  id=node/603015252  |  @id=node/603015252  |  addr:city=nan  |  addr:postcode=nan  |  addr:street=nan  |  alt_name=nan
+      [1] (80.2730, 13.0697)  id=node/603015278  |  @id=node/603015278  |  addr:city=nan  |  addr:postcode=nan  |  addr:street=nan  |  alt_name=nan
+      [2] (80.2015, 13.0043)  id=node/5308690568  |  @id=node/5308690568  |  addr:city=Chennai  |  addr:postcode=nan  |  addr:street=nan  |  alt_name=nan
+      [3] (80.1986, 12.9950)  id=node/5319202812  |  @id=node/5319202812  |  addr:city=nan  |  addr:postcode=nan  |  addr:street=nan  |  alt_name=nan
+      [4] (80.1642, 12.9808)  id=node/5319207344  |  @id=node/5319207344  |  addr:city=nan  |  addr:postcode=nan  |  addr:street=nan  |  alt_name=nan
+
+============================================================
+  TRANSIT DATASET: MRTS
+============================================================
+  CRS            : EPSG:4326
+  Geometry types : {'Point': 118}
+
+  [1] Total features    : 118
+      Expected range    : 15–30  →  WARNING — expected 15–30
+
+  [2] Named features    : 117
+      Unnamed / blank   : 1
+      Unnamed indices   : [117]
+
+  [3] Near-duplicate pairs (same name, <50 m): 13
+      idx 21 & 71  dist=0.0 m  name='Chennai Central'
+      idx 22 & 72  dist=0.0 m  name='Basin Bridge'
+      idx 2 & 52  dist=0.0 m  name='Parktown'
+      idx 68 & 113  dist=0.0 m  name='Tambaram'
+      idx 102 & 103  dist=0.0 m  name='Chengelpet'
+      idx 0 & 69  dist=0.0 m  name='Chennai Beach'
+      idx 19 & 70  dist=0.0 m  name='Royapuram'
+      idx 0 & 50  dist=0.0 m  name='Chennai Beach'
+      idx 0 & 18  dist=0.0 m  name='Chennai Beach'
+      idx 1 & 51  dist=0.0 m  name='Chennai Fort'
+      ... and 3 more
+
+  [4] Within Chennai bbox (79.9, 12.8, 80.4, 13.3)  : 86
+      Outside bbox              : 32
+      idx 41  name='Egattur'  coords=(79.8842, 13.1069)
+      idx 42  name='Kadambattur'  coords=(79.8621, 13.0997)
+      idx 43  name='Senjipanambakkam'  coords=(79.8352, 13.0946)
+      idx 44  name='Manavur'  coords=(79.8015, 13.0965)
+      idx 45  name='Thiruvalangadu'  coords=(79.7586, 13.0898)
+
+  [5] Sample (5 rows):
+      [0] (80.2921, 13.0922)  id=None  |  Name=Chennai Beach  |  description=None  |  timestamp=NaT  |  begin=NaT  |  end=NaT
+      [1] (80.2828, 13.0832)  id=None  |  Name=Chennai Fort  |  description=None  |  timestamp=NaT  |  begin=NaT  |  end=NaT
+      [2] (80.2767, 13.0795)  id=None  |  Name=Parktown  |  description=None  |  timestamp=NaT  |  begin=NaT  |  end=NaT
+      [3] (80.2738, 13.0739)  id=None  |  Name=Chintadripet  |  description=None  |  timestamp=NaT  |  begin=NaT  |  end=NaT
+      [4] (80.2806, 13.0618)  id=None  |  Name=Chepauk  |  description=None  |  timestamp=NaT  |  begin=NaT  |  end=NaT
+
+============================================================
+  NDVI RASTER: chennai_ndvi_2023.tif
+============================================================
+  CRS            : EPSG:4326
+  Driver         : GTiff
+  Dimensions     : 5567 x 5569 px
+  Band count     : 1
+  Dtype          : float32
+  NoData value   : None
+
+  [1] Raster extent:
+      left=79.8999  right=80.4000
+      bottom=12.7999  top=13.3002
+
+  [2] Covers Chennai bbox (79.9, 12.8, 80.4, 13.3):
+      X (lon): YES  (raster 79.8999–80.4000, need 79.9–80.4)
+      Y (lat): YES  (raster 12.7999–13.3002, need 12.8–13.3)
+
+  [3] NDVI statistics (band 1, valid pixels only):
+      NoData pixels : 0 / 31,002,623  (0.00%)
+      Min NDVI      : nan
+      Max NDVI      : nan
+      Mean NDVI     : nan
+      Std dev       : nan
+
+  [4] Anomalous values:
+      Values < -1.0 : 0
+      Values >  1.0 : 0
+      All values within valid NDVI range [-1, 1]  OK
+
+  [5] NDVI distribution:
+      [-1.0, +0.0)  water/bare             : 7,949,966  (25.6%)
+      [+0.0, +0.2)  sparse/urban           : 4,383,277  (14.1%)
+      [+0.2, +0.4)  low vegetation         : 7,560,222  (24.4%)
+      [+0.4, +0.6)  moderate vegetation    : 6,992,760  (22.6%)
+      [+0.6, +1.0)  dense vegetation       : 4,104,225  (13.2%)
+
+============================================================
+  SUMMARY
+============================================================
+  Dataset           Total   Named   Unnamed   Dupes   OutBbox
+  -----------------------------------------------------------
+  bus_stops          1063    1063         0     198         0
+  metro               124     124         0      41         0
+  mrts                118     117         1      13        32
+
+  NDVI raster:
+    Covers Chennai bbox : YES
+    NoData              : 0.00%
+    NDVI range          : nan – nan  (mean nan)
+    Anomalous values    : 0
