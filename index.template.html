@@ -268,6 +268,11 @@
       font-style: italic;
     }
 
+    /* ── Cluster label ───────────────────────────────────────── */
+    .cluster-tooltip {
+      pointer-events: none;
+    }
+
     /* ── Zoom hint ────────────────────────────────────────────── */
     #zoom-hint {
       position: absolute;
@@ -444,7 +449,7 @@
             'line-opacity': 0,
             'line-opacity-transition': { duration: 300, delay: 0 },
           },
-        }, 'stations-layer'); // insert beneath station dots
+        }, 'clusters'); // insert beneath cluster and station layers
 
         // Trigger fade-in on next frame
         requestAnimationFrame(() => {
@@ -510,17 +515,73 @@
     // ── Map load ───────────────────────────────────────────────────────────
     map.on('load', () => {
 
-      // Station source
+      // ── Station source (clustering enabled below zoom 13) ───────────────
       map.addSource('stations', {
         type: 'geojson',
         data: 'outputs/stations.geojson',
+        cluster: true,
+        clusterMaxZoom: 12,   // clusters dissolve at zoom 13+
+        clusterRadius: 50,
+        clusterProperties: {
+          // accumulate shade_score sum so we can compute cluster average
+          'shade_sum': ['+', ['get', 'shade_score']],
+        },
       });
 
-      // Station layer
+      // ── Cluster circles ──────────────────────────────────────────────────
+      map.addLayer({
+        id: 'clusters',
+        type: 'circle',
+        source: 'stations',
+        filter: ['has', 'point_count'],
+        paint: {
+          // radius scales with number of stops inside
+          'circle-radius': [
+            'step', ['get', 'point_count'],
+            18,  10,
+            24,  50,
+            30, 200,
+            38,
+          ],
+          // colour = average shade score of clustered stops (same gradient)
+          'circle-color': [
+            'step',
+            ['/', ['get', 'shade_sum'], ['get', 'point_count']],
+            '#cc3300', 15,
+            '#e87020', 30,
+            '#f0b429', 50,
+            '#78b56a', 70,
+            '#2d7a3a',
+          ],
+          'circle-stroke-width': 2.5,
+          'circle-stroke-color': '#ffffff',
+          'circle-opacity': 0.88,
+        },
+      });
+
+      // ── Cluster stop-count label ─────────────────────────────────────────
+      map.addLayer({
+        id: 'cluster-count',
+        type: 'symbol',
+        source: 'stations',
+        filter: ['has', 'point_count'],
+        layout: {
+          'text-field': '{point_count_abbreviated}',
+          'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
+          'text-size': 13,
+          'text-allow-overlap': true,
+        },
+        paint: {
+          'text-color': '#ffffff',
+        },
+      });
+
+      // ── Individual stop dots (unclustered only) ──────────────────────────
       map.addLayer({
         id: 'stations-layer',
         type: 'circle',
         source: 'stations',
+        filter: ['!', ['has', 'point_count']],
         paint: {
           'circle-radius': [
             'interpolate', ['linear'], ['zoom'],
@@ -540,7 +601,27 @@
         },
       });
 
-      // ── Hover: show popup + network ──────────────────────────────────────
+      // ── Click cluster → zoom in to expand ───────────────────────────────
+      map.on('click', 'clusters', async (e) => {
+        const features  = map.queryRenderedFeatures(e.point, { layers: ['clusters'] });
+        if (!features.length) return;
+        const clusterId = features[0].properties.cluster_id;
+        try {
+          const zoom = await map.getSource('stations').getClusterExpansionZoom(clusterId);
+          map.easeTo({ center: features[0].geometry.coordinates, zoom });
+        } catch (err) {
+          console.warn('Cluster expand failed:', err);
+        }
+      });
+
+      map.on('mouseenter', 'clusters', () => {
+        map.getCanvas().style.cursor = 'pointer';
+      });
+      map.on('mouseleave', 'clusters', () => {
+        map.getCanvas().style.cursor = '';
+      });
+
+      // ── Hover individual stop: show popup + network ──────────────────────
       map.on('mouseenter', 'stations-layer', async (e) => {
         map.getCanvas().style.cursor = 'pointer';
         const feature = e.features[0];
