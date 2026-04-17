@@ -72,7 +72,7 @@
       },
       "properties": {
         "stop_id": 3,
-        "stop_name": "bus_13.0506_80.2797",
+        "stop_name": "Besant Road 1",
         "transit_type": "bus",
         "shade_score": 20.8,
         "mean_ndvi": 0.225,
@@ -452,7 +452,7 @@
       },
       "properties": {
         "stop_id": 22,
-        "stop_name": "bus_13.0355_80.2474",
+        "stop_name": "Kavingar Bharathidasan Road 1",
         "transit_type": "bus",
         "shade_score": 47.5,
         "mean_ndvi": 0.3106,
@@ -552,7 +552,7 @@
       },
       "properties": {
         "stop_id": 27,
-        "stop_name": "bus_13.0292_80.2542",
+        "stop_name": "St. Mary's Road 1",
         "transit_type": "bus",
         "shade_score": 82.5,
         "mean_ndvi": 0.4153,
@@ -572,7 +572,7 @@
       },
       "properties": {
         "stop_id": 28,
-        "stop_name": "bus_13.0294_80.2598",
+        "stop_name": "St. Mary's Road 2",
         "transit_type": "bus",
         "shade_score": 66.4,
         "mean_ndvi": 0.3596,
@@ -592,7 +592,7 @@
       },
       "properties": {
         "stop_id": 29,
-        "stop_name": "bus_13.0290_80.2493",
+        "stop_name": "Pasumpon Muthuramalingar Thevar Salai",
         "transit_type": "bus",
         "shade_score": 67.0,
         "mean_ndvi": 0.3831,
@@ -652,7 +652,7 @@
       },
       "properties": {
         "stop_id": 32,
-        "stop_name": "bus_13.0784_80.2637",
+        "stop_name": "Gandhi Irwin Road",
         "transit_type": "bus",
         "shade_score": 14.9,
         "mean_ndvi": 0.2022,
@@ -672,7 +672,7 @@
       },
       "properties": {
         "stop_id": 33,
-        "stop_name": "bus_13.0353_80.2505",
+        "stop_name": "Kavingar Bharathidasan Road 2",
         "transit_type": "bus",
         "shade_score": 55.6,
         "mean_ndvi": 0.3309,
@@ -712,7 +712,7 @@
       },
       "properties": {
         "stop_id": 35,
-        "stop_name": "bus_13.0025_80.2008",
+        "stop_name": "Grand Southern Trunk Road, St. Thomas Mount Cantonment 1",
         "transit_type": "bus",
         "shade_score": 19.1,
         "mean_ndvi": 0.202,
@@ -1012,7 +1012,7 @@
       },
       "properties": {
         "stop_id": 50,
-        "stop_name": "bus_13.0627_80.2447",
+        "stop_name": "Uttamar Gandhi Salai",
         "transit_type": "bus",
         "shade_score": 60.1,
         "mean_ndvi": 0.3514,
@@ -1232,7 +1232,7 @@
       },
       "properties": {
         "stop_id": 61,
-        "stop_name": "bus_13.0565_80.2549",
+        "stop_name": "Aziz Muluk 3rd Street 1",
         "transit_type": "bus",
         "shade_score": 23.9,
         "mean_ndvi": 0.2151,
@@ -1352,7 +1352,7 @@
       },
       "properties": {
         "stop_id": 67,
-        "stop_name": "bus_13.0520_80.2577",
+        "stop_name": "Conron Smith Road",
         "transit_type": "bus",
         "shade_score": 22.6,
         "mean_ndvi": 0.2223,
@@ -1492,7 +1492,7 @@
       },
       "properties": {
         "stop_id": 74,
-        "stop_name": "bus_13.0678_80.2550",
+        "stop_name": "Paanthiyan Chaalai",
         "transit_type": "bus",
         "shade_score": 49.7,
         "mean_ndvi": 0.3072,
@@ -1552,7 +1552,7 @@
       },
       "properties": {
         "stop_id": 77,
-        "stop_name": "bus_12.9866_80.2385",
+        "stop_name": "Jamuna Bus Stop",
         "transit_type": "bus",
         "shade_score": 5.7,
         "mean_ndvi": 0.1723,
@@ -1572,7 +1572,7 @@
       },
       "properties": {
         "stop_id": 78,
-        "stop_name": "bus_12.9885_80.2298",
+        "stop_name": "Playfield Avenue",
         "transit_type": "bus",
         "shade_score": 24.5,
         "mean_ndvi": 0.2615,
@@ -1612,7 +1612,7 @@
       },
       "properties": {
         "stop_id": 80,
-        "stop_name": "bus_12.9866_80.2354",
+        "stop_name": "Hostel Avenue",
         "transit_type": "bus",
         "shade_score": 8.1,
         "mean_ndvi": 0.1808,
@@ -1632,7 +1632,7 @@
       },
       "properties": {
         "stop_id": 81,
-        "stop_name": "bus_13.0440_80.2684",
+        "stop_name": "VM Street",
         "transit_type": "bus",
         "shade_score": 44.1,
         "mean_ndvi": 0.2943,
@@ -1772,7 +1772,7 @@
       },
       "properties": {
         "stop_id": 88,
-        "stop_name": "bus_12.9952_80.1874",
+        "stop_name": "Grand Southern Trunk Road, St. Thomas Mount Cantonment 2",
         "transit_type": "bus",
         "shade_score": 14.5,
         "mean_ndvi": 0.1819,
@@ -1912,7 +1912,7 @@
       },
       "properties": {
         "stop_id": 95,
-        "stop_name": "bus_13.0595_80.2477",
+        "stop_name": "Bus Stop, Teynampet",
         "transit_type": "bus",
         "shade_score": 53.5,
         "mean_ndvi": 0.3253,
@@ -2072,7 +2072,7 @@
       },
       "properties": {
         "stop_id": 103,
-        "stop_name": "bus_13.0407_80.1280",
+        "stop_name": "Mount - Poonamallee - Avadi Road 1",
         "transit_type": "bus",
         "shade_score": 7.2,
         "mean_ndvi": 0.193,
@@ -2112,7 +2112,7 @@
       },
       "properties": {
         "stop_id": 105,
-        "stop_name": "bus_13.0369_80.1423",
+        "stop_name": "Mount - Poonamallee - Avadi Road 2",
         "transit_type": "bus",
         "shade_score": 16.7,
         "mean_ndvi": 0.2089,
@@ -2152,7 +2152,7 @@
       },
       "properties": {
         "stop_id": 107,
-        "stop_name": "bus_13.0366_80.1426",
+        "stop_name": "Mount - Poonamallee - Avadi Road 3",
         "transit_type": "bus",
         "shade_score": 19.0,
         "mean_ndvi": 0.2183,
@@ -2192,7 +2192,7 @@
       },
       "properties": {
         "stop_id": 109,
-        "stop_name": "bus_13.0323_80.1637",
+        "stop_name": "Mount - Poonamallee - Avadi Road 4",
         "transit_type": "bus",
         "shade_score": 7.6,
         "mean_ndvi": 0.2,
@@ -2212,7 +2212,7 @@
       },
       "properties": {
         "stop_id": 110,
-        "stop_name": "bus_13.0321_80.1636",
+        "stop_name": "Bus Stop, Valasaravakkam",
         "transit_type": "bus",
         "shade_score": 7.5,
         "mean_ndvi": 0.2026,
@@ -2312,7 +2312,7 @@
       },
       "properties": {
         "stop_id": 115,
-        "stop_name": "bus_12.9057_80.1678",
+        "stop_name": "Santhosapuram - Vengaivasal - Mambakkam Road, Madambakkam",
         "transit_type": "bus",
         "shade_score": 16.9,
         "mean_ndvi": 0.2297,
@@ -2352,7 +2352,7 @@
       },
       "properties": {
         "stop_id": 117,
-        "stop_name": "bus_12.9075_80.1987",
+        "stop_name": "Isha Garden, Perumbakkam",
         "transit_type": "bus",
         "shade_score": 10.9,
         "mean_ndvi": 0.2035,
@@ -2372,7 +2372,7 @@
       },
       "properties": {
         "stop_id": 118,
-        "stop_name": "bus_13.1588_80.2984",
+        "stop_name": "Ennore High Road",
         "transit_type": "bus",
         "shade_score": 2.0,
         "mean_ndvi": 0.1635,
@@ -2392,7 +2392,7 @@
       },
       "properties": {
         "stop_id": 119,
-        "stop_name": "bus_13.1593_80.3022",
+        "stop_name": "Chennai - Ennore Road 1",
         "transit_type": "bus",
         "shade_score": 2.2,
         "mean_ndvi": 0.1518,
@@ -2492,7 +2492,7 @@
       },
       "properties": {
         "stop_id": 124,
-        "stop_name": "bus_13.0304_80.2383",
+        "stop_name": "Anna Salai (Mount Road) 1",
         "transit_type": "bus",
         "shade_score": 48.4,
         "mean_ndvi": 0.3051,
@@ -2512,7 +2512,7 @@
       },
       "properties": {
         "stop_id": 125,
-        "stop_name": "bus_13.0296_80.2438",
+        "stop_name": "Pasumpon Muthuramalingar Thevar Salai (Chamiers Road)",
         "transit_type": "bus",
         "shade_score": 55.6,
         "mean_ndvi": 0.3347,
@@ -2612,7 +2612,7 @@
       },
       "properties": {
         "stop_id": 130,
-        "stop_name": "bus_13.0853_80.2855",
+        "stop_name": "North Fort Road",
         "transit_type": "bus",
         "shade_score": 7.7,
         "mean_ndvi": 0.1565,
@@ -2672,7 +2672,7 @@
       },
       "properties": {
         "stop_id": 133,
-        "stop_name": "bus_13.0470_80.2119",
+        "stop_name": "South Sivan Koil Street",
         "transit_type": "bus",
         "shade_score": 33.1,
         "mean_ndvi": 0.2578,
@@ -2692,7 +2692,7 @@
       },
       "properties": {
         "stop_id": 134,
-        "stop_name": "bus_13.0490_80.2071",
+        "stop_name": "Arcot Road 1",
         "transit_type": "bus",
         "shade_score": 22.5,
         "mean_ndvi": 0.2298,
@@ -2752,7 +2752,7 @@
       },
       "properties": {
         "stop_id": 137,
-        "stop_name": "bus_13.0631_80.1972",
+        "stop_name": "Kaliamman Koil Street",
         "transit_type": "bus",
         "shade_score": 16.6,
         "mean_ndvi": 0.2235,
@@ -2812,7 +2812,7 @@
       },
       "properties": {
         "stop_id": 140,
-        "stop_name": "bus_13.0695_80.1243",
+        "stop_name": "Perumal Koil Street",
         "transit_type": "bus",
         "shade_score": 4.4,
         "mean_ndvi": 0.2016,
@@ -2852,7 +2852,7 @@
       },
       "properties": {
         "stop_id": 142,
-        "stop_name": "bus_13.0575_80.2042",
+        "stop_name": "1st Street",
         "transit_type": "bus",
         "shade_score": 20.3,
         "mean_ndvi": 0.2382,
@@ -2912,7 +2912,7 @@
       },
       "properties": {
         "stop_id": 145,
-        "stop_name": "bus_13.0374_80.2646",
+        "stop_name": "Luz Church Road",
         "transit_type": "bus",
         "shade_score": 50.7,
         "mean_ndvi": 0.3256,
@@ -2932,7 +2932,7 @@
       },
       "properties": {
         "stop_id": 146,
-        "stop_name": "bus_13.0471_80.2329",
+        "stop_name": "North Usman Road 1",
         "transit_type": "bus",
         "shade_score": 49.6,
         "mean_ndvi": 0.3114,
@@ -2952,7 +2952,7 @@
       },
       "properties": {
         "stop_id": 147,
-        "stop_name": "bus_13.0477_80.2330",
+        "stop_name": "North Usman Road 2",
         "transit_type": "bus",
         "shade_score": 47.4,
         "mean_ndvi": 0.3072,
@@ -2992,7 +2992,7 @@
       },
       "properties": {
         "stop_id": 149,
-        "stop_name": "bus_13.0251_80.2652",
+        "stop_name": "RK Mutt Road 1",
         "transit_type": "bus",
         "shade_score": 56.1,
         "mean_ndvi": 0.3258,
@@ -3112,7 +3112,7 @@
       },
       "properties": {
         "stop_id": 155,
-        "stop_name": "bus_13.0352_80.2704",
+        "stop_name": "Kutchery Road",
         "transit_type": "bus",
         "shade_score": 23.2,
         "mean_ndvi": 0.2283,
@@ -3172,7 +3172,7 @@
       },
       "properties": {
         "stop_id": 158,
-        "stop_name": "bus_13.0643_80.2822",
+        "stop_name": "Wallajah Road 1",
         "transit_type": "bus",
         "shade_score": 25.3,
         "mean_ndvi": 0.2137,
@@ -3192,7 +3192,7 @@
       },
       "properties": {
         "stop_id": 159,
-        "stop_name": "bus_13.0657_80.2837",
+        "stop_name": "Kamarajar Salai 1",
         "transit_type": "bus",
         "shade_score": 35.0,
         "mean_ndvi": 0.2571,
@@ -3212,7 +3212,7 @@
       },
       "properties": {
         "stop_id": 160,
-        "stop_name": "bus_13.0645_80.2820",
+        "stop_name": "Wallajah Road 2",
         "transit_type": "bus",
         "shade_score": 26.2,
         "mean_ndvi": 0.2188,
@@ -3232,7 +3232,7 @@
       },
       "properties": {
         "stop_id": 161,
-        "stop_name": "bus_13.0645_80.2837",
+        "stop_name": "Kamarajar Salai 2",
         "transit_type": "bus",
         "shade_score": 31.4,
         "mean_ndvi": 0.2463,
@@ -3252,7 +3252,7 @@
       },
       "properties": {
         "stop_id": 162,
-        "stop_name": "bus_13.0700_80.2420",
+        "stop_name": "McNichols Road 1",
         "transit_type": "bus",
         "shade_score": 46.6,
         "mean_ndvi": 0.3124,
@@ -3312,7 +3312,7 @@
       },
       "properties": {
         "stop_id": 165,
-        "stop_name": "bus_13.0378_80.2676",
+        "stop_name": "Sullivan Garden Road",
         "transit_type": "bus",
         "shade_score": 35.2,
         "mean_ndvi": 0.2743,
@@ -3332,7 +3332,7 @@
       },
       "properties": {
         "stop_id": 166,
-        "stop_name": "bus_13.0008_80.2673",
+        "stop_name": "Besant Avenue Road",
         "transit_type": "bus",
         "shade_score": 52.7,
         "mean_ndvi": 0.3098,
@@ -3432,7 +3432,7 @@
       },
       "properties": {
         "stop_id": 171,
-        "stop_name": "bus_13.0249_80.2651",
+        "stop_name": "RK Mutt Road 2",
         "transit_type": "bus",
         "shade_score": 56.6,
         "mean_ndvi": 0.3252,
@@ -3592,7 +3592,7 @@
       },
       "properties": {
         "stop_id": 179,
-        "stop_name": "bus_13.0545_80.2040",
+        "stop_name": "Kalaingar Karunanidhi Road 1",
         "transit_type": "bus",
         "shade_score": 22.9,
         "mean_ndvi": 0.2436,
@@ -3612,7 +3612,7 @@
       },
       "properties": {
         "stop_id": 180,
-        "stop_name": "bus_13.0544_80.2042",
+        "stop_name": "Arunachalam Street",
         "transit_type": "bus",
         "shade_score": 22.9,
         "mean_ndvi": 0.2438,
@@ -3632,7 +3632,7 @@
       },
       "properties": {
         "stop_id": 181,
-        "stop_name": "bus_13.0546_80.2013",
+        "stop_name": "Kalaingar Karunanidhi Road 2",
         "transit_type": "bus",
         "shade_score": 29.2,
         "mean_ndvi": 0.2598,
@@ -3852,7 +3852,7 @@
       },
       "properties": {
         "stop_id": 192,
-        "stop_name": "bus_13.0516_80.2774",
+        "stop_name": "Thulasinga perumal koil lane 2",
         "transit_type": "bus",
         "shade_score": 18.7,
         "mean_ndvi": 0.2139,
@@ -3912,7 +3912,7 @@
       },
       "properties": {
         "stop_id": 195,
-        "stop_name": "bus_13.1089_80.2423",
+        "stop_name": "Bus Stop, Perambur",
         "transit_type": "bus",
         "shade_score": 21.3,
         "mean_ndvi": 0.2378,
@@ -4072,7 +4072,7 @@
       },
       "properties": {
         "stop_id": 203,
-        "stop_name": "bus_13.0532_80.2479",
+        "stop_name": "Doctor M.G.R. Salai",
         "transit_type": "bus",
         "shade_score": 39.2,
         "mean_ndvi": 0.2819,
@@ -4812,7 +4812,7 @@
       },
       "properties": {
         "stop_id": 240,
-        "stop_name": "bus_13.1210_80.1999",
+        "stop_name": "Jawaharlal Nehru Road (100 Feet Road) 1",
         "transit_type": "bus",
         "shade_score": 11.2,
         "mean_ndvi": 0.2053,
@@ -5412,7 +5412,7 @@
       },
       "properties": {
         "stop_id": 270,
-        "stop_name": "bus_13.0467_80.2330",
+        "stop_name": "North Usman Road 3",
         "transit_type": "bus",
         "shade_score": 49.7,
         "mean_ndvi": 0.3129,
@@ -5592,7 +5592,7 @@
       },
       "properties": {
         "stop_id": 279,
-        "stop_name": "bus_13.0505_80.2143",
+        "stop_name": "NSK Salai",
         "transit_type": "bus",
         "shade_score": 20.9,
         "mean_ndvi": 0.2316,
@@ -5652,7 +5652,7 @@
       },
       "properties": {
         "stop_id": 282,
-        "stop_name": "bus_12.9487_80.1945",
+        "stop_name": "Pallavaram - Thoraipakkam Road, Keelkattalai",
         "transit_type": "bus",
         "shade_score": 15.9,
         "mean_ndvi": 0.214,
@@ -6012,7 +6012,7 @@
       },
       "properties": {
         "stop_id": 300,
-        "stop_name": "bus_13.0148_80.1745",
+        "stop_name": "Manapakkam Main Road 1",
         "transit_type": "bus",
         "shade_score": 15.6,
         "mean_ndvi": 0.222,
@@ -6052,7 +6052,7 @@
       },
       "properties": {
         "stop_id": 302,
-        "stop_name": "bus_12.9828_80.1885",
+        "stop_name": "Nanganallur 4th Main Road",
         "transit_type": "bus",
         "shade_score": 20.6,
         "mean_ndvi": 0.2334,
@@ -6192,7 +6192,7 @@
       },
       "properties": {
         "stop_id": 309,
-        "stop_name": "bus_13.0208_80.2253",
+        "stop_name": "Anna Salai (Mount Road) 2",
         "transit_type": "bus",
         "shade_score": 17.4,
         "mean_ndvi": 0.2171,
@@ -6232,7 +6232,7 @@
       },
       "properties": {
         "stop_id": 311,
-        "stop_name": "bus_12.9902_80.2275",
+        "stop_name": "Alumni Avenue 1",
         "transit_type": "bus",
         "shade_score": 30.0,
         "mean_ndvi": 0.2851,
@@ -6252,7 +6252,7 @@
       },
       "properties": {
         "stop_id": 312,
-        "stop_name": "bus_13.0488_80.2072",
+        "stop_name": "Arcot Road 2",
         "transit_type": "bus",
         "shade_score": 23.5,
         "mean_ndvi": 0.2322,
@@ -6752,7 +6752,7 @@
       },
       "properties": {
         "stop_id": 337,
-        "stop_name": "bus_13.0689_80.2673",
+        "stop_name": "Adithanar Road",
         "transit_type": "bus",
         "shade_score": 11.8,
         "mean_ndvi": 0.1708,
@@ -6792,7 +6792,7 @@
       },
       "properties": {
         "stop_id": 339,
-        "stop_name": "bus_13.0504_80.2404",
+        "stop_name": "Thirumalai Pillai Road",
         "transit_type": "bus",
         "shade_score": 50.4,
         "mean_ndvi": 0.3052,
@@ -6812,7 +6812,7 @@
       },
       "properties": {
         "stop_id": 340,
-        "stop_name": "bus_13.0570_80.2349",
+        "stop_name": "Mahalingapuram Main Road",
         "transit_type": "bus",
         "shade_score": 45.3,
         "mean_ndvi": 0.3097,
@@ -6852,7 +6852,7 @@
       },
       "properties": {
         "stop_id": 342,
-        "stop_name": "bus_13.0420_80.2681",
+        "stop_name": "Thiruvika Salai",
         "transit_type": "bus",
         "shade_score": 35.1,
         "mean_ndvi": 0.2681,
@@ -6872,7 +6872,7 @@
       },
       "properties": {
         "stop_id": 343,
-        "stop_name": "bus_13.0652_80.2738",
+        "stop_name": "Triplicane High Road",
         "transit_type": "bus",
         "shade_score": 2.8,
         "mean_ndvi": 0.127,
@@ -6912,7 +6912,7 @@
       },
       "properties": {
         "stop_id": 345,
-        "stop_name": "bus_13.0602_80.2777",
+        "stop_name": "Babu Jagjivanram Salai",
         "transit_type": "bus",
         "shade_score": 11.6,
         "mean_ndvi": 0.1677,
@@ -6932,7 +6932,7 @@
       },
       "properties": {
         "stop_id": 346,
-        "stop_name": "bus_13.0300_80.2506",
+        "stop_name": "T T Krishnamachari Road",
         "transit_type": "bus",
         "shade_score": 70.6,
         "mean_ndvi": 0.3864,
@@ -6992,7 +6992,7 @@
       },
       "properties": {
         "stop_id": 349,
-        "stop_name": "bus_13.0920_80.2752",
+        "stop_name": "Wall Tax Road 1",
         "transit_type": "bus",
         "shade_score": 4.3,
         "mean_ndvi": 0.1392,
@@ -7072,7 +7072,7 @@
       },
       "properties": {
         "stop_id": 353,
-        "stop_name": "bus_13.0997_80.2867",
+        "stop_name": "Broadway Road 1",
         "transit_type": "bus",
         "shade_score": 12.5,
         "mean_ndvi": 0.1758,
@@ -7092,7 +7092,7 @@
       },
       "properties": {
         "stop_id": 354,
-        "stop_name": "bus_13.1011_80.2749",
+        "stop_name": "Wall Tax Road 2",
         "transit_type": "bus",
         "shade_score": 13.6,
         "mean_ndvi": 0.1804,
@@ -7112,7 +7112,7 @@
       },
       "properties": {
         "stop_id": 355,
-        "stop_name": "bus_13.1035_80.2868",
+        "stop_name": "Broadway Road 2",
         "transit_type": "bus",
         "shade_score": 24.3,
         "mean_ndvi": 0.2292,
@@ -7132,7 +7132,7 @@
       },
       "properties": {
         "stop_id": 356,
-        "stop_name": "bus_13.0721_80.2740",
+        "stop_name": "Bus Stop, Royapuram 1",
         "transit_type": "bus",
         "shade_score": 15.7,
         "mean_ndvi": 0.1808,
@@ -7172,7 +7172,7 @@
       },
       "properties": {
         "stop_id": 358,
-        "stop_name": "bus_12.9649_80.1970",
+        "stop_name": "Madipakkam - Velachery Road",
         "transit_type": "bus",
         "shade_score": 15.4,
         "mean_ndvi": 0.2315,
@@ -9012,7 +9012,7 @@
       },
       "properties": {
         "stop_id": 450,
-        "stop_name": "bus_12.8976_80.2475",
+        "stop_name": "East Coast Road, Panaiyur",
         "transit_type": "bus",
         "shade_score": 35.6,
         "mean_ndvi": 0.275,
@@ -10252,7 +10252,7 @@
       },
       "properties": {
         "stop_id": 512,
-        "stop_name": "bus_13.0423_80.2246",
+        "stop_name": "Brindavan Street",
         "transit_type": "bus",
         "shade_score": 42.7,
         "mean_ndvi": 0.2865,
@@ -10332,7 +10332,7 @@
       },
       "properties": {
         "stop_id": 516,
-        "stop_name": "bus_13.0404_80.2392",
+        "stop_name": "Sir Thyagaraya Road 1",
         "transit_type": "bus",
         "shade_score": 61.2,
         "mean_ndvi": 0.3639,
@@ -10352,7 +10352,7 @@
       },
       "properties": {
         "stop_id": 517,
-        "stop_name": "bus_13.0408_80.2376",
+        "stop_name": "Sir Thyagaraya Road 2",
         "transit_type": "bus",
         "shade_score": 58.0,
         "mean_ndvi": 0.3588,
@@ -10592,7 +10592,7 @@
       },
       "properties": {
         "stop_id": 529,
-        "stop_name": "bus_13.0017_80.1960",
+        "stop_name": "Grand Southern Trunk Road, St. Thomas Mount Cantonment 3",
         "transit_type": "bus",
         "shade_score": 44.7,
         "mean_ndvi": 0.2818,
@@ -10612,7 +10612,7 @@
       },
       "properties": {
         "stop_id": 530,
-        "stop_name": "bus_13.0017_80.1961",
+        "stop_name": "Grand Southern Trunk Road, St. Thomas Mount Cantonment 4",
         "transit_type": "bus",
         "shade_score": 44.8,
         "mean_ndvi": 0.2822,
@@ -10632,7 +10632,7 @@
       },
       "properties": {
         "stop_id": 531,
-        "stop_name": "bus_13.0018_80.1962",
+        "stop_name": "Grand Southern Trunk Road, St. Thomas Mount Cantonment 5",
         "transit_type": "bus",
         "shade_score": 44.4,
         "mean_ndvi": 0.2822,
@@ -10752,7 +10752,7 @@
       },
       "properties": {
         "stop_id": 537,
-        "stop_name": "bus_12.9986_80.2392",
+        "stop_name": "Bonn Avenue 1",
         "transit_type": "bus",
         "shade_score": 29.0,
         "mean_ndvi": 0.2637,
@@ -10772,7 +10772,7 @@
       },
       "properties": {
         "stop_id": 538,
-        "stop_name": "bus_12.9991_80.2394",
+        "stop_name": "Bonn Avenue 2",
         "transit_type": "bus",
         "shade_score": 28.1,
         "mean_ndvi": 0.2617,
@@ -10792,7 +10792,7 @@
       },
       "properties": {
         "stop_id": 540,
-        "stop_name": "bus_12.9921_80.2338",
+        "stop_name": "Bonn Avenue 3",
         "transit_type": "bus",
         "shade_score": 100.0,
         "mean_ndvi": 0.4307,
@@ -10812,7 +10812,7 @@
       },
       "properties": {
         "stop_id": 541,
-        "stop_name": "bus_12.9922_80.2337",
+        "stop_name": "Bonn Avenue 4",
         "transit_type": "bus",
         "shade_score": 100.0,
         "mean_ndvi": 0.4307,
@@ -10832,7 +10832,7 @@
       },
       "properties": {
         "stop_id": 543,
-        "stop_name": "bus_13.0027_80.2402",
+        "stop_name": "Bonn Avenue 5",
         "transit_type": "bus",
         "shade_score": 54.8,
         "mean_ndvi": 0.3436,
@@ -10852,7 +10852,7 @@
       },
       "properties": {
         "stop_id": 545,
-        "stop_name": "bus_13.0026_80.2401",
+        "stop_name": "Bonn Avenue 6",
         "transit_type": "bus",
         "shade_score": 54.8,
         "mean_ndvi": 0.3436,
@@ -10872,7 +10872,7 @@
       },
       "properties": {
         "stop_id": 546,
-        "stop_name": "bus_13.0038_80.2414",
+        "stop_name": "Bonn Avenue 7",
         "transit_type": "bus",
         "shade_score": 48.0,
         "mean_ndvi": 0.323,
@@ -10892,7 +10892,7 @@
       },
       "properties": {
         "stop_id": 548,
-        "stop_name": "bus_12.9912_80.2330",
+        "stop_name": "Alumni Avenue 2",
         "transit_type": "bus",
         "shade_score": 69.2,
         "mean_ndvi": 0.3513,
@@ -10912,7 +10912,7 @@
       },
       "properties": {
         "stop_id": 549,
-        "stop_name": "bus_12.9911_80.2321",
+        "stop_name": "Alumni Avenue 3",
         "transit_type": "bus",
         "shade_score": 69.2,
         "mean_ndvi": 0.3688,
@@ -11032,7 +11032,7 @@
       },
       "properties": {
         "stop_id": 555,
-        "stop_name": "bus_13.0144_80.1935",
+        "stop_name": "Mount - Poonamallee - Avadi Road, Ward 158 1",
         "transit_type": "bus",
         "shade_score": 30.1,
         "mean_ndvi": 0.2592,
@@ -11052,7 +11052,7 @@
       },
       "properties": {
         "stop_id": 556,
-        "stop_name": "bus_13.0211_80.1833",
+        "stop_name": "Mount - Poonamallee - Avadi Road, Manapakkam",
         "transit_type": "bus",
         "shade_score": 7.6,
         "mean_ndvi": 0.1846,
@@ -11092,7 +11092,7 @@
       },
       "properties": {
         "stop_id": 558,
-        "stop_name": "bus_13.0671_80.2479",
+        "stop_name": "Haddows Road",
         "transit_type": "bus",
         "shade_score": 49.5,
         "mean_ndvi": 0.33,
@@ -11132,7 +11132,7 @@
       },
       "properties": {
         "stop_id": 560,
-        "stop_name": "bus_13.0679_80.2486",
+        "stop_name": "College Road",
         "transit_type": "bus",
         "shade_score": 29.2,
         "mean_ndvi": 0.2653,
@@ -11172,7 +11172,7 @@
       },
       "properties": {
         "stop_id": 562,
-        "stop_name": "bus_13.1450_79.9512",
+        "stop_name": "Thiruvallur",
         "transit_type": "bus",
         "shade_score": 39.5,
         "mean_ndvi": 0.2837,
@@ -11252,7 +11252,7 @@
       },
       "properties": {
         "stop_id": 566,
-        "stop_name": "bus_13.0726_80.2020",
+        "stop_name": "Jawaharlal Nehru Road (100 Feet Road) 2",
         "transit_type": "bus",
         "shade_score": 5.8,
         "mean_ndvi": 0.157,
@@ -11292,7 +11292,7 @@
       },
       "properties": {
         "stop_id": 568,
-        "stop_name": "bus_13.2399_80.2163",
+        "stop_name": "Vadaperumbakkam - Chettimedu Nair Road",
         "transit_type": "bus",
         "shade_score": 34.6,
         "mean_ndvi": 0.2651,
@@ -11312,7 +11312,7 @@
       },
       "properties": {
         "stop_id": 569,
-        "stop_name": "bus_13.2238_80.1943",
+        "stop_name": "Kummanur Road",
         "transit_type": "bus",
         "shade_score": 77.8,
         "mean_ndvi": 0.4051,
@@ -11332,7 +11332,7 @@
       },
       "properties": {
         "stop_id": 570,
-        "stop_name": "bus_13.1941_80.1833",
+        "stop_name": "Sothupakkam Road, Red Hills",
         "transit_type": "bus",
         "shade_score": 0.3,
         "mean_ndvi": 0.1415,
@@ -11392,7 +11392,7 @@
       },
       "properties": {
         "stop_id": 573,
-        "stop_name": "bus_13.0487_80.2600",
+        "stop_name": "Avvai Shanmugam Salai",
         "transit_type": "bus",
         "shade_score": 35.9,
         "mean_ndvi": 0.2662,
@@ -11412,7 +11412,7 @@
       },
       "properties": {
         "stop_id": 574,
-        "stop_name": "bus_13.0326_80.2775",
+        "stop_name": "Santhome High Road",
         "transit_type": "bus",
         "shade_score": 25.5,
         "mean_ndvi": 0.2257,
@@ -11432,7 +11432,7 @@
       },
       "properties": {
         "stop_id": 575,
-        "stop_name": "bus_13.0334_80.2773",
+        "stop_name": "Rosary Church Road",
         "transit_type": "bus",
         "shade_score": 21.6,
         "mean_ndvi": 0.2133,
@@ -11452,7 +11452,7 @@
       },
       "properties": {
         "stop_id": 576,
-        "stop_name": "bus_13.0315_80.1914",
+        "stop_name": "Vengkatraaman Theru",
         "transit_type": "bus",
         "shade_score": 7.5,
         "mean_ndvi": 0.1957,
@@ -11472,7 +11472,7 @@
       },
       "properties": {
         "stop_id": 577,
-        "stop_name": "bus_13.1089_80.2868",
+        "stop_name": "Bus Stop, Royapuram 2",
         "transit_type": "bus",
         "shade_score": 23.4,
         "mean_ndvi": 0.2362,
@@ -11492,7 +11492,7 @@
       },
       "properties": {
         "stop_id": 578,
-        "stop_name": "bus_13.1045_80.2867",
+        "stop_name": "Old Jail Road",
         "transit_type": "bus",
         "shade_score": 26.3,
         "mean_ndvi": 0.2389,
@@ -11512,7 +11512,7 @@
       },
       "properties": {
         "stop_id": 579,
-        "stop_name": "bus_13.1079_80.2914",
+        "stop_name": "Suryanarayana Street",
         "transit_type": "bus",
         "shade_score": 26.4,
         "mean_ndvi": 0.25,
@@ -11552,7 +11552,7 @@
       },
       "properties": {
         "stop_id": 581,
-        "stop_name": "bus_13.0290_80.2544",
+        "stop_name": "St. Mary's Road 3",
         "transit_type": "bus",
         "shade_score": 77.0,
         "mean_ndvi": 0.4006,
@@ -11812,7 +11812,7 @@
       },
       "properties": {
         "stop_id": 594,
-        "stop_name": "bus_12.8856_80.1514",
+        "stop_name": "Agaramthen - Kovilanchery Road",
         "transit_type": "bus",
         "shade_score": 39.2,
         "mean_ndvi": 0.2851,
@@ -11912,7 +11912,7 @@
       },
       "properties": {
         "stop_id": 599,
-        "stop_name": "bus_12.8941_80.1412",
+        "stop_name": "Camp Salai, Madambakkam 1",
         "transit_type": "bus",
         "shade_score": 26.9,
         "mean_ndvi": 0.2391,
@@ -11932,7 +11932,7 @@
       },
       "properties": {
         "stop_id": 600,
-        "stop_name": "bus_12.9022_80.1420",
+        "stop_name": "Camp Salai, Madambakkam 2",
         "transit_type": "bus",
         "shade_score": 20.0,
         "mean_ndvi": 0.226,
@@ -11952,7 +11952,7 @@
       },
       "properties": {
         "stop_id": 601,
-        "stop_name": "bus_12.9178_80.1458",
+        "stop_name": "Camp Salai, Rajakilpakkam",
         "transit_type": "bus",
         "shade_score": 17.6,
         "mean_ndvi": 0.2141,
@@ -12872,7 +12872,7 @@
       },
       "properties": {
         "stop_id": 647,
-        "stop_name": "bus_13.0565_80.2549",
+        "stop_name": "Aziz Muluk 3rd Street 2",
         "transit_type": "bus",
         "shade_score": 23.9,
         "mean_ndvi": 0.2151,
@@ -12952,7 +12952,7 @@
       },
       "properties": {
         "stop_id": 651,
-        "stop_name": "bus_13.0700_80.2420",
+        "stop_name": "McNichols Road 2",
         "transit_type": "bus",
         "shade_score": 46.6,
         "mean_ndvi": 0.3124,
@@ -13052,7 +13052,7 @@
       },
       "properties": {
         "stop_id": 656,
-        "stop_name": "bus_13.0505_80.2797",
+        "stop_name": "Besant Road 2",
         "transit_type": "bus",
         "shade_score": 19.9,
         "mean_ndvi": 0.223,
@@ -13072,7 +13072,7 @@
       },
       "properties": {
         "stop_id": 657,
-        "stop_name": "bus_13.0148_80.1744",
+        "stop_name": "Manapakkam Main Road 2",
         "transit_type": "bus",
         "shade_score": 15.5,
         "mean_ndvi": 0.2216,
@@ -13092,7 +13092,7 @@
       },
       "properties": {
         "stop_id": 658,
-        "stop_name": "bus_13.0146_80.1744",
+        "stop_name": "Manapakkam Main Road 3",
         "transit_type": "bus",
         "shade_score": 16.0,
         "mean_ndvi": 0.2229,
@@ -13432,7 +13432,7 @@
       },
       "properties": {
         "stop_id": 675,
-        "stop_name": "bus_12.9908_80.2300",
+        "stop_name": "Alumni Avenue 4",
         "transit_type": "bus",
         "shade_score": 48.0,
         "mean_ndvi": 0.3142,
@@ -13572,7 +13572,7 @@
       },
       "properties": {
         "stop_id": 682,
-        "stop_name": "bus_13.0154_80.1912",
+        "stop_name": "Mount - Poonamallee - Avadi Road, Ward 158 2",
         "transit_type": "bus",
         "shade_score": 32.1,
         "mean_ndvi": 0.2588,
@@ -13652,7 +13652,7 @@
       },
       "properties": {
         "stop_id": 686,
-        "stop_name": "bus_13.0631_80.2622",
+        "stop_name": "Binny Road",
         "transit_type": "bus",
         "shade_score": 25.0,
         "mean_ndvi": 0.2246,
@@ -15532,7 +15532,7 @@
       },
       "properties": {
         "stop_id": 780,
-        "stop_name": "bus_12.9886_80.1977",
+        "stop_name": "Bus Stop, Pazhavanthangal",
         "transit_type": "bus",
         "shade_score": 14.2,
         "mean_ndvi": 0.2223,
@@ -16252,7 +16252,7 @@
       },
       "properties": {
         "stop_id": 816,
-        "stop_name": "bus_13.0439_80.2717",
+        "stop_name": "Dr Radhakrishnan Salai",
         "transit_type": "bus",
         "shade_score": 33.0,
         "mean_ndvi": 0.2653,
@@ -16332,7 +16332,7 @@
       },
       "properties": {
         "stop_id": 820,
-        "stop_name": "bus_13.0099_80.2594",
+        "stop_name": "Sardar Patel Road",
         "transit_type": "bus",
         "shade_score": 60.0,
         "mean_ndvi": 0.3316,
@@ -16452,7 +16452,7 @@
       },
       "properties": {
         "stop_id": 826,
-        "stop_name": "bus_13.0327_80.0888",
+        "stop_name": "ORR Service Road 1",
         "transit_type": "bus",
         "shade_score": 28.0,
         "mean_ndvi": 0.2419,
@@ -16472,7 +16472,7 @@
       },
       "properties": {
         "stop_id": 827,
-        "stop_name": "bus_13.0378_80.0870",
+        "stop_name": "ORR Service Road 2",
         "transit_type": "bus",
         "shade_score": 26.3,
         "mean_ndvi": 0.2433,
@@ -16492,7 +16492,7 @@
       },
       "properties": {
         "stop_id": 828,
-        "stop_name": "bus_13.0420_80.0857",
+        "stop_name": "Golden Friends Smart City, Nazarathpet 1",
         "transit_type": "bus",
         "shade_score": 23.2,
         "mean_ndvi": 0.2376,
@@ -16852,7 +16852,7 @@
       },
       "properties": {
         "stop_id": 846,
-        "stop_name": "bus_13.0327_80.0896",
+        "stop_name": "ORR Service Road 3",
         "transit_type": "bus",
         "shade_score": 25.7,
         "mean_ndvi": 0.2399,
@@ -16872,7 +16872,7 @@
       },
       "properties": {
         "stop_id": 847,
-        "stop_name": "bus_13.0382_80.0877",
+        "stop_name": "ORR Service Road 4",
         "transit_type": "bus",
         "shade_score": 19.4,
         "mean_ndvi": 0.2337,
@@ -16892,7 +16892,7 @@
       },
       "properties": {
         "stop_id": 848,
-        "stop_name": "bus_13.0439_80.0860",
+        "stop_name": "ORR Service Road 5",
         "transit_type": "bus",
         "shade_score": 23.6,
         "mean_ndvi": 0.23,
@@ -16992,7 +16992,7 @@
       },
       "properties": {
         "stop_id": 853,
-        "stop_name": "bus_12.8968_80.0709",
+        "stop_name": "ORR Service Road, Mudichur 1",
         "transit_type": "bus",
         "shade_score": 31.5,
         "mean_ndvi": 0.2624,
@@ -17012,7 +17012,7 @@
       },
       "properties": {
         "stop_id": 854,
-        "stop_name": "bus_12.8967_80.0702",
+        "stop_name": "ORR Service Road, Mudichur 2",
         "transit_type": "bus",
         "shade_score": 29.1,
         "mean_ndvi": 0.2483,
@@ -17032,7 +17032,7 @@
       },
       "properties": {
         "stop_id": 855,
-        "stop_name": "bus_12.8922_80.0711",
+        "stop_name": "ORR Service Road, Mudichur 3",
         "transit_type": "bus",
         "shade_score": 32.2,
         "mean_ndvi": 0.2473,
@@ -17052,7 +17052,7 @@
       },
       "properties": {
         "stop_id": 856,
-        "stop_name": "bus_12.8902_80.0710",
+        "stop_name": "ORR Service Road, Mannivakkam",
         "transit_type": "bus",
         "shade_score": 39.8,
         "mean_ndvi": 0.2688,
@@ -17072,7 +17072,7 @@
       },
       "properties": {
         "stop_id": 857,
-        "stop_name": "bus_13.2489_80.2324",
+        "stop_name": "ORR Service Road 6",
         "transit_type": "bus",
         "shade_score": 49.6,
         "mean_ndvi": 0.288,
@@ -17092,7 +17092,7 @@
       },
       "properties": {
         "stop_id": 858,
-        "stop_name": "bus_13.2358_80.2157",
+        "stop_name": "ORR Service Road 7",
         "transit_type": "bus",
         "shade_score": 18.8,
         "mean_ndvi": 0.2344,
@@ -17112,7 +17112,7 @@
       },
       "properties": {
         "stop_id": 859,
-        "stop_name": "bus_13.2222_80.1933",
+        "stop_name": "ORR Service Road 8",
         "transit_type": "bus",
         "shade_score": 83.2,
         "mean_ndvi": 0.4042,
@@ -17132,7 +17132,7 @@
       },
       "properties": {
         "stop_id": 860,
-        "stop_name": "bus_13.2182_80.1838",
+        "stop_name": "ORR Service Road 9",
         "transit_type": "bus",
         "shade_score": 73.1,
         "mean_ndvi": 0.3521,
@@ -17172,7 +17172,7 @@
       },
       "properties": {
         "stop_id": 862,
-        "stop_name": "bus_13.1962_80.1558",
+        "stop_name": "Ponneri",
         "transit_type": "bus",
         "shade_score": 11.8,
         "mean_ndvi": 0.2127,
@@ -17192,7 +17192,7 @@
       },
       "properties": {
         "stop_id": 863,
-        "stop_name": "bus_13.1924_80.1529",
+        "stop_name": "ORR Service Road 10",
         "transit_type": "bus",
         "shade_score": 20.0,
         "mean_ndvi": 0.2376,
@@ -17212,7 +17212,7 @@
       },
       "properties": {
         "stop_id": 864,
-        "stop_name": "bus_13.1826_80.1477",
+        "stop_name": "ORR Service Road 11",
         "transit_type": "bus",
         "shade_score": 31.7,
         "mean_ndvi": 0.2538,
@@ -17232,7 +17232,7 @@
       },
       "properties": {
         "stop_id": 865,
-        "stop_name": "bus_13.1810_80.1457",
+        "stop_name": "ORR Service Road 12",
         "transit_type": "bus",
         "shade_score": 31.2,
         "mean_ndvi": 0.2637,
@@ -17252,7 +17252,7 @@
       },
       "properties": {
         "stop_id": 866,
-        "stop_name": "bus_13.1781_80.1362",
+        "stop_name": "ORR Service Road 13",
         "transit_type": "bus",
         "shade_score": 9.3,
         "mean_ndvi": 0.2056,
@@ -17292,7 +17292,7 @@
       },
       "properties": {
         "stop_id": 868,
-        "stop_name": "bus_13.1811_80.1164",
+        "stop_name": "ORR Service Road 14",
         "transit_type": "bus",
         "shade_score": 13.1,
         "mean_ndvi": 0.2313,
@@ -17312,7 +17312,7 @@
       },
       "properties": {
         "stop_id": 869,
-        "stop_name": "bus_13.1790_80.1014",
+        "stop_name": "ORR Service Road 15",
         "transit_type": "bus",
         "shade_score": 47.3,
         "mean_ndvi": 0.2856,
@@ -17332,7 +17332,7 @@
       },
       "properties": {
         "stop_id": 870,
-        "stop_name": "bus_13.1756_80.0768",
+        "stop_name": "ORR Service Road 16",
         "transit_type": "bus",
         "shade_score": 75.0,
         "mean_ndvi": 0.3523,
@@ -17352,7 +17352,7 @@
       },
       "properties": {
         "stop_id": 871,
-        "stop_name": "bus_13.1738_80.0725",
+        "stop_name": "ORR Service Road 17",
         "transit_type": "bus",
         "shade_score": 68.6,
         "mean_ndvi": 0.335,
@@ -17372,7 +17372,7 @@
       },
       "properties": {
         "stop_id": 872,
-        "stop_name": "bus_13.1678_80.0677",
+        "stop_name": "ORR Service Road 18",
         "transit_type": "bus",
         "shade_score": 50.0,
         "mean_ndvi": 0.2987,
@@ -17392,7 +17392,7 @@
       },
       "properties": {
         "stop_id": 873,
-        "stop_name": "bus_13.1522_80.0562",
+        "stop_name": "ORR Service Road 19",
         "transit_type": "bus",
         "shade_score": 68.9,
         "mean_ndvi": 0.3387,
@@ -17412,7 +17412,7 @@
       },
       "properties": {
         "stop_id": 874,
-        "stop_name": "bus_13.1438_80.0530",
+        "stop_name": "ORR Service Road 20",
         "transit_type": "bus",
         "shade_score": 62.3,
         "mean_ndvi": 0.3153,
@@ -17432,7 +17432,7 @@
       },
       "properties": {
         "stop_id": 875,
-        "stop_name": "bus_13.1423_80.0537",
+        "stop_name": "ORR Service Road, Nemilicheri 1",
         "transit_type": "bus",
         "shade_score": 58.9,
         "mean_ndvi": 0.3106,
@@ -17452,7 +17452,7 @@
       },
       "properties": {
         "stop_id": 876,
-        "stop_name": "bus_13.1384_80.0526",
+        "stop_name": "ORR Service Road 21",
         "transit_type": "bus",
         "shade_score": 57.9,
         "mean_ndvi": 0.3174,
@@ -17472,7 +17472,7 @@
       },
       "properties": {
         "stop_id": 877,
-        "stop_name": "bus_13.1350_80.0532",
+        "stop_name": "ORR Service Road, Nemilicheri 2",
         "transit_type": "bus",
         "shade_score": 54.6,
         "mean_ndvi": 0.3113,
@@ -17492,7 +17492,7 @@
       },
       "properties": {
         "stop_id": 878,
-        "stop_name": "bus_13.1276_80.0530",
+        "stop_name": "ORR Service Road, Nemilicheri 3",
         "transit_type": "bus",
         "shade_score": 33.6,
         "mean_ndvi": 0.2705,
@@ -17512,7 +17512,7 @@
       },
       "properties": {
         "stop_id": 879,
-        "stop_name": "bus_13.1278_80.0522",
+        "stop_name": "ORR Service Road, Nemilicheri 4",
         "transit_type": "bus",
         "shade_score": 33.7,
         "mean_ndvi": 0.2708,
@@ -17532,7 +17532,7 @@
       },
       "properties": {
         "stop_id": 880,
-        "stop_name": "bus_13.1252_80.0528",
+        "stop_name": "ORR Service Road, Nemilicheri 5",
         "transit_type": "bus",
         "shade_score": 31.9,
         "mean_ndvi": 0.2677,
@@ -17552,7 +17552,7 @@
       },
       "properties": {
         "stop_id": 881,
-        "stop_name": "bus_13.1250_80.0520",
+        "stop_name": "ORR Service Road, Nemilicheri 6",
         "transit_type": "bus",
         "shade_score": 31.6,
         "mean_ndvi": 0.2673,
@@ -17592,7 +17592,7 @@
       },
       "properties": {
         "stop_id": 883,
-        "stop_name": "bus_13.1075_80.0528",
+        "stop_name": "Amudurmedu",
         "transit_type": "bus",
         "shade_score": 41.8,
         "mean_ndvi": 0.2844,
@@ -17692,7 +17692,7 @@
       },
       "properties": {
         "stop_id": 888,
-        "stop_name": "bus_13.0874_80.0593",
+        "stop_name": "ORR Service Road, Nazarathpet 1",
         "transit_type": "bus",
         "shade_score": 26.7,
         "mean_ndvi": 0.2309,
@@ -17712,7 +17712,7 @@
       },
       "properties": {
         "stop_id": 889,
-        "stop_name": "bus_13.0881_80.0576",
+        "stop_name": "ORR Service Road 22",
         "transit_type": "bus",
         "shade_score": 31.5,
         "mean_ndvi": 0.2418,
@@ -17732,7 +17732,7 @@
       },
       "properties": {
         "stop_id": 890,
-        "stop_name": "bus_13.0762_80.0673",
+        "stop_name": "ORR Service Road 23",
         "transit_type": "bus",
         "shade_score": 20.0,
         "mean_ndvi": 0.2169,
@@ -17752,7 +17752,7 @@
       },
       "properties": {
         "stop_id": 891,
-        "stop_name": "bus_13.0760_80.0683",
+        "stop_name": "ORR Service Road, Nazarathpet 2",
         "transit_type": "bus",
         "shade_score": 23.1,
         "mean_ndvi": 0.2246,
@@ -17772,7 +17772,7 @@
       },
       "properties": {
         "stop_id": 892,
-        "stop_name": "bus_13.0687_80.0720",
+        "stop_name": "ORR Service Road, Nazarathpet 3",
         "transit_type": "bus",
         "shade_score": 2.6,
         "mean_ndvi": 0.1336,
@@ -17792,7 +17792,7 @@
       },
       "properties": {
         "stop_id": 893,
-        "stop_name": "bus_13.0645_80.0756",
+        "stop_name": "ORR Service Road, Nazarathpet 4",
         "transit_type": "bus",
         "shade_score": 0.0,
         "mean_ndvi": 0.1243,
@@ -17932,7 +17932,7 @@
       },
       "properties": {
         "stop_id": 900,
-        "stop_name": "bus_13.0220_80.2262",
+        "stop_name": "Anna Salai (Mount Road) 3",
         "transit_type": "bus",
         "shade_score": 15.5,
         "mean_ndvi": 0.213,
@@ -17952,7 +17952,7 @@
       },
       "properties": {
         "stop_id": 901,
-        "stop_name": "bus_13.0195_80.2065",
+        "stop_name": "Inner Ring Road",
         "transit_type": "bus",
         "shade_score": 18.5,
         "mean_ndvi": 0.2046,
@@ -18172,7 +18172,7 @@
       },
       "properties": {
         "stop_id": 912,
-        "stop_name": "bus_13.1076_80.1867",
+        "stop_name": "East Avenue Road",
         "transit_type": "bus",
         "shade_score": 26.1,
         "mean_ndvi": 0.2447,
@@ -18192,7 +18192,7 @@
       },
       "properties": {
         "stop_id": 913,
-        "stop_name": "bus_13.1065_80.2801",
+        "stop_name": "Vijayaraghavelu Road",
         "transit_type": "bus",
         "shade_score": 30.0,
         "mean_ndvi": 0.2433,
@@ -18212,7 +18212,7 @@
       },
       "properties": {
         "stop_id": 914,
-        "stop_name": "bus_13.1113_80.2779",
+        "stop_name": "Parthasarathy Bridge",
         "transit_type": "bus",
         "shade_score": 18.5,
         "mean_ndvi": 0.2138,
@@ -19332,7 +19332,7 @@
       },
       "properties": {
         "stop_id": 970,
-        "stop_name": "bus_12.8872_80.1842",
+        "stop_name": "Ottiambakkam Road, Sithalapakkam",
         "transit_type": "bus",
         "shade_score": 35.0,
         "mean_ndvi": 0.2648,
@@ -19352,7 +19352,7 @@
       },
       "properties": {
         "stop_id": 971,
-        "stop_name": "bus_13.0740_80.2268",
+        "stop_name": "EVR Periyar Salai",
         "transit_type": "bus",
         "shade_score": 35.0,
         "mean_ndvi": 0.2504,
@@ -19372,7 +19372,7 @@
       },
       "properties": {
         "stop_id": 972,
-        "stop_name": "bus_13.0566_80.1136",
+        "stop_name": "Poonamallee",
         "transit_type": "bus",
         "shade_score": 15.0,
         "mean_ndvi": 0.1947,
@@ -19392,7 +19392,7 @@
       },
       "properties": {
         "stop_id": 973,
-        "stop_name": "bus_13.0512_80.0897",
+        "stop_name": "Golden Friends Smart City, Nazarathpet 2",
         "transit_type": "bus",
         "shade_score": 9.4,
         "mean_ndvi": 0.1654,
@@ -19512,7 +19512,7 @@
       },
       "properties": {
         "stop_id": 980,
-        "stop_name": "bus_13.1183_80.1984",
+        "stop_name": "Jawaharlal Nehru Road (100 Feet Road) 3",
         "transit_type": "bus",
         "shade_score": 12.4,
         "mean_ndvi": 0.2116,
@@ -20292,7 +20292,7 @@
       },
       "properties": {
         "stop_id": 1019,
-        "stop_name": "bus_13.1506_80.1914",
+        "stop_name": "Vanagaram - Ambathur - Puzhal Road",
         "transit_type": "bus",
         "shade_score": 23.9,
         "mean_ndvi": 0.2337,
@@ -20412,7 +20412,7 @@
       },
       "properties": {
         "stop_id": 1025,
-        "stop_name": "bus_13.0772_80.2251",
+        "stop_name": "Bus Stop, Anna Nagar",
         "transit_type": "bus",
         "shade_score": 36.2,
         "mean_ndvi": 0.2585,
@@ -20432,7 +20432,7 @@
       },
       "properties": {
         "stop_id": 1026,
-        "stop_name": "bus_13.0845_80.2199",
+        "stop_name": "Anna Nagar 2nd Avenue 1",
         "transit_type": "bus",
         "shade_score": 54.4,
         "mean_ndvi": 0.3102,
@@ -20452,7 +20452,7 @@
       },
       "properties": {
         "stop_id": 1027,
-        "stop_name": "bus_13.0847_80.2198",
+        "stop_name": "Anna Nagar 2nd Avenue 2",
         "transit_type": "bus",
         "shade_score": 54.3,
         "mean_ndvi": 0.3101,
@@ -20812,7 +20812,7 @@
       },
       "properties": {
         "stop_id": 1045,
-        "stop_name": "bus_13.1862_80.3076",
+        "stop_name": "Chennai - Ennore Road 2",
         "transit_type": "bus",
         "shade_score": 9.8,
         "mean_ndvi": 0.1894,
@@ -20932,7 +20932,7 @@
       },
       "properties": {
         "stop_id": 1051,
-        "stop_name": "bus_13.1366_80.2308",
+        "stop_name": "Grand Northern Trunk Road",
         "transit_type": "bus",
         "shade_score": 7.8,
         "mean_ndvi": 0.2081,
@@ -20952,7 +20952,7 @@
       },
       "properties": {
         "stop_id": 1052,
-        "stop_name": "bus_13.1351_80.2386",
+        "stop_name": "Madhavaram - Red Hills Road",
         "transit_type": "bus",
         "shade_score": 13.5,
         "mean_ndvi": 0.22,
@@ -20972,7 +20972,7 @@
       },
       "properties": {
         "stop_id": 1053,
-        "stop_name": "bus_13.1293_80.2414",
+        "stop_name": "Erukkenchery High Road",
         "transit_type": "bus",
         "shade_score": 7.5,
         "mean_ndvi": 0.1961,
@@ -21072,7 +21072,7 @@
       },
       "properties": {
         "stop_id": 1058,
-        "stop_name": "bus_13.2211_80.1675",
+        "stop_name": "Sholavaram",
         "transit_type": "bus",
         "shade_score": 20.5,
         "mean_ndvi": 0.2156,
@@ -21152,7 +21152,7 @@
       },
       "properties": {
         "stop_id": 1062,
-        "stop_name": "bus_13.1032_80.2077",
+        "stop_name": "Konnur High Road",
         "transit_type": "bus",
         "shade_score": 11.6,
         "mean_ndvi": 0.2041,
